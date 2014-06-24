@@ -1,12 +1,12 @@
 ---
 title: Contemporary Civilization
-date: Spring 2014
+date: Spring 2015
 university: Columbia University
 author: Dennis Tenen
 office: Philosophy Hall 408c
 contact: dt2406@columbia.edu
-time: Mon & Wed, 2:10-4pm
-location: Hamilton Hall, 302
+time: TBA 
+location: TBA
 ---
 
 ## Description
