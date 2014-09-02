@@ -20,7 +20,7 @@ When in doubt, cite! Plagiarism is insulting to your fellow students, your instr
 ## Provisional Schedule
 ```
 Week 0: Introductions
-    Reading schedule. Course tour.
+    Reading schedule. Course tour. Learning philosophy.
 ```
 
 ```
