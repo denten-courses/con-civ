@@ -23,28 +23,42 @@ Week 0: Introductions
     Reading schedule. Course tour.
 ```
 
+```
 Week 1: Plato, Republic
 
+```
+
+```
 Week 2: Republic concluded, Aristotle's Politics
 	Books I-III, VII-VIII
 
+```
+```
 Week 3: Aristotle, Nicomachean Ethics
 	Books I-II, V-X.
 
+```
+```
 Week 4: Epicurus, Cicero
 	Epicurus, “Letter to Herodotus”
     Cicero, On Moral Ends I-III
 
+```
+```
 Week 5: Cicero, Seneca
     Cicero, On Moral Ends: III-end
     Seneca, On the Shortness of Life 
 
+```
+```
 Week 6: Hebrew Bible, New Testament
     Exodus 1-24 
     Deuteronomy 1-6
     Judges 4-10
     Ecclesiastes
 
+```
+```
 Week 7: Comparative Religions
     Monday 
         Matthew 
@@ -56,12 +70,16 @@ Week 7: Comparative Religions
         Confucius, Analects (All)
         Laozi, Daodejing (Book 1, ch. 1-37)
 
+```
+```
 Week 8: Augustine, City of God 
     Monday
         Book I, Book V; Book VIII: 4-11; Book XII
     Wednesday
         Book  XIV; Book XV: 1-7, 27: Book XIX: 7-17; Book XXII: 23-24, 29-30v
 
+```
+```
 Week 9: Medieval Philosophy
     Mystical Monday
         Al-Ghazali, The Rescuer from Error
@@ -72,18 +90,28 @@ Week 9: Medieval Philosophy
         Maimonides, “The Guide of the Perplexed”
         Aquinas, “Summa of Theology”, “The Summa Against the Gentiles”; “On Kingship”
 
+```
+```
 Week 10: Machiavelli
 	Monday
         The Prince 
     Wednesday
         Discourses I:1-10, 16-18; III:1-2, 7-9, 28-30 (chapters, not page numbers)
 
+```
+```
 Week 12: Protestant Reformation 
 	Protestant Reformation, pp. 31-93 
 
+```
+```
 Week 13: Descartes
     Descartes, Meditations
 
+```
+```
 Week 14:  Materialism and Immaterialism
     Monday: Julien Offray de La Mettrie, Man a Machine (pp. 83-151)
     Wednesday:  George Berkeley, A Treatise Concerning the Principles of Human Knowledge (pp. 29-128)
+```
+```
