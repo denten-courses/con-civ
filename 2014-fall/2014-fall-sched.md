@@ -1,4 +1,4 @@
-﻿Contemporary Civilization 1101.15   
+﻿# Contemporary Civilization 1101.15   
 Fall 2014 | Columbia University  
 Dennis Tenen, Philosophy Hall 408e  
 
