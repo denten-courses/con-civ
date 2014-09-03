@@ -22,6 +22,12 @@ Dennis Tenen, Philosophy Hall 408e
 * [Forum Posts](https://github.com/denten-courses/teaching-concepts/blob/master/forum-posts.md)
 * [Slow Reading](https://github.com/denten-courses/teaching-concepts/blob/master/slow-reading.md)
 
+## Links & Resources
+* All readings not in the standard Core Box will be linked from this document directly.
+* [Class forum](https://piazza.com/class/hzlqne7c3xz173). We will use Piazza for our weekly forum.
+* [Columbia Courseworks](https://courseworks.columbia.edu/portal/site/COCIC1101_015_2014_3). Used mostly for course evaluation.
+* Grades will be linked here.
+
 ## Provisional Schedule
 ```
 Week 0: Introductions
