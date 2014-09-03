@@ -20,6 +20,7 @@ Dennis Tenen, Philosophy Hall 408e
 * [Always on Office Hours](https://github.com/denten-courses/teaching-concepts/blob/master/always-on-office-hours.md)
 * [Community Moderation](https://github.com/denten-courses/teaching-concepts/blob/master/community-moderation.md)
 * [Forum Posts](https://github.com/denten-courses/teaching-concepts/blob/master/forum-posts.md)
+* [Philosopher's Walk](https://github.com/denten-courses/teaching-concepts/blob/master/philosophers-walk.md)
 * [Slow Reading](https://github.com/denten-courses/teaching-concepts/blob/master/slow-reading.md)
 
 ## Links & Resources
