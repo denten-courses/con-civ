@@ -41,14 +41,10 @@ Week 1: Plato, Republic
 ```
 
 ```
-Week 2: Republic concluded, Aristotle's Politics
-	Books I-III, VII-VIII
-
+Week 2: Republic concluded 
 ```
 ```
-Week 3: Aristotle, Nicomachean Ethics
-	Books I-II, V-X.
-
+Week 3: Aristotle's Politics 
 ```
 ```
 Week 4: Epicurus, Cicero
