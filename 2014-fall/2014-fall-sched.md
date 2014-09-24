@@ -47,8 +47,19 @@ Week 2: Republic concluded
 Week 3: Aristotle's Politics 
 ```
 ```
+Week 4: Hebrew Bible, New Testament
+    Exodus 1-24
+    Deuteronomy 1-6
+    Judges 4-10
+    Ecclesiastes
+    Matthew
+    Romans
+    Galatians
+
+```
+```
 Week 4: Epicurus, Cicero
-	Epicurus, “Letter to Herodotus”
+    Epicurus, “Letter to Herodotus”
     Cicero, On Moral Ends I-III
 
 ```
@@ -56,14 +67,6 @@ Week 4: Epicurus, Cicero
 Week 5: Cicero, Seneca
     Cicero, On Moral Ends: III-end
     Seneca, On the Shortness of Life 
-
-```
-```
-Week 6: Hebrew Bible, New Testament
-    Exodus 1-24 
-    Deuteronomy 1-6
-    Judges 4-10
-    Ecclesiastes
 
 ```
 ```
