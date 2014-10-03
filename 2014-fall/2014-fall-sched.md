@@ -37,17 +37,18 @@ Reading schedule. Course tour. Learning philosophy.
 ### Week 2: Republic II 
 ### Week 3: Aristotle's Politics 
 ### Week 4: Hebrew Bible, New Testament
-    - Exodus 1-24
-    - Deuteronomy 1-6
-    - Judges 4-10
-    - Ecclesiastes
-    - Matthew
-    - Romans
-    - Galatians
+- Exodus 1-24
+- Deuteronomy 1-6
+- Judges 4-10
+- Ecclesiastes
+- Matthew
+- Romans
+- Galatians
     
 ### Week 5: Stoics and Epicurians
-    - Epicurus, “[Letter to Herodotus](http://www.college.columbia.edu/core/content/letter-herodotus-0)”
-    Seneca, *[On the Shortness of Life](http://www.forumromanum.org/literature/seneca_younger/brev_e.html)*
+- Epicurus, “[Letter to Herodotus](http://www.college.columbia.edu/core/content/letter-herodotus-0)”
+- Seneca, *[On the Shortness of Life](http://www.forumromanum.org/literature/seneca_younger/brev_e.html)*
+
 
 ```
 ```
