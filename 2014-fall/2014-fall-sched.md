@@ -30,53 +30,28 @@ Dennis Tenen, Philosophy Hall 408e
 * Grades will be linked here.
 
 ## Provisional Schedule
-```
-Week 0: Introductions
-    Reading schedule. Course tour. Learning philosophy.
-```
+### Week 0: Introductions
+Reading schedule. Course tour. Learning philosophy.
 
-```
-Week 1: Plato, Republic
-
-```
-
-```
-Week 2: Republic concluded 
-```
-```
-Week 3: Aristotle's Politics 
-```
-```
-Week 4: Hebrew Bible, New Testament
-    Exodus 1-24
-    Deuteronomy 1-6
-    Judges 4-10
-    Ecclesiastes
-    Matthew
-    Romans
-    Galatians
+### Week 1: Plato, Republic I
+### Week 2: Republic II 
+### Week 3: Aristotle's Politics 
+### Week 4: Hebrew Bible, New Testament
+    - Exodus 1-24
+    - Deuteronomy 1-6
+    - Judges 4-10
+    - Ecclesiastes
+    - Matthew
+    - Romans
+    - Galatians
+    
+### Week 5: Stoics and Epicurians
+    - Epicurus, “[Letter to Herodotus](http://www.college.columbia.edu/core/content/letter-herodotus-0)”
+    Seneca, *[On the Shortness of Life](http://www.forumromanum.org/literature/seneca_younger/brev_e.html)*
 
 ```
 ```
-Week 4: Epicurus, Cicero
-    Epicurus, “Letter to Herodotus”
-    Cicero, On Moral Ends I-III
-
-```
-```
-Week 5: Cicero, Seneca
-    Cicero, On Moral Ends: III-end
-    Seneca, On the Shortness of Life 
-
-```
-```
-Week 7: Comparative Religions
-    Monday 
-        Matthew 
-        Romans 
-        Galatians
-
-    Wednesday 
+Week 6: Comparative Religions
         Al-Qur'an (Suras 1, 4, 2, 12, 112, 114)
         Confucius, Analects (All)
         Laozi, Daodejing (Book 1, ch. 1-37)
