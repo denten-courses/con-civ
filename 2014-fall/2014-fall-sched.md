@@ -46,7 +46,7 @@ Reading schedule. Course tour. Learning philosophy.
 - Galatians
     
 ### Week 5: Stoics and Epicurians
-- Epicurus, “[Letter to Herodotus](http://www.college.columbia.edu/core/content/letter-herodotus-0)”
+- Epicurus, “[Letter to Herodotus](https://drive.google.com/file/d/0B4OAOue0b3VMdXBFY3dRbnlJUWM/view?usp=sharing)”
 - Seneca, *[On the Shortness of Life](http://www.forumromanum.org/literature/seneca_younger/brev_e.html)*
 
 
