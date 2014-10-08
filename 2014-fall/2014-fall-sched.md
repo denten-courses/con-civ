@@ -52,8 +52,8 @@ Reading schedule. Course tour. Learning philosophy.
 ### Week 6: Comparative Religions
 - Monday Midterm !!!
 - Al-Qur'an (Suras 1, 4, 2, 12, 112, 114)
-- Confucius, Analects (All)
-- Laozi, Daodejing (Book 1, ch. 1-37)
+- Confucius, [Analects](https://drive.google.com/file/d/0B4OAOue0b3VMX3FzN013dTNXYjg/view?usp=sharing) (All)
+- Laozi, [Daodejing](https://drive.google.com/file/d/0B4OAOue0b3VMX3FzN013dTNXYjg/view?usp=sharing) (Book 1, ch. 1-37)
 
 ### Week 7: Augustine, City of God 
 - Book I, Book V; Book VIII: 4-11; Book XII
