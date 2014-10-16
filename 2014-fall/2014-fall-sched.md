@@ -30,95 +30,57 @@ Dennis Tenen, Philosophy Hall 408e
 * Grades will be linked here.
 
 ## Provisional Schedule
-```
-Week 0: Introductions
-    Reading schedule. Course tour. Learning philosophy.
-```
+### Week 0: Introductions
+Reading schedule. Course tour. Learning philosophy.
 
-```
-Week 1: Plato, Republic
+### Week 1: Plato, Republic I
+### Week 2: Republic II 
+### Week 3: Aristotle's Politics 
+### Week 4: Hebrew Bible, New Testament
+- Exodus 1-24
+- Deuteronomy 1-6
+- Judges 4-10
+- Ecclesiastes
+- Matthew
+- Romans
+- Galatians
+    
+### Week 5: Stoics and Epicurians
+- Epicurus, “[Letter to Herodotus](https://drive.google.com/file/d/0B4OAOue0b3VMdXBFY3dRbnlJUWM/view?usp=sharing)”
+- Seneca, *[On the Shortness of Life](http://www.forumromanum.org/literature/seneca_younger/brev_e.html)*
 
-```
+### Week 6: Readings from Qur'an and Classic Chinese Philosophy
+- Monday Midterm !!!
+- Al-Qur'an (Suras 1, 4, 2, 12, 112, 114)
+- Confucius, [Analects](https://drive.google.com/file/d/0B4OAOue0b3VMX3FzN013dTNXYjg/view?usp=sharing) (All)
+- Laozi, [Daodejing](https://drive.google.com/file/d/0B4OAOue0b3VMX3FzN013dTNXYjg/view?usp=sharing) (Book 1, ch. 1-37)
 
-```
-Week 2: Republic concluded 
-```
-```
-Week 3: Aristotle's Politics 
-```
-```
-Week 4: Hebrew Bible, New Testament
-    Exodus 1-24
-    Deuteronomy 1-6
-    Judges 4-10
-    Ecclesiastes
-    Matthew
-    Romans
-    Galatians
+### Week 7: Augustine, City of God 
+- Book I, Book V; Book VIII: 4-11; Book XII
+- Book  XIV; Book XV: 1-7, 27: Book XIX: 7-17; Book XXII: 23-24, 29-30v
 
-```
-```
-Week 4: Epicurus, Cicero
-    Epicurus, “Letter to Herodotus”
-    Cicero, On Moral Ends I-III
+### Week 8: Medieval Philosophy
+- Al-Ghazali, The Rescuer from Error
+- Essential Kabbalah
+- Julian of Norwich, Revelations of Divine Love
+- Rational Wednesday
+- Averroes (Ibn Tufayl), “On the Harmony of Religion and Philosophy”’ 
+- Maimonides, “The Guide of the Perplexed”
+- Aquinas, “Summa of Theology”, “The Summa Against the Gentiles”; “On Kingship”
 
-```
-```
-Week 5: Cicero, Seneca
-    Cicero, On Moral Ends: III-end
-    Seneca, On the Shortness of Life 
+### Week 9: Machiavelli
+- The Prince 
+- Discourses I:1-10, 16-18; III:1-2, 7-9, 28-30 (chapters, not page numbers)
 
-```
-```
-Week 7: Comparative Religions
-    Monday 
-        Matthew 
-        Romans 
-        Galatians
+### Week 10: Protestant Reformation 
+- Protestant Reformation, pp. 31-93 
 
-    Wednesday 
-        Al-Qur'an (Suras 1, 4, 2, 12, 112, 114)
-        Confucius, Analects (All)
-        Laozi, Daodejing (Book 1, ch. 1-37)
-
-```
-```
-Week 8: Augustine, City of God 
-    Book V; Book VIII: 4-11; Book XII; Book  XIV; Book XV: 1-7
-
-```
-```
-Week 9: Medieval Philosophy
-    Mystical Monday
-        Al-Ghazali, The Rescuer from Error
-        Essential Kabbalah
-        Julian of Norwich, Revelations of Divine Love
-	Rational Wednesday
-        Averroes (Ibn Tufayl), “On the Harmony of Religion and Philosophy”’ 
-        Maimonides, “The Guide of the Perplexed”
-        Aquinas, “Summa of Theology”, “The Summa Against the Gentiles”; “On Kingship”
-
-```
-```
-Week 10: Machiavelli
-	Monday
-        The Prince 
-    Wednesday
-        Discourses I:1-10, 16-18; III:1-2, 7-9, 28-30 (chapters, not page numbers)
-
-```
-```
-Week 12: Protestant Reformation 
-	Protestant Reformation, pp. 31-93 
-
-```
-```
-Week 13: Descartes
+### Week 11: Descartes
     Descartes, Meditations
+    
+### Week 12: Hobbes
 
-```
-```
-Week 14:  Materialism and Immaterialism
+### Week 12:  Materialism and Immaterialism
     Monday: Julien Offray de La Mettrie, Man a Machine (pp. 83-151)
     Wednesday:  George Berkeley, A Treatise Concerning the Principles of Human Knowledge (pp. 29-128)
 ```
