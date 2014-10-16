@@ -84,10 +84,7 @@ Week 7: Comparative Religions
 ```
 ```
 Week 8: Augustine, City of God 
-    Monday
-        Book I, Book V; Book VIII: 4-11; Book XII
-    Wednesday
-        Book  XIV; Book XV: 1-7, 27: Book XIX: 7-17; Book XXII: 23-24, 29-30v
+    Book V; Book VIII: 4-11; Book XII; Book  XIV; Book XV: 1-7
 
 ```
 ```
