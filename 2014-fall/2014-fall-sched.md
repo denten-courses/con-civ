@@ -56,7 +56,7 @@ Reading schedule. Course tour. Learning philosophy.
 - Laozi, [Daodejing](https://drive.google.com/file/d/0B4OAOue0b3VMX3FzN013dTNXYjg/view?usp=sharing) (Book 1, ch. 1-37)
 
 ### Week 7: Augustine, City of God 
-- Books I, V, VIII, XII, and XIV
+- Books V, VIII, XII, and XIV
 
 ### Week 8: Medieval Philosophy
 - Al-Ghazali, The Rescuer from Error
