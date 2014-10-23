@@ -62,8 +62,8 @@ Reading schedule. Course tour. Learning philosophy.
 Mystical Monday
 - Al-Ghazali, [The Rescuer from Error](http://www.college.columbia.edu/core/system/files/text/al-Ghazali%20-%20TheRescuer%20from%20Error_0.pdf)
 - [Book V](http://books.google.com/books?id=rvY_AAAAYAAJ&printsec=frontcover&dq=Kitab+al+Khazari&hl=en&sa=X&ei=2IFJVMnuFIHmsASB5IHwDQ&ved=0CB8Q6AEwAA#v=onepage&q=Kitab%20al%20Khazari&f=false) in Judah Hallevi's in *Kitab Al Khazari*
-- Julian of Norwich, [Revelations of Divine Love](http://site.paracletepress.com/samples/exc-revelationsondivinelovei-20.pdf)
-Rational Wednesday
+- Julian of Norwich, [Revelations of Divine Love](http://site.paracletepress.com/samples/exc-revelationsondivinelovei-20.pdf)  
+Rational Wednesday  
 - Averroes (Ibn Tufayl), “On the Harmony of Religion and Philosophy”’ 
 - Maimonides, “The Guide of the Perplexed”
 - Aquinas, “Summa of Theology”, “The Summa Against the Gentiles”; “On Kingship”
