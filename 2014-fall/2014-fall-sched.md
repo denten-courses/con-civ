@@ -65,9 +65,9 @@ Mystical Monday
 - Julian of Norwich, [Revelations of Divine Love](http://site.paracletepress.com/samples/exc-revelationsondivinelovei-20.pdf)  
 
 Rational Wednesday  
-- Averroes (Ibn Tufayl), “On the Harmony of Religion and Philosophy”’ 
-- Maimonides, “The Guide of the Perplexed”
-- Aquinas, “Summa of Theology”, “The Summa Against the Gentiles”; “On Kingship”
+- Averroes (Ibn Tufayl), “[On the Harmony of Religion and Philosophy](http://www.fordham.edu/halsall/source/1190averroes.asp)” 
+- Maimonides (Rabbi Moshe ben Maimon), “[The Guide of the Perplexed](https://archive.org/details/guideforperplexe00maim)," Book III, Ch.1-11, 13, 18, 20, 31-34.
+- Aquinas, “[Summa of Theology](http://www.college.columbia.edu/core/system/files/text/On%20Kingship_0.pdf)”, “[The Summa Against the Gentiles](http://www.college.columbia.edu/core/system/files/text/%5B02%5D%20St.%20Thomas%20Aquinas%20--%20The%20Summa%20Against%20the%20Gentiles_0.pdf)”; “[On Kingship](http://www.college.columbia.edu/core/system/files/text/AquinasTreatise%20on%20Law.pdf)”
 
 ### Week 9: Machiavelli
 - The Prince 
