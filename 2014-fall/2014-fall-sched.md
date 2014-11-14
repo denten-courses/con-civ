@@ -76,12 +76,12 @@ Rational Wednesday
 ### Week 10: Protestant Reformation 
 - Protestant Reformation, pp. 31-93 
 
-### Week 11: Descartes
-    Descartes, Meditations
-    
-### Week 12: Hobbes
+### Week 11: Descartes, Conway
+- Rene Descartes, [Meditatations on First Philosophy](https://www.marxists.org/reference/archive/descartes/1639/meditations.htm) (1639).
+- Anne Conway, [The Principles of the Most Ancient and Modern Philosophy](http://www.earlymoderntexts.com/authors/conway.html) (1690).
+### Week 12: Bacon
+- Francis Bacon, [The New Atlantis](https://www.marxists.org/reference/archive/bacon/1626/new-atlantis/index.htm)
+- --, [Natural History](https://www.marxists.org/reference/archive/bacon/1607/natural-history/preface.htm)
+### Week 13: Hobbes
+Selections.
 
-### Week 12:  Materialism and Immaterialism
-    Monday: Julien Offray de La Mettrie, Man a Machine (pp. 83-151)
-    Wednesday:  George Berkeley, A Treatise Concerning the Principles of Human Knowledge (pp. 29-128)
-```
