@@ -16,7 +16,7 @@ location: TBA
 # Course Requirements and Grading
 - 25% Class participation 
 - 25% Online participation
-- 25% Community Editorship 
+- 25% Midterm 
 - 25% Final 
 
 
