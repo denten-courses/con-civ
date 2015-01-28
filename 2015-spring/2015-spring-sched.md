@@ -16,14 +16,8 @@ location: TBA
 # Course Requirements and Grading
 - 25% Class participation
 - 25% Online participation
-<<<<<<< HEAD
 - 25% Midterm
 - 25% Final
-=======
-- 25% Midterm 
-- 25% Final 
->>>>>>> c3c0dab9b3995f8381382afb0a4be7093ab3a8c6
-
 
 # University Policies
 
