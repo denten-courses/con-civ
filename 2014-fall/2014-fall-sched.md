@@ -9,8 +9,7 @@ Dennis Tenen, Philosophy Hall 408e
 “Founded in 1919 as a course on War and Peace Issues, the central purpose of Contemporary Civilization is to introduce students to a range of issues concerning the kinds of communities – political, social, moral, and religious – that human beings construct for themselves and the values that inform and define such communities; the course is intended to prepare students to become active and informed citizens. While readings in this one-year course change from time to time, the factors that lead to adoption of a text always include historical influence, the presentation of ideas of enduring importance, and the demonstrated ability of a text to provoke productive discussion.”
 
 ## Course Requirements and Grading
-* 25% [Forum posts](https://github.com/denten-courses/teaching-concepts/blob/master/forum-posts.md)
-* 25% [Community moderation](https://github.com/denten-courses/teaching-concepts/blob/master/community-moderation.md)
+* 50% Particpation ([Forum posts](https://github.com/denten-courses/teaching-concepts/blob/master/forum-posts.md), [Community moderation](https://github.com/denten-courses/teaching-concepts/blob/master/community-moderation.md), Classroom Participation)
 * 25% Midterm
 * 25% Final
 
