@@ -43,8 +43,8 @@ or ask me for help early in the writing process.
 - Voltaire, *[Candide](http://www.gutenberg.org/ebooks/19942)*
 
 **Week 6-7**: German Idealism
-- "[What is Enlightenment?](http://www.columbia.edu/acis/ets/CCREAD/etscc/kant.html)"
-- *Grounding for the Metaphysics of Morals*\*
+- Immanuel Kant, "[What is Enlightenment?](http://www.columbia.edu/acis/ets/CCREAD/etscc/kant.html)"
+- Immanuel Kant, *Grounding for the Metaphysics of Morals*\*
 - G.W.F. Hegel, *Introduction to the Philosophy of History*\*
 
 **Week 8**: Spirit of Capitalism
