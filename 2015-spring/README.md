@@ -61,7 +61,7 @@ or ask me for help early in the writing process.
 - Simone de Beauvoir, "Destiny" from *The Second Sex* (make sure you get the translation by Constance Borde)  
 Both texts should be available on [Social Text](http://www.livemargin.com/socialbook/client/reader.html#groupId=53407949e4b03d9771cfe0d7&bookId=53323b54e4b03dd4ade38bc7&mode=group&chunk=1&offset=201)  
 
-**Unit 11 Imperialism, Nationalism, Colonialism
+**Unit 11**: Imperialism, Nationalism, Colonialism
 - V.I. Lenin, "[Imperialism, the Highest Stage of Capitalism](http://www.marxists.org/archive/lenin/works/1916/imp-hsc/)"  
 - Tagore, "Nationalism in the West"
 - *[The Wretched of the Earth](http://thebaluch.com/documents/0802150837%20-%20FRANTZ%20FANON%20-%20The%20Wretched%20of%20the%20Earth.pdf)*\* by Frantz Fanon -- up to page 107 (and including the preface by Sartre)
