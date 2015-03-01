@@ -41,7 +41,6 @@ or ask me for help early in the writing process.
 **Week 4-5**: Echoes of the Revolution
 - Jean-Jacques Rousseau, *[The Social Contract](http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ftitle=638&Itemid=27#toc_list)* (Books 1-4)
 - Voltaire, *[Candide](http://www.gutenberg.org/ebooks/19942)*
-- Alexis de Tocqueville, selectons from [*Democracy in America*](http://www.gutenberg.org/ebooks/author/424): Author's Intro, Volume 1.XV, Volume 2 Second Book
 
 **Week 6-7**: German Idealism
 - "[What is Enlightenment?](http://www.columbia.edu/acis/ets/CCREAD/etscc/kant.html)"
@@ -70,4 +69,3 @@ Both texts should be available on [Social Text](http://www.livemargin.com/social
 **Unit 12**: Human Condition
 - Selections from Hannah Arendt's *Eichmann in Jerusalem*
 - "Need for Roots," by Simone Weil
-
