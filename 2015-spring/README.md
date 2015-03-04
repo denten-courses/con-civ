@@ -40,12 +40,13 @@ or ask me for help early in the writing process.
 
 **Week 4-5**: Echoes of the Revolution
 - Jean-Jacques Rousseau, *[The Social Contract](http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ftitle=638&Itemid=27#toc_list)* (Books 1-4)
-- Voltaire, *[Candide](http://www.gutenberg.org/ebooks/19942)*
+- Voltaire, *[Candide](http://www.gutenberg.org/ebooks/19942)* (NOT ON THE
+EXAM)
 
 **Week 6-7**: German Idealism
 - Immanuel Kant, "[What is Enlightenment?](http://www.columbia.edu/acis/ets/CCREAD/etscc/kant.html)"
 - Immanuel Kant, *Grounding for the Metaphysics of Morals*\*
-- G.W.F. Hegel, *Introduction to the Philosophy of History*\*
+- G.W.F. Hegel, *Introduction to the Philosophy of History*\*, Ch. 1-3
 
 **Week 8**: Spirit of Capitalism
 - Selections from *Capital*, Volume 1 in the reader.\* Part I; Part III Ch. VII; Part IV Ch. XII, XIII
