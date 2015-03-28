@@ -49,7 +49,8 @@ EXAM)
 - G.W.F. Hegel, *Introduction to the Philosophy of History*\*, Ch. 1-3
 
 **Week 8**: Spirit of Capitalism
-- Selections from *Capital*, Volume 1 in the reader.\* Part I; Part III Ch. VII; Part IV Ch. XII, XIII
+- Selections from *Capital*, Volume 1 in the reader.\* (Part I), (Part III, Ch.
+VII), (Part IV Ch. XII & Ch. XIII)
 - "[Ascetecism and the Spirit of Capitalism](http://www.marxists.org/reference/archive/weber/protestant-ethic/ch05.htm)", in the *The Protestant Ethic and the Spirit of Capitalism* by Max Weber
 
 **Week 9**:  Anarchy, Evolution
