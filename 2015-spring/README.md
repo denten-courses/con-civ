@@ -51,7 +51,9 @@ EXAM)
 **Week 8**: Spirit of Capitalism
 - Selections from *Capital*, Volume 1 in the reader.\* (Part I), (Part III, Ch.
 VII), (Part IV Ch. XII & Ch. XIII)
-- "[Ascetecism and the Spirit of Capitalism](http://www.marxists.org/reference/archive/weber/protestant-ethic/ch05.htm)", in the *The Protestant Ethic and the Spirit of Capitalism* by Max Weber
+- ~~~"[Ascetecism and the Spirit of
+Capitalism](http://www.marxists.org/reference/archive/weber/protestant-ethic/ch05.htm)",
+in the *The Protestant Ethic and the Spirit of Capitalism* by Max Weber~~~
 
 **Week 9**:  Anarchy, Evolution
 - Herbert Spencer, "[The Social Organism](http://www.econlib.org/library/LFBooks/Spencer/spnMvS9.html)"
