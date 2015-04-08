@@ -59,7 +59,9 @@ in the *The Protestant Ethic and the Spirit of Capitalism* by Max Weber~~
 - Herbert Spencer, "[The Social Organism](http://www.econlib.org/library/LFBooks/Spencer/spnMvS9.html)"
 - Ch. 7,8 from Peter Kropotkin's *[Mutual Aid](http://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/)*
 
-**Week 10**: Existentialism, Feminism ~~Friedrich Nietzsche, *On the Geneology
+**Week 10**: Existentialism, Feminism 
+
+- ~~Friedrich Nietzsche, *On the Geneology
 of Morals*~~
 - Selections from Sartre's [*Being and
 Nothingness*](https://courseworks.columbia.edu/access/content/group/COCIC1102_015_2015_1/sartre-being-nothingness.pdf): "Bad Faith," "The Look,"
