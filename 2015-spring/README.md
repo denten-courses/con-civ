@@ -59,11 +59,14 @@ in the *The Protestant Ethic and the Spirit of Capitalism* by Max Weber~~
 - Herbert Spencer, "[The Social Organism](http://www.econlib.org/library/LFBooks/Spencer/spnMvS9.html)"
 - Ch. 7,8 from Peter Kropotkin's *[Mutual Aid](http://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/)*
 
-**Week 10**: Existentialism, Feminism
-- Friedrich Nietzsche, *On the Geneology of Morals*
-- Selections from Sartre's *Being and Nothingness*: "Bad Faith," "The Look," and "Concrete Relations with Others"  
-- Simone de Beauvoir, "Destiny" from *The Second Sex* (make sure you get the translation by Constance Borde)  
-Both texts should be available on [Social Text](http://www.livemargin.com/socialbook/client/reader.html#groupId=53407949e4b03d9771cfe0d7&bookId=53323b54e4b03dd4ade38bc7&mode=group&chunk=1&offset=201)  
+**Week 10**: Existentialism, Feminism ~~Friedrich Nietzsche, *On the Geneology
+of Morals*~~
+- Selections from Sartre's [*Being and
+Nothingness*](https://courseworks.columbia.edu/access/content/group/COCIC1102_015_2015_1/sartre-being-nothingness.pdf): "Bad Faith," "The Look,"
+  and "Concrete Relations with Others"  
+- Simone de Beauvoir,
+  [Ch.4](https://www.marxists.org/reference/subject/ethics/de-beauvoir/2nd-sex/ch04.htm)
+from *The Second Sex* (make sure you get the translation by Constance Borde)  
 
 **Unit 11**: Imperialism, Nationalism, Colonialism
 - V.I. Lenin, "[Imperialism, the Highest Stage of Capitalism](http://www.marxists.org/archive/lenin/works/1916/imp-hsc/)"  
