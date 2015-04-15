@@ -71,9 +71,9 @@ Nothingness*](https://courseworks.columbia.edu/access/content/group/COCIC1102_01
 from *The Second Sex*
 
 **Unit 11**: Imperialism, Nationalism, Colonialism
-- V.I. Lenin, "[Imperialism, the Highest Stage of Capitalism](http://www.marxists.org/archive/lenin/works/1916/imp-hsc/)"  
 - Tagore, "Nationalism in the West"
 - *[The Wretched of the Earth](http://thebaluch.com/documents/0802150837%20-%20FRANTZ%20FANON%20-%20The%20Wretched%20of%20the%20Earth.pdf)*\* by Frantz Fanon -- up to page 107 (and including the preface by Sartre)
+- V.I. Lenin, "[Imperialism, the Highest Stage of Capitalism](http://www.marxists.org/archive/lenin/works/1916/imp-hsc/)" 
 
 **Unit 12**: Human Condition
 - Selections from Hannah Arendt's *Eichmann in Jerusalem*
