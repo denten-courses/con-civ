@@ -77,5 +77,8 @@ West](http://tagoreweb.in/Render/ShowContent.aspx?ct=Essays&bi=72EE92F5-BE50-40D
 - V.I. Lenin, "[Imperialism, the Highest Stage of Capitalism](http://www.marxists.org/archive/lenin/works/1916/imp-hsc/)" 
 
 **Unit 12**: Human Condition
-- Selections from Hannah Arendt's *Eichmann in Jerusalem*
-- "Need for Roots," by Simone Weil
+- Simone de Beauvoir,
+  [Ch.4](https://www.marxists.org/reference/subject/ethics/de-beauvoir/2nd-sex/ch04.htm)
+from *The Second Sex*
+- Hannah Arendt's [*Eichmann in
+  Jerusalem*](http://archives.newyorker.com/?i=1963-02-16#folio=040)
