@@ -80,5 +80,7 @@ West](http://tagoreweb.in/Render/ShowContent.aspx?ct=Essays&bi=72EE92F5-BE50-40D
 - Simone de Beauvoir,
   [Ch.4](https://www.marxists.org/reference/subject/ethics/de-beauvoir/2nd-sex/ch04.htm)
 from *The Second Sex*
+- [Race-Thinking before
+Racism](http://www.jstor.org/stable/1404080?seq=1)
 - Hannah Arendt's [*Eichmann in
   Jerusalem*](http://archives.newyorker.com/?i=1963-02-16#folio=040)
