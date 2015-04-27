@@ -76,7 +76,7 @@ West](http://tagoreweb.in/Render/ShowContent.aspx?ct=Essays&bi=72EE92F5-BE50-40D
 - *[The Wretched of the Earth](http://thebaluch.com/documents/0802150837%20-%20FRANTZ%20FANON%20-%20The%20Wretched%20of%20the%20Earth.pdf)*\* by Frantz Fanon -- up to page 107 (and including the preface by Sartre)
 - V.I. Lenin, "[Imperialism, the Highest Stage of Capitalism](http://www.marxists.org/archive/lenin/works/1916/imp-hsc/)" 
 
-**Unit 12**: Human Condition
+**Unit 12**: Human Condition<sup>†, ‡</sup>
 - Simone de Beauvoir,
   [Part 4](https://www.marxists.org/reference/subject/ethics/de-beauvoir/2nd-sex/ch04.htm)
 from *The Second Sex*
@@ -84,3 +84,9 @@ from *The Second Sex*
 Racism](http://www.jstor.org/stable/1404080?seq=1) by Hannah Arendt
 - Hannah Arendt's [*Eichmann in
   Jerusalem*](http://archives.newyorker.com/?i=1963-02-16#folio=040)
+
+<sup>†</sup> Philosopher's walk, weather-permitting on Wednesday. Bring books
+but leave your bags at home.
+<sup>‡</sup> Friday, May 1st. Core Connect soiree. 4-6pm, location TBA.
+ 
+
