@@ -86,7 +86,7 @@ Racism](http://www.jstor.org/stable/1404080?seq=1) by Hannah Arendt
   Jerusalem*](http://archives.newyorker.com/?i=1963-02-16#folio=040)
 
 <sup>†</sup> Philosopher's walk, weather-permitting on Wednesday. Bring books
-but leave your bags at home.
+but leave your bags at home.  
 <sup>‡</sup> Friday, May 1st. Core Connect soiree. 4-6pm, location TBA.
  
 
