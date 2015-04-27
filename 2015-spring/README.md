@@ -87,6 +87,4 @@ Racism](http://www.jstor.org/stable/1404080?seq=1) by Hannah Arendt
 
 <sup>†</sup> Philosopher's walk, weather-permitting on Wednesday. Bring books
 but leave your bags at home.  
-<sup>‡</sup> Friday, May 1st. Core Connect soiree. 4-6pm, location TBA.
- 
-
+<sup>‡</sup> Core Connect soiree. Friday, May 1st:  4-6pm. Location TBA.
