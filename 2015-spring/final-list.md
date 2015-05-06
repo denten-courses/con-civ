@@ -9,8 +9,8 @@ crossed out texts, as I have given a few significant concessions that should mak
 1-9](http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ftitle=222&chapter=16269&layout=html&Itemid=27))
 - David Hume, "[Of liberty and
   Necessity](http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ftitle=342&chapter=55185&layout=html&Itemid=27)"
-and "[Of
-Justice](http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ftitle=341&chapter=61990&layout=html&Itemid=27)"\*
+~~and "[Of
+Justice](http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ftitle=341&chapter=61990&layout=html&Itemid=27)"\*~~
 - Adam Smith, selections from *The Wealth of Nations*\* (Books
   [1.1-8](http://www.econlib.org/library/Smith/smWN.html))
 - John Stuart Mill, "[On Liberty](http://www.bartleby.com/130/)"\* (Ch. I-V)
@@ -30,8 +30,8 @@ Justice](http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ft
 - Ch. 7,8 from Peter Kropotkin's *[Mutual
   Aid](http://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/)*
 - Selections from Sartre's [*Being and
-Nothingness*](https://courseworks.columbia.edu/access/content/group/COCIC1102_015_2015_1/sartre-being-nothingness.pdf): "Bad Faith," "The Look,"
-  and "Concrete Relations with Others"  
+  Nothingness*](https://courseworks.columbia.edu/access/content/group/COCIC1102_015_2015_1/sartre-being-nothingness.pdf):
+"Bad Faith," "The Look," and "Concrete Relations with Others"  
 - Simone de Beauvoir,
   [Ch.4](https://www.marxists.org/reference/subject/ethics/de-beauvoir/2nd-sex/ch04.htm)
 from *The Second Sex*
@@ -43,7 +43,7 @@ by Frantz Fanon. "On Violence," pp. 1-63 in the 2004 edition (pp. 35-107 in the
 older edition linked here).
 - V.I. Lenin, "[Imperialism, the Highest Stage of
   Capitalism](http://www.marxists.org/archive/lenin/works/1916/imp-hsc/)" 
-- ~~[Race-Thinking before
-Racism](http://www.jstor.org/stable/1404080?seq=1) by Hannah Arendt~~
+- ~~[Race-Thinking before Racism](http://www.jstor.org/stable/1404080?seq=1) by
+  Hannah Arendt~~
 - Hannah Arendt's [*Eichmann in
   Jerusalem*](http://archives.newyorker.com/?i=1963-02-16#folio=040)
