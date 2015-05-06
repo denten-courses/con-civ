@@ -1,7 +1,7 @@
 # Final Exam Text List
 
 The exam is biased towards readings in the second semester. Pay attention the
-crossed out texts, as I have given a few significant concessions.
+crossed out texts, as I have given a few significant concessions that should make your life easier.
 
 - ~~~Thomas Hobbes\*, *Leviathan*. Parts I & II.~~~
 - John Locke, selections from *Two Treatises of Civil Government* (Second
