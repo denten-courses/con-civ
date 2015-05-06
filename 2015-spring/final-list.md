@@ -3,7 +3,7 @@
 The exam is biased towards readings in the second semester. Pay attention the
 crossed out texts, as I have given a few significant concessions that should make your life easier.
 
-- ~~~Thomas Hobbes\*, *Leviathan*. Parts I & II.~~~
+- ~~Thomas Hobbes\*, *Leviathan*. Parts I & II.~~
 - John Locke, selections from *Two Treatises of Civil Government* (Second
   Treatise or Book II, [Ch.
 1-9](http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ftitle=222&chapter=16269&layout=html&Itemid=27))
@@ -17,16 +17,16 @@ Justice](http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ft
 - Jean-Jacques Rousseau, *[The Social
   Contract](http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ftitle=638&Itemid=27#toc_list)*
 (Books 1-4)
-- ~~~Voltaire, *[Candide](http://www.gutenberg.org/ebooks/19942)* (NOT ON THE
-  EXAM)~~~
-- ~~~Immanuel Kant, "[What is
-  Enlightenment?](http://www.columbia.edu/acis/ets/CCREAD/etscc/kant.html)"~~~
+- ~~Voltaire, *[Candide](http://www.gutenberg.org/ebooks/19942)* (NOT ON THE
+  EXAM)~~
+- ~~Immanuel Kant, "[What is
+  Enlightenment?](http://www.columbia.edu/acis/ets/CCREAD/etscc/kant.html)"~~
 - Immanuel Kant, *Grounding for the Metaphysics of Morals*\*
 - G.W.F. Hegel, *Introduction to the Philosophy of History*\*, Ch. 1-3
 - Selections from *Capital*, Volume 1 in the reader.\* (Part I), (Part III, Ch.
   VII), (Part IV Ch. XII & Ch. XIII)
-- ~~~Herbert Spencer, "[The Social
-  Organism](http://www.econlib.org/library/LFBooks/Spencer/spnMvS9.html)"~~~
+- ~~Herbert Spencer, "[The Social
+  Organism](http://www.econlib.org/library/LFBooks/Spencer/spnMvS9.html)"~~
 - Ch. 7,8 from Peter Kropotkin's *[Mutual
   Aid](http://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/)*
 - Selections from Sartre's [*Being and
@@ -43,7 +43,7 @@ by Frantz Fanon. "On Violence," pp. 1-63 in the 2004 edition (pp. 35-107 in the
 older edition linked here).
 - V.I. Lenin, "[Imperialism, the Highest Stage of
   Capitalism](http://www.marxists.org/archive/lenin/works/1916/imp-hsc/)" 
-- ~~~[Race-Thinking before
-Racism](http://www.jstor.org/stable/1404080?seq=1) by Hannah Arendt~~~
+- ~~[Race-Thinking before
+Racism](http://www.jstor.org/stable/1404080?seq=1) by Hannah Arendt~~
 - Hannah Arendt's [*Eichmann in
   Jerusalem*](http://archives.newyorker.com/?i=1963-02-16#folio=040)
