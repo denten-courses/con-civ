@@ -7,9 +7,9 @@ crossed out texts, as I have given a few significant concessions that should mak
 - John Locke, selections from *Two Treatises of Civil Government* (Second
   Treatise or Book II, [Ch.
 1-9](http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ftitle=222&chapter=16269&layout=html&Itemid=27))
-- David Hume, "[Of liberty and
+- ~~David Hume, "[Of liberty and
   Necessity](http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ftitle=342&chapter=55185&layout=html&Itemid=27)"
-~~and "[Of
+and "[Of
 Justice](http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ftitle=341&chapter=61990&layout=html&Itemid=27)"\*~~
 - Adam Smith, selections from *The Wealth of Nations*\* (Books
   [1.1-8](http://www.econlib.org/library/Smith/smWN.html))
