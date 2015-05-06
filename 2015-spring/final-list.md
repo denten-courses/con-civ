@@ -31,7 +31,7 @@ Justice](http://oll.libertyfund.org/?option=com_staticxt&staticfile=show.php%3Ft
   Aid](http://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/)*
 - Selections from Sartre's [*Being and
   Nothingness*](https://courseworks.columbia.edu/access/content/group/COCIC1102_015_2015_1/sartre-being-nothingness.pdf):
-"Bad Faith," "The Look," and "Concrete Relations with Others"  
+"Bad Faith," ~~"The Look," and "Concrete Relations with Others"~~
 - Simone de Beauvoir,
   [Ch.4](https://www.marxists.org/reference/subject/ethics/de-beauvoir/2nd-sex/ch04.htm)
 from *The Second Sex*
