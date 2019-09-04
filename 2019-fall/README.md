@@ -1,5 +1,5 @@
-# Contemporary Civilization 1101.26   
-Fall 2016 | Columbia University  
+# Contemporary Civilization 1101.15   
+Fall 2019 | Columbia University  
 Dennis Tenen, Philosophy Hall 408e  
 
 *When?* Mon & Wed, 2:10--4pm  
@@ -19,24 +19,16 @@ the demonstrated ability of a text to provoke productive discussion.”
 
 ## Course Requirements and Grading
 
-* 25% Participation ([Forum
-posts](https://github.com/denten-courses/teaching-concepts/blob/master/forum-posts.md),
-[Community
-moderation](https://github.com/denten-courses/teaching-concepts/blob/master/community-moderation.md),
-Classroom Participation)
+* 25% Class Participation  
+* 25% Written Assignments and [Online Participation](https://piazza.com/class/k05jgl8g7v31q9)  
 * 25% Midterm  
 * 25% Final  
 
-## Course Concepts
+## Course Concepts and Policies
 
 * [Academic
 Integrity](https://github.com/denten-courses/teaching-concepts/blob/master/academic-integrity.md)
-* [Active Laptop
-Policy](https://github.com/denten-courses/teaching-concepts/blob/master/laptop-policy.md)
-* [Always on Office
-Hours](https://github.com/denten-courses/teaching-concepts/blob/master/always-on-office-hours.md)
-* [Community
-Moderation](https://github.com/denten-courses/teaching-concepts/blob/master/community-moderation.md)
+* No laptops please. Bring a paper copy of each text to class.
 * [Forum
 Posts](https://github.com/denten-courses/teaching-concepts/blob/master/forum-posts.md)
 * [Philosopher's
@@ -48,12 +40,11 @@ Reading](https://github.com/denten-courses/teaching-concepts/blob/master/slow-re
 
 * All readings not in the standard Core Box will be linked from this document
 directly.
-* [Class forum](https://piazza.com/class/istab390ivp6im). We will use Piazza
+* [Class forum](https://piazza.com/class/k05jgl8g7v31q9). We will use Piazza
 for our weekly forum.
 * [Columbia
-Courseworks](https://courseworks.columbia.edu/portal/site/COCIC1101_026_2016_3).
+Courseworks](https://courseworks2.columbia.edu/courses/83147).
 Used mostly for course evaluation.
-* Grades will be linked here.
 
 ## Provisional Schedule
 ### Week 0: Introductions
