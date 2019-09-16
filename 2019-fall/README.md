@@ -53,7 +53,11 @@ Reading schedule. Course tour. Learning philosophy.
 
 ### Week 1: Plato, Republic I
 ### Week 2: Republic II 
-### Week 3: Aristotle's Politics 
+### Week 3: Aristotle's Politics and Ethics
+
+- For Monday from *Politics* read Books IV, V, VI.
+- For Wednesday from *Ethics* read Book I: The Human Good, Book V: Justice, and Book VI: Intellectual Virtue.
+
 ### Week 4: Hebrew Bible, New Testament
 
 - Exodus 1-24
