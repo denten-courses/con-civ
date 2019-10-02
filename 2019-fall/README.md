@@ -56,20 +56,28 @@ Reading schedule. Course tour. Learning philosophy.
 ### Week 3: Aristotle's Politics 
 ### Week 4: Hebrew Bible, New Testament
 
-- Exodus 1-24
+- **Exodus 1-24**
 - Deuteronomy 1-6
 - Judges 4-10
 - Ecclesiastes
-- Matthew
+- **Matthew**
 - Romans
 - Galatians
     
 ### Week 5: Stoics and Epicurians
 
-- Epicurus, “[Letter to
-Herodotus](https://drive.google.com/file/d/0B4OAOue0b3VMdXBFY3dRbnlJUWM/view?usp=sharing)”
-- Seneca, *[On the Shortness of
-Life](http://www.forumromanum.org/literature/seneca_younger/brev_e.html)*
+- Epicurus, “[Letter to Herodotus][52]” and "[Letter to Menoeceus][51]."
+
+- Selections from the [*Handbook*][53] by Epictetus.
+
+- Read *any two letters* by Seneca in [Volume I][55] or [Volume II][54] of the Loeb. Be ready
+  to summarize for the class.
+
+[51]: https://www.college.columbia.edu/core/system/files/text/Letter%20to%20Menoeceus.pdf
+[52]: https://www.college.columbia.edu/core/system/files/text/Letter%20to%20Herodotus_0.pdf
+[53]: https://courseworks2.columbia.edu/files/5992588/download?download_frd=1
+[54]: https://archive.org/details/L076SenecaTheYoungerEpistulaeMoralesV6692
+[55]: https://archive.org/download/L075SenecaTheYoungerIVEpistulaeMoralesI140/L075-Seneca%20the%20Younger%20IV%20Epistulae%20Morales%20I%3A1-40.pdf
 
 ### Week 6: Readings from Qur'an and Classic Chinese Philosophy
 
