@@ -80,7 +80,7 @@ Reading schedule. Course tour. Learning philosophy.
 [51]: https://www.college.columbia.edu/core/system/files/text/Letter%20to%20Menoeceus.pdf
 [52]: https://www.college.columbia.edu/core/system/files/text/Letter%20to%20Herodotus_0.pdf
 [53]: https://courseworks2.columbia.edu/files/5992588/download?download_frd=1
-[54]: https://archive.org/details/L076SenecaTheYoungerEpistulaeMoralesV6692
+[54]: https://archive.org/download/L076SenecaTheYoungerEpistulaeMoralesV6692/L076-Seneca%20the%20Younger%20Epistulae%20Morales%20V%3A66-92.pdf
 [55]: https://archive.org/download/L075SenecaTheYoungerIVEpistulaeMoralesI140/L075-Seneca%20the%20Younger%20IV%20Epistulae%20Morales%20I%3A1-40.pdf
 
 ### Week 6: Readings from Qur'an and Classic Chinese Philosophy
