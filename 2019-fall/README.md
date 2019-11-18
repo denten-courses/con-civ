@@ -97,6 +97,7 @@ Reading schedule. Course tour. Learning philosophy.
 - Books V, VIII, XII, and XIV
 
 ### Week 8: Medieval Philosophy
+
 Mystical Monday
 - Al-Ghazali, [The Rescuer from
 Error](https://drive.google.com/file/d/0B4OAOue0b3VMUjZyc2lESTBQME0/view?usp=sharing)
@@ -120,13 +121,20 @@ Gentiles](https://drive.google.com/file/d/0B4OAOue0b3VMLUhReE5HREpsUk0/view?usp=
 Kingship](https://drive.google.com/file/d/0B4OAOue0b3VMYUpkVUZZNmR1OTQ/view?usp=sharing)”
 
 ### Week 9: Machiavelli
+
 - The Prince 
 - Discourses I:1-10, 16-18; III:1-2, 7-9, 28-30 (chapters, not page numbers)
 
 ### Week 10: Protestant Reformation 
+
 - Martin Luther, in *The Protestant Reformation*, pp. 31-93.
+- For Wednesday let's rewind a bit and read Introduction, Book 1 and Book 11 in [*The
+Alexiad*][91] by Anna Komnene.
+
+[91]: https://sourcebooks.fordham.edu/basis/AnnaComnena-Alexiad11.asp
 
 ### Week 11: Scientific Method
+
 - Rene Descartes, [Discourse on the Method of Rightly Conducting the Reason, and seeking Truth in the Sciences](https://www.marxists.org/reference/archive/descartes/1635/discourse-method.htm)
 (1639).
 - Francis Bacon, [New Atlantis](http://www.gutenberg.org/files/2434/2434-h/2434-h.htm)
