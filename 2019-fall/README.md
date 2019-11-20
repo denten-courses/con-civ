@@ -133,13 +133,20 @@ Alexiad*][91] by Anna Komnene.
 
 [91]: https://sourcebooks.fordham.edu/basis/AnnaComnena-Alexiad11.asp
 
-### Week 11: Scientific Method
+### Week 11: Conquest of the Americas
+
+- Council of Castile, “El Requierimento,” Nahuatl accounts of the conquest of Mexico
+(Book 12 of the Florentine Codex); 
+- Felipe Guaman Poma de Ayala, “Appeal Concerning the Priests”; 
+- Vitoria, “On the American Indians,” pp. 231-251, 264- 65, 271-272, 277-291 (all found online in the CC Reader) [1]
+
+### Week 12: Scientific Method
 
 - Rene Descartes, [Discourse on the Method of Rightly Conducting the Reason, and seeking Truth in the Sciences](https://www.marxists.org/reference/archive/descartes/1635/discourse-method.htm)
 (1639).
 - Francis Bacon, [New Atlantis](http://www.gutenberg.org/files/2434/2434-h/2434-h.htm)
 
-### Week 12: Leibniz, Conway, Spinoza
+### Week 13: Leibniz, Conway, Spinoza
 
 - Anne Conway, [The Principles of the Most Ancient and Modern Philosophy](http://www.earlymoderntexts.com/assets/pdfs/conway1692_1.pdf).
 - Leibniz, [Mondadology](http://www.earlymoderntexts.com/assets/pdfs/leibniz1714b.pdf).
