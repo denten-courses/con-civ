@@ -135,10 +135,15 @@ Alexiad*][91] by Anna Komnene.
 
 ### Week 11: Conquest of the Americas
 
-- Council of Castile, “El Requierimento,” Nahuatl accounts of the conquest of Mexico
-(Book 12 of the Florentine Codex); 
-- Felipe Guaman Poma de Ayala, “Appeal Concerning the Priests”; 
-- Vitoria, “On the American Indians,” pp. 231-251, 264- 65, 271-272, 277-291 (all found online in the CC Reader) [1]
+- Council of Castile, “El Requierimento,” Nahuatl accounts of the conquest of Mexico (Book 12
+  of the Florentine Codex)
+- Felipe Guaman Poma de Ayala, “Appeal Concerning the Priests”
+- Vitoria, “On the American Indians,” pp. 231-251, 264- 65, 271-272, 277-291 (all found online
+  in the CC Reader) [1]
+
+- Selections from [*The Conquest of America: The Question of the Other*][111] by Tzvetan Todorov. 
+
+[111]: https://courseworks2.columbia.edu/files/6523869/download?download_frd=1
 
 ### Week 12: Scientific Method
 
