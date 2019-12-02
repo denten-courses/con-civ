@@ -149,7 +149,7 @@ Alexiad*][91] by Anna Komnene.
 
 - Rene Descartes, [Discourse on the Method of Rightly Conducting the Reason, and seeking Truth in the Sciences](https://www.marxists.org/reference/archive/descartes/1635/discourse-method.htm)
 (1639).
-- Francis Bacon, [New Atlantis](http://www.gutenberg.org/files/2434/2434-h/2434-h.htm)
+- Francis Bacon, [New Atlantis](https://archive.org/download/fnewatlantis00baco/fnewatlantis00baco_bw.pdf)
 
 ### Week 13: Leibniz, Conway, Spinoza
 
