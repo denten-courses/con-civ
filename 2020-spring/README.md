@@ -114,8 +114,8 @@ discipline for further institutional action.
 
 ### Week 3
 
-- Jean-Jacques Rousseau, *Of the Social Contract, Or Principles of Political Right*, 1762: Book
-  1, Chapters 4 and 6; Book 2, Chapter 8; Book 4, Chapter 8 and 9.
+- Jean-Jacques Rousseau, *Of the Social Contract, Or Principles of Political Right*, 1762:
+  Books I and II.
 - *Discourse on the Origin and Basis of Inequality Among Men* (1754), pages 45-92.
 
 ### Week 4
