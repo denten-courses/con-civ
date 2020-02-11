@@ -194,9 +194,9 @@ History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.
 ### Week 13
 
 - Aimé Césaire, *Discours sur le colonialisme* (Discourse on Colonialism) (1950). (in CW)
-- Franz Fanon, *Les Damnés de la Terre* (The Wretched of the Earth): Chapter 5 (1961)
+- Selections form *The Origins of Totalitarianism* (1951) by Hannah Arendt.
 
 ### Week 14
 
-- Selections form *The Origins of Totalitarianism* (1951) by Hannah Arendt.
+- Franz Fanon, *Les Damnés de la Terre* (The Wretched of the Earth): Chapter 5 (1961)
 - Selections from *A Rap on Race* (1971) by Margaret Mead and James Baldwin.
