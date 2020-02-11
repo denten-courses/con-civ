@@ -120,77 +120,83 @@ discipline for further institutional action.
 
 ### Week 4
 
-- Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776): Book 1 (Chapter 1-5), Book 4 (Chapter 7, 8) & ~~Graeber selection (on
-Adam Smith)~~
+- Book 3, Chapter 4 (pages 215-240); Book 4, Chapter 3 (pages 295-312), and Book 5, Chapter 4
+  (pages 492-522) in [*The Origin and Progress of the French Revolution*][402] (1794) by Mary
+Wollstonecraft.
+- Selections in *Reflections on the Revolution in France* (1790) by Edmund Burke.
+
+[402]:https://archive.org/download/historicalmoralv00woll/historicalmoralv00woll.pdf
 
 ### Week 5
 
+- Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776): Book 1
+  (Chapter 1-5), Book 4 (Chapter 7, 8).
 - Immanuel Kant, [*Groundwork of the Metaphysics of Morals*][261] (Preface & First Section) and
-  [*Of the Different Human Races*][262]
+  [*Of the Different Human Races*][262]. ~1785.
 
 [261]: http://www.inp.uw.edu.pl/mdsie/Political_Thought/Kant%20-%20groundwork%20for%20the%20metaphysics%20of%20morals%20with%20essays.pdf
 [262]: http://isites.harvard.edu/fs/docs/icb.topic97823.files/I_/Sept_27/KANT.pdf
 
-
 ### Week 6
 
 - G. W. F. Hegel, "[The Idea of History and its
-Realization](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)"
+     Realization](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)"
 and "[The Course of World
 History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)."
-
-- Olympe de Gouges, *Déclaration des droits de la femme et de la citoyenne*
-([Declaration of Rights of Women and the Female Citizen][2131] (1791) 
+- Olympe de Gouges, *Déclaration des droits de la femme et de la citoyenne* ([Declaration of
+  Rights of Women and the Female Citizen][2131] (1791) 
 
 ### Week 7
-
-- Alexis de Tocqueville, *De la démocratie en Amérique* (Democracy in America)
-(1835-40): Vol 1: Part1: Chp 3-4; Vol 2, Part 1: Chp 1, 5, 7, 15, 20; Volume 2, Part 2, Chp
-12; Part 3: Chp 8, 9, 10, 21; Part 4, Chp: 2, 3, 4
-
-### Week 8
 
 - * John Stewart Mill, *On Liberty* (1859) and [The Petition of the East India
     Company](http://oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-xxx-writings-on-india)
 (1858) 
+- Peter Kropotkin, *Mutual Aid* (1902), Chapters 7 & 8 "[Mutual Aid Amongst
+  Ourselves](https://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/ch07.htm)"
+
+### Week 8
+
+- Karl Marx, *Das Kapital: Kritik der politischen Ökonomie* (Capital: Critique of Political
+  Economy) (1867): Vol, Part 1: Chapter 1, 2, 3. Part 2: 4, 5, 6.
+- Selections form *The Protestant Ethic and the Spirit of Capitalism* (1904) by Max Weber.
 
 ### Week 9
 
-* Herbert Spencer, [Social Organism](http://www.econlib.org/library/LFBooks/Spencer/spnMvS9.html) (1860)
-* Peter Kropotkin, *Mutual Aid*, Chapters 7 & 8 "[Mutual Aid Amongst Ourselves](https://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/ch07.htm)"
-
-### Week 10
-
-- Karl Marx, *Das Kapital: Kritik der politischen Ökonomie* (Capital: Critique of Political
-* Economy) (1867): Vol, Part 1: Chapter 1, 2, 3. Part 2: 4, 5, 6.
-
-### Week 11
-
-* Friedrich Nietzsche, *Zur Genealogie der Moral* (On the Genealogy of Morality) (1887):
-* Preface, First Essay, and "On the Uses and Disadvantages of History for Life"
-
-### Week 12
-
-- W. E. B. Du Bois, *The Souls of Black Folk* (1903): Chapter 1, 2, 3, 9, 14
-- Du Bois, "[Souls of White Folk][291]" and Tagore "[Sunset of the
-Century][292]" (1899)
+- Tagore "[Sunset of the Century][292]" (1899) and "Nationalism in the West".
+- W. E. B. Du Bois, *The Souls of Black Folk* (1903): Chapter 1, 2, 3, 9, 14.
+- Du Bois, "[Souls of White Folk][291]".
 
 [291]: https://www.gutenberg.org/files/15210/15210-h/15210-h.htm#Chapter_I://www.gutenberg.org/files/15210/15210-h/15210-h.htm#Chapter_IIe
 [292]: http://www.online-literature.com/tagore-rabindranath/4623/
 
-### Week 13
+### Week 10
 
 - Rosa Luxemburg, *Massenstreik, Partei und Gewerkschaften* (Mass Strike, The Party and the
   Trade Union” (1906) and Letters; 
+- "[The Race Problem of Modern Society][123]" (1911) by Franz Boas
 - Lenin "Imperialism" (1917) 
 - Mohandas K. Gandhi, *Hind Swaraj* (1909): Section 4, 6, 8, 9, 11, 12, 13, 16, 17
 
+[123]: https://archive.org/download/mindofprimitivem031738mbp/mindofprimitivem031738mbp.pdf
+
+### Week 11
+
+- "Afterword" in *My Further Disillusionment in Russia* by Emma Goldman (1923).
+- John Dewey, *Individualism Old and New* (1930).
+- "How It Feels To Be Colored Me" (1928) by Zora Neale Hurston. 
+
+### Week 12
+
+- Selections from Sartre's Being and Nothingness (1943): "Bad Faith," "The Look," and "Concrete
+  Relations with Others"
+- Simone de Beauvoir, "Destiny" and "Toward Liberation" from *The Second Sex* (1949).
+
+### Week 13
+
+- Aimé Césaire, *Discours sur le colonialisme* (Discourse on Colonialism) (1950). (in CW)
+- Franz Fanon, *Les Damnés de la Terre* (The Wretched of the Earth): Chapter 5 (1961)
+
 ### Week 14
 
-- Aimé Césaire, *Discours sur le colonialisme* (Discourse on Colonalism) (1950). (in CW)
-- Franz Fanon, *Les Damnés de la Terre* (The Wretched of the Earth): chapter 5 (1961)
-
-- Hannah Arendt, *Race-Thinking Before Racism*, *Race and Bureaucracy* and *The Decline of the
-- Nation-State and the End of the Rights of Man* from *Imperialism: Part Two of The Origins of
-  Totalitarianism* (1958)
-
+- Selections form *The Origins of Totalitarianism* (1951) by Hannah Arendt.
+- Selections from *A Rap on Race* (1971) by Margaret Mead and James Baldwin.
