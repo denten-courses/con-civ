@@ -123,9 +123,11 @@ discipline for further institutional action.
 - Book 3, Chapter 4 (pages 215-240); Book 4, Chapter 3 (pages 295-312), and Book 5, Chapter 4
   (pages 492-522) in [*The Origin and Progress of the French Revolution*][402] (1794) by Mary
 Wollstonecraft.
-- Selections in *Reflections on the Revolution in France* (1790) by Edmund Burke.
+- Pages 147-176, 223-230, 361-365 in [*Reflections on the Revolution in France*][401] (1790) by Edmund
+  Burke.
 
 [402]:https://archive.org/download/historicalmoralv00woll/historicalmoralv00woll.pdf
+[401]: https://oll.libertyfund.org/sources/1327-facsimile-pdf-burke-select-works-of-edmund-burke-vol-2/download
 
 ### Week 5
 
