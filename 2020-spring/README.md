@@ -156,6 +156,8 @@ History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.
 - Peter Kropotkin, *Mutual Aid* (1902), Chapters 7 & 8 "[Mutual Aid Amongst
   Ourselves](https://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/ch07.htm)"
 
+!!! Midterm on March 9th.
+
 ### Week 8
 
 - Karl Marx, *Das Kapital: Kritik der politischen Ökonomie* (Capital: Critique of Political
