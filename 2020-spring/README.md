@@ -145,8 +145,9 @@ Wollstonecraft.
      Realization](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)"
 and "[The Course of World
 History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)."
-- Olympe de Gouges, *Déclaration des droits de la femme et de la citoyenne* ([Declaration of
-  Rights of Women and the Female Citizen][2131] (1791) 
+- Olympe de Gouges, [*Declaration of Rights of Women and the Female Citizen*][602] (1791) 
+
+[602]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/j.ctt19b9jvh.24?seq=1#metadata_info_tab_contents
 
 ### Week 7
 
