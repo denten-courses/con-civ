@@ -134,10 +134,10 @@ Wollstonecraft.
 - Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776): Book 1
   (Chapter 1-5), Book 4 (Chapter 7, 8).
 - Immanuel Kant, [*Groundwork of the Metaphysics of Morals*][261] (Preface & First Section) and
-  [*Of the Different Human Races*][262]. ~1785.
+  [*Of the Different Human Races*][262] (1777, Chapter 2 in the Mikkelsen translation).
 
 [261]: http://www.inp.uw.edu.pl/mdsie/Political_Thought/Kant%20-%20groundwork%20for%20the%20metaphysics%20of%20morals%20with%20essays.pdf
-[262]: http://isites.harvard.edu/fs/docs/icb.topic97823.files/I_/Sept_27/KANT.pdf
+[262]: https://web.b.ebscohost.com/ehost/ebookviewer/ebook/ZTAyNXhuYV9fNjM4NDYyX19BTg2?sid=efd4c33f-704a-46ae-b81b-3f9e18432d77@pdc-v-sessmgr06&vid=0&format=EB&rid=1
 
 ### Week 6
 
