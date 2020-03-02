@@ -137,7 +137,7 @@ Wollstonecraft.
   [*Of the Different Human Races*][262] (1777, Chapter 2 in the Mikkelsen translation).
 
 [261]: http://www.inp.uw.edu.pl/mdsie/Political_Thought/Kant%20-%20groundwork%20for%20the%20metaphysics%20of%20morals%20with%20essays.pdf
-[262]: https://web.b.ebscohost.com/ehost/ebookviewer/ebook/ZTAyNXhuYV9fNjM4NDYyX19BTg2?sid=efd4c33f-704a-46ae-b81b-3f9e18432d77@pdc-v-sessmgr06&vid=0&format=EB&rid=1
+[262]: https://courseworks2.columbia.edu/courses/93768/files?preview=7158131
 
 ### Week 6
 
