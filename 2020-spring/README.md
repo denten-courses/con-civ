@@ -151,13 +151,13 @@ History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.
 
 ### Week 7
 
-- John Stewart Mill, *On Liberty* (1859) and [The Petition of the East India
-    Company](http://oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-xxx-writings-on-india)
-(1858) 
-- Peter Kropotkin, *Mutual Aid* (1902), Chapters 7 & 8 "[Mutual Aid Amongst
-  Ourselves](https://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/ch07.htm)"
+- Chapter I and II in John Stewart Mill, [*On Liberty*][701] (1859) ~and [The Petition of the
+  East India Company][702] (1858)~
+- Peter Kropotkin, *Mutual Aid* (1902), Chapters 7 & 8 "[Mutual Aid Amongst Ourselves][703]"
 
-!!! Midterm on March 9th.
+[701]: https://doi-org.ezproxy.cul.columbia.edu/10.1017/CBO9781139149785
+[702]: http://oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-xxx-writings-on-india
+[703]: https://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/ch07.htm
 
 ### Week 8
 
