@@ -151,7 +151,7 @@ History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.
 
 ### Week 7
 
-- Chapter I and II in John Stewart Mill, [*On Liberty*][701] (1859) ~and [The Petition of the
+- Chapter I, II, ~III~ in John Stewart Mill, [*On Liberty*][701] (1859) ~and [The Petition of the
   East India Company][702] (1858). Use [this edition][704] if Cambridge is not working for you.
 - Peter Kropotkin, *Mutual Aid* (1902), Chapters 7 & 8 "[Mutual Aid Amongst Ourselves][703]"
 
