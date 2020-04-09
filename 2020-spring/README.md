@@ -162,9 +162,8 @@ History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.
 
 ### Week 8
 
-- Karl Marx, *Das Kapital: Kritik der politischen Ökonomie* (Capital: Critique of Political
-  Economy) (1867): Vol, Part 1: Chapter 1, 2, 3. Part 2: 4, 5, 6.
-- Selections form *The Protestant Ethic and the Spirit of Capitalism* (1904) by Max Weber.
+- Karl *Capital: A Critique of Political Economy*(1867): Part I, Chapter 1 (pages 41-96).
+- ~Selections form *The Protestant Ethic and the Spirit of Capitalism* (1904) by Max Weber.~
 
 ### Week 9
 
