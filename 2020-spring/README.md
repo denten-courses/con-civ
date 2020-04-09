@@ -162,8 +162,10 @@ History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.
 
 ### Week 8
 
-- Karl *Capital: A Critique of Political Economy*(1867): Part I, Chapter 1 (pages 41-96).
+- Karl [*Capital: A Critique of Political Economy*][81] (1867): Part I, Chapter 1 (pages 41-96).
 - ~Selections form *The Protestant Ethic and the Spirit of Capitalism* (1904) by Max Weber.~
+
+[81]: https://oll.libertyfund.org/sources/1456-facsimile-pdf-small-marx-capital-a-critique-of-political-economy-volume-i-the-process-of-capitalist-production/download
 
 ### Week 9
 
