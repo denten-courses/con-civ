@@ -169,22 +169,23 @@ History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.
 
 ### Week 9
 
-- Tagore "[Sunset of the Century][292]" (1899) and "Nationalism in the West".
-- W. E. B. Du Bois, *The Souls of Black Folk* (1903): Chapter 1, 2, 3, 9, 14.
-- Du Bois, "[Souls of White Folk][291]".
+- "[The Race Problem of Modern Society][91]" (1911) by Franz Boas.
+- W. E. B. Du Bois, [*The Souls of Black Folk*][92] (1903): Chapters 1, 2, 3, 9, and 14.
 
-[291]: https://www.gutenberg.org/files/15210/15210-h/15210-h.htm#Chapter_I://www.gutenberg.org/files/15210/15210-h/15210-h.htm#Chapter_IIe
-[292]: http://www.online-literature.com/tagore-rabindranath/4623/
+[91]: https://archive.org/download/mindofprimitivem031738mbp/mindofprimitivem031738mbp.pdf
+[92]: https://archive.org/download/cu31924024920492/cu31924024920492.pdf
 
 ### Week 10
 
+- "Nationalism in the West" and "Sunset of the Century" in [*Nationalism*][1001] (1899) by
+  Rabindranath Tagore.
+- Selective reading (left to your discretion) from [*Imperialism, The Highest Form of
+  Capitalism*][1003] (1917) by V.I. Lenin.
 - Rosa Luxemburg, *Massenstreik, Partei und Gewerkschaften* (Mass Strike, The Party and the
-  Trade Union” (1906) and Letters; 
-- "[The Race Problem of Modern Society][123]" (1911) by Franz Boas
-- Lenin "Imperialism" (1917) 
-- Mohandas K. Gandhi, *Hind Swaraj* (1909): Section 4, 6, 8, 9, 11, 12, 13, 16, 17
+  Trade Union” (1906).
 
-[123]: https://archive.org/download/mindofprimitivem031738mbp/mindofprimitivem031738mbp.pdf
+[1003]: https://archive.org/download/in.ernet.dli.2015.54815/2015.54815.Imperialism-The-Highest-Stage-Of-Capitalism-A-Popular-Outline_text.pdf
+[1001]: https://archive.org/download/nationalism00tagorich/nationalism00tagorich_bw.pdf
 
 ### Week 11
 
