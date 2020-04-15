@@ -165,12 +165,13 @@ History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.
 - Karl *Capital: A Critique of Political Economy* (1867): Part I, Chapter 1 (pages
   41-96). Full text [here][81]. Smaller file (just the selection) [here][83].
 - Preface and Introduction to [*The Division of Labor in Society*][82] (1893) by Emile Durkheim,
-pages 1-48.
+pages 1-48. Smaller file [here][84].
 - ~Selections form *The Protestant Ethic and the Spirit of Capitalism* (1904) by Max Weber.~
 
 [81]: https://oll.libertyfund.org/sources/1456-facsimile-pdf-small-marx-capital-a-critique-of-political-economy-volume-i-the-process-of-capitalist-production/download
 [82]: https://archive.org/download/in.ernet.dli.2015.233884/2015.233884.The-Division_text.pdf
 [83]: https://courseworks2.columbia.edu/courses/93768/files?preview=7549650
+[84]: https://courseworks2.columbia.edu/courses/93768/files?preview=7574209
 
 ### Week 9
 
