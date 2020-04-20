@@ -175,8 +175,8 @@ pages 1-48. Smaller file [here][84].
 
 ### Week 9
 
-- "Chapter 1: Introduction" and "Chapter 13: The Race Problem in Modern Society" in *[The Race
-  Problem of Modern Society][91]* (1911) by Franz Boas.
+- "Chapter 1: Introduction" and "Chapter 13: The Race Problem in Modern Society" in *[The Mind
+of Primitive Man][91]* (1911) by Franz Boas.
 - W. E. B. Du Bois, [*The Souls of Black Folk*][92] (1903): Chapters 1, 2, 3, 9, and 14.
 
 [91]: https://archive.org/download/mindofprimitivem031738mbp/mindofprimitivem031738mbp.pdf
