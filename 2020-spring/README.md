@@ -199,7 +199,7 @@ of Primitive Man][91]* (1911) by Franz Boas.
 
 ***
 
-### Cuts 1
+### COVID19 CUTS
 
 - ~Selective reading (left to your discretion) from [*Imperialism, The Highest Form of
   Capitalism*][1003] (1917) by V.I. Lenin.~
