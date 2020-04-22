@@ -100,25 +100,25 @@ discipline for further institutional action.
 
 ## Class Schedule / Reading List
 
-### Week 0
+### Week 1
 
 - (re)Introductions, course policies, the big picture.
 
-### Week 1
+### Week 2
 
 - Thomas Hobbes, *Leviathan*, "Introduction" and "Part I: Of Man"
 
-### Week 2
+### Week 3
 
 - John Locke, *Second Treatise of Government* and "An Essay Concerning Toleration."
 
-### Week 3
+### Week 4
 
 - Jean-Jacques Rousseau, *Of the Social Contract, Or Principles of Political Right*, 1762:
   Books I and II.
 - *Discourse on the Origin and Basis of Inequality Among Men* (1754), pages 45-92.
 
-### Week 4
+### Week 5
 
 - Book 3, Chapter 4 (pages 215-240); Book 4, Chapter 3 (pages 295-312), and Book 5, Chapter 4
   (pages 492-522) in [*The Origin and Progress of the French Revolution*][402] (1794) by Mary
@@ -129,7 +129,7 @@ Wollstonecraft.
 [402]:https://archive.org/download/historicalmoralv00woll/historicalmoralv00woll.pdf
 [401]: https://oll.libertyfund.org/sources/1327-facsimile-pdf-burke-select-works-of-edmund-burke-vol-2/download
 
-### Week 5
+### Week 6
 
 - Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776): Book 1
   (Chapter 1-5), Book 4 (Chapter 7, 8).
@@ -139,7 +139,7 @@ Wollstonecraft.
 [261]: http://www.inp.uw.edu.pl/mdsie/Political_Thought/Kant%20-%20groundwork%20for%20the%20metaphysics%20of%20morals%20with%20essays.pdf
 [262]: https://courseworks2.columbia.edu/courses/93768/files?preview=7158131
 
-### Week 6
+### Week 7
 
 - G. W. F. Hegel, "[The Idea of History and its
      Realization](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)"
@@ -149,7 +149,7 @@ History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.
 
 [602]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/j.ctt19b9jvh.24?seq=1#metadata_info_tab_contents
 
-### Week 7
+### Week 8
 
 - Chapter I, II, ~III~ in John Stewart Mill, [*On Liberty*][701] (1859) ~and [The Petition of the
   East India Company][702] (1858). Use [this edition][704] if Cambridge is not working for you.
@@ -160,7 +160,7 @@ History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.
 [703]: https://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/ch07.htm
 [704]: https://courseworks2.columbia.edu/courses/93768/files?preview=7478777
 
-### Week 8
+### Week 9
 
 - Karl *Capital: A Critique of Political Economy* (1867): Part I, Chapter 1 (pages
   41-96). Full text [here][81]. Smaller file (just the selection) [here][83].
@@ -173,7 +173,7 @@ pages 1-48. Smaller file [here][84].
 [83]: https://courseworks2.columbia.edu/courses/93768/files?preview=7549650
 [84]: https://courseworks2.columbia.edu/courses/93768/files?preview=7574209
 
-### Week 9
+### Week 10
 
 - "Chapter 1: Introduction" and "Chapter 13: The Race Problem in Modern Society" in *[The Mind
 of Primitive Man][91]* (1911) by Franz Boas.
@@ -182,36 +182,33 @@ of Primitive Man][91]* (1911) by Franz Boas.
 [91]: https://archive.org/download/mindofprimitivem031738mbp/mindofprimitivem031738mbp.pdf
 [92]: https://archive.org/download/cu31924024920492/cu31924024920492.pdf
 
-### Week 10
-
-- "Nationalism in the West" and "Sunset of the Century" in [*Nationalism*][1001] (1899) by
-  Rabindranath Tagore.
-- Selective reading (left to your discretion) from [*Imperialism, The Highest Form of
-  Capitalism*][1003] (1917) by V.I. Lenin.
-- Rosa Luxemburg, *Massenstreik, Partei und Gewerkschaften* (Mass Strike, The Party and the
-  Trade Union” (1906).
-
-[1003]: https://archive.org/download/in.ernet.dli.2015.54815/2015.54815.Imperialism-The-Highest-Stage-Of-Capitalism-A-Popular-Outline_text.pdf
-[1001]: https://archive.org/download/nationalism00tagorich/nationalism00tagorich_bw.pdf
 
 ### Week 11
 
-- "Afterword" in *My Further Disillusionment in Russia* by Emma Goldman (1923).
+- "Nationalism in the West" and "Sunset of the Century" in [*Nationalism*][1001] (1899) by
+  Rabindranath Tagore.
+- "How It Feels To Be Colored Me" (1928) by Zora Neale Hurston.
 - John Dewey, *Individualism Old and New* (1930).
-- "How It Feels To Be Colored Me" (1928) by Zora Neale Hurston. 
+- ~Aimé Césaire, *Discours sur le colonialisme* (Discourse on Colonialism) (1950). (in CW)~
 
 ### Week 12
 
-- Selections from Sartre's Being and Nothingness (1943): "Bad Faith," "The Look," and "Concrete
-  Relations with Others"
-- Simone de Beauvoir, "Destiny" and "Toward Liberation" from *The Second Sex* (1949).
-
-### Week 13
-
-- Aimé Césaire, *Discours sur le colonialisme* (Discourse on Colonialism) (1950). (in CW)
 - Selections form *The Origins of Totalitarianism* (1951) by Hannah Arendt.
-
-### Week 14
-
-- Franz Fanon, *Les Damnés de la Terre* (The Wretched of the Earth): Chapter 5 (1961)
+- Chapter 5 in *The Wretched of the Earth* (1961).
 - Selections from *A Rap on Race* (1971) by Margaret Mead and James Baldwin.
+
+***
+
+### Cuts 1
+
+- ~Selective reading (left to your discretion) from [*Imperialism, The Highest Form of
+  Capitalism*][1003] (1917) by V.I. Lenin.~
+- ~Rosa Luxemburg, *Massenstreik, Partei und Gewerkschaften* (Mass Strike, The Party and the
+  Trade Union” (1906).~
+- ~"Afterword" in *My Further Disillusionment in Russia* by Emma Goldman (1923).~
+- ~Selections from Sartre's Being and Nothingness (1943): "Bad Faith," "The Look," and "Concrete
+  Relations with Others"~
+- ~Simone de Beauvoir, "Destiny" and "Toward Liberation" from *The Second Sex* (1949).~
+
+[1003]: https://archive.org/download/in.ernet.dli.2015.54815/2015.54815.Imperialism-The-Highest-Stage-Of-Capitalism-A-Popular-Outline_text.pdf
+[1001]: https://archive.org/download/nationalism00tagorich/nationalism00tagorich_bw.pdf
