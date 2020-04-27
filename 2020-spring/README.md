@@ -192,7 +192,7 @@ of Primitive Man][91]* (1911) by Franz Boas.
 - ~Aimé Césaire, *Discours sur le colonialisme* (Discourse on Colonialism) (1950). (in CW)~
 
 [1101]: https://archive.org/download/nationalism00tagorich/nationalism00tagorich_bw.pdf
-[1102]: https://courseworks2.columbia.edu/courses/93768/files?preview=7691317
+[1102]: https://courseworks2.columbia.edu/files/7692254/download?download_frd=1
 [1103]: https://courseworks2.columbia.edu/files/7691393/download?download_frd=1
 
 ### Week 12
