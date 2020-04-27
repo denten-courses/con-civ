@@ -185,17 +185,25 @@ of Primitive Man][91]* (1911) by Franz Boas.
 
 ### Week 11
 
-- "Nationalism in the West" and "Sunset of the Century" in [*Nationalism*][1001] (1899) by
+- "Nationalism in the West" and "Sunset of the Century" in [*Nationalism*][1101] (1899) by
   Rabindranath Tagore.
-- "How It Feels To Be Colored Me" (1928) by Zora Neale Hurston.
-- John Dewey, *Individualism Old and New* (1930).
+- "[How It Feels To Be Colored Me][1102]" (1928) by Zora Neale Hurston.
+- Chapter 1, 3, 5, and 8 in [*Individualism Old and New*][1103] (1930) by John Dewey.
 - ~Aimé Césaire, *Discours sur le colonialisme* (Discourse on Colonialism) (1950). (in CW)~
+
+[1101]: https://archive.org/download/nationalism00tagorich/nationalism00tagorich_bw.pdf
+[1102]: https://courseworks2.columbia.edu/courses/93768/files?preview=7691317
+[1103]: https://courseworks2.columbia.edu/files/7691393/download?download_frd=1
 
 ### Week 12
 
-- Selections form *The Origins of Totalitarianism* (1951) by Hannah Arendt.
-- Chapter 5 in *The Wretched of the Earth* (1961).
-- Selections from *A Rap on Race* (1971) by Margaret Mead and James Baldwin.
+- Chapters 5, 6, and 9 from [*The Origins of Totalitarianism*][1201] (1951) by Hannah Arendt.
+- Preface by Jean-Paul Sartre and "Concerning Violence" in [*The Wretched of the Earth*][1202] (1961).
+- Explore [*A Rap on Race*][1203] (1971) by Margaret Mead and James Baldwin.
+
+[1201]: https://courseworks2.columbia.edu/files/7691594/download?download_frd=1
+[1202]: https://courseworks2.columbia.edu/files/7691597/download?download_frd=1
+[1203]: https://courseworks2.columbia.edu/courses/93768/files?preview=7691600
 
 ***
 
@@ -211,4 +219,3 @@ of Primitive Man][91]* (1911) by Franz Boas.
 - ~Simone de Beauvoir, "Destiny" and "Toward Liberation" from *The Second Sex* (1949).~
 
 [1003]: https://archive.org/download/in.ernet.dli.2015.54815/2015.54815.Imperialism-The-Highest-Stage-Of-Capitalism-A-Popular-Outline_text.pdf
-[1001]: https://archive.org/download/nationalism00tagorich/nationalism00tagorich_bw.pdf
