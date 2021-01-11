@@ -1,7 +1,7 @@
 ---
 title: Contemporary Civilization
 date: Spring 2021
-instructor: Dennis Tenen
+instructor: Dennis Yi Tenen
 contact: dt2406@columbia.edu
 section number: COCIC1102-018
 time: M&W 2:10-4:00pm
