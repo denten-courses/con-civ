@@ -80,7 +80,7 @@ absence.
 
 ### Plagiarism and Academic Dishonesty
 
- Columbia College is dedicated to the highest ideals of integrity in academia.  Therefore, in
+Columbia College is dedicated to the highest ideals of integrity in academia.  Therefore, in
 Literature Humanities and Contemporary Civilization, any instance of academic dishonesty,
 attempted or actual, will be reported to the faculty chair of the course and to the dean of the
 Core Curriculum, who will review the case with the expectation that a student guilty of
@@ -89,10 +89,14 @@ discipline for further institutional action.
 
 ## Class Schedule / Reading List
 
-### Week 1
+### Week 0
 
 - (re)Introductions, course policies, the big picture.
-- Thomas Hobbes, *Leviathan*, "Introduction" and "Part I: Of Man"
+- Review of the last semester.
+
+### Week 1
+
+- Thomas Hobbes, *Leviathan*, "Introduction" and "Part I: Of Man."
 
 ### Week 2
 
