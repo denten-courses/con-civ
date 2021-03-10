@@ -5,7 +5,7 @@ instructor: Dennis Yi Tenen
 contact: dt2406@columbia.edu
 section number: COCIC1102-018
 time: M&W 2:10-4:00pm
-location: Zoom / Hybrid
+location: Zoom / 411 Hamilton Hall
 
 ---
 
