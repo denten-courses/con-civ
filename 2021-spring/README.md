@@ -164,10 +164,12 @@ History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.
 ### Week 9
 
 - W. E. B. Du Bois, [*The Souls of Black Folk*][92] (1903): Chapters 1, 2, 3, 9, and 14.
+- Chapters 1 and IV from [*The Public and its Problems*][94] (1927), by John Dewey.
 
 [91]: https://archive.org/download/mindofprimitivem031738mbp/mindofprimitivem031738mbp.pdf
 [92]: https://archive.org/download/cu31924024920492/cu31924024920492.pdf
 [93]: https://courseworks2.columbia.edu/courses/122416/files 
+[94]: https://archive.org/download/in.ernet.dli.2015.190550/2015.190550.The-Public-And-Its-Problemms_text.pdf
 
 
 ### Week 10
@@ -186,7 +188,7 @@ History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.
 
 - Chapters 5, 6, and 9 from [*The Origins of Totalitarianism*][1201] (1951) by Hannah Arendt.
 - Preface by Jean-Paul Sartre and "Concerning Violence" in [*The Wretched of the Earth*][1202]
-  (1961).
+  (1961) by Fanon.
 
 [1201]: https://courseworks2.columbia.edu/files/7691594/download?download_frd=1
 [1202]: https://courseworks2.columbia.edu/files/7691597/download?download_frd=1
