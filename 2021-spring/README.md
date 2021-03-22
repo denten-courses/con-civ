@@ -131,11 +131,11 @@ Wollstonecraft.
 
 ### Week 6
 
+- Olympe de Gouges, [*Declaration of Rights of Women and the Female Citizen*][602] (1791) 
 - G. W. F. Hegel, "[The Idea of History and its
      Realization](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)"
 and "[The Course of World
 History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)."
-- Olympe de Gouges, [*Declaration of Rights of Women and the Female Citizen*][602] (1791) 
 
 [602]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/j.ctt19b9jvh.24?seq=1#metadata_info_tab_contents
 
@@ -143,7 +143,6 @@ History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.
 
 - Chapter I, II, ~III~ in John Stewart Mill, [*On Liberty*][701] (1859) ~and [The Petition of the
   East India Company][702] (1858). Use [this edition][704] if Cambridge is not working for you.
-- Peter Kropotkin, *Mutual Aid* (1902), Chapters 7 & 8 "[Mutual Aid Amongst Ourselves][703]"
 
 [701]: https://doi-org.ezproxy.cul.columbia.edu/10.1017/CBO9781139149785
 [702]: http://oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-xxx-writings-on-india
@@ -152,11 +151,10 @@ History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.
 
 ### Week 8
 
-- Karl *Capital: A Critique of Political Economy* (1867): Part I, Chapter 1 (pages
+- Karl Marx, *Capital: A Critique of Political Economy* (1867): Part I, Chapter 1 (pages
   41-96). Full text [here][81]. Smaller file (just the selection) [here][83].
-- Preface and Introduction to [*The Division of Labor in Society*][82] (1893) by Emile Durkheim,
-pages 1-48. Smaller file [here][84].
-- ~Selections form *The Protestant Ethic and the Spirit of Capitalism* (1904) by Max Weber.~
+- Selective reading (left to your discretion) from [*Imperialism, The Highest Form of
+  Capitalism*][1003] (1917) by V.I. Lenin.
 
 [81]: https://oll.libertyfund.org/sources/1456-facsimile-pdf-small-marx-capital-a-critique-of-political-economy-volume-i-the-process-of-capitalist-production/download
 [82]: https://archive.org/download/in.ernet.dli.2015.233884/2015.233884.The-Division_text.pdf
@@ -165,21 +163,20 @@ pages 1-48. Smaller file [here][84].
 
 ### Week 9
 
-- "Chapter 1: Introduction" and "Chapter 13: The Race Problem in Modern Society" in *[The Mind
-of Primitive Man][91]* (1911) by Franz Boas.
 - W. E. B. Du Bois, [*The Souls of Black Folk*][92] (1903): Chapters 1, 2, 3, 9, and 14.
 
 [91]: https://archive.org/download/mindofprimitivem031738mbp/mindofprimitivem031738mbp.pdf
 [92]: https://archive.org/download/cu31924024920492/cu31924024920492.pdf
+[93]: https://courseworks2.columbia.edu/courses/122416/files 
 
 
 ### Week 10
 
-- "Nationalism in the West" and "Sunset of the Century" in [*Nationalism*][1101] (1899) by
-  Rabindranath Tagore.
-- "[How It Feels To Be Colored Me][1102]" (1928) by Zora Neale Hurston.
-- Chapter 1, 3, 5, and 8 in [*Individualism Old and New*][1103] (1930) by John Dewey.
-- ~Aimé Césaire, *Discours sur le colonialisme* (Discourse on Colonialism) (1950). (in CW)~
+- Alain LeRoy Locke, "Pluralism and Intellectual Democracy” (1942) and Cultural Relativism and
+  Ideological Peace” (1944) both found on [CourseWorks][93].
+- Simone de Beauvoir, from *Second Sex* (1949): Chapter 3: Historical Materialism, Chapter 10:
+  Woman's Situation and Character, Chapter 14: The Independent Woman, and Conclusion.
+
 
 [1101]: https://archive.org/download/nationalism00tagorich/nationalism00tagorich_bw.pdf
 [1102]: https://courseworks2.columbia.edu/files/7692254/download?download_frd=1
@@ -188,8 +185,8 @@ of Primitive Man][91]* (1911) by Franz Boas.
 ### Week 11
 
 - Chapters 5, 6, and 9 from [*The Origins of Totalitarianism*][1201] (1951) by Hannah Arendt.
-- Preface by Jean-Paul Sartre and "Concerning Violence" in [*The Wretched of the Earth*][1202] (1961).
-- Explore [*A Rap on Race*][1203] (1971) by Margaret Mead and James Baldwin.
+- Preface by Jean-Paul Sartre and "Concerning Violence" in [*The Wretched of the Earth*][1202]
+  (1961).
 
 [1201]: https://courseworks2.columbia.edu/files/7691594/download?download_frd=1
 [1202]: https://courseworks2.columbia.edu/files/7691597/download?download_frd=1
@@ -199,8 +196,6 @@ of Primitive Man][91]* (1911) by Franz Boas.
 
 ### Past Readings
 
-- ~Selective reading (left to your discretion) from [*Imperialism, The Highest Form of
-  Capitalism*][1003] (1917) by V.I. Lenin.~
 - ~Rosa Luxemburg, *Massenstreik, Partei und Gewerkschaften* (Mass Strike, The Party and the
   Trade Union” (1906).~
 - ~"Afterword" in *My Further Disillusionment in Russia* by Emma Goldman (1923).~
