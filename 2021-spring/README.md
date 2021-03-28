@@ -153,11 +153,12 @@ History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.
 ### Week 8
 
 - Karl Marx, *Capital: A Critique of Political Economy* (1867): Part I, Chapter 1 (pages
-  41-96). Full text [here][81]. Smaller file (just the selection) [here][83].
+  41-96). I prefer you use the paper copy, but in case you don't have it the full text and the
+selection are [here][81].
 - Selective reading (left to your discretion) from [*Imperialism, The Highest Form of
   Capitalism*][1003] (1917) by V.I. Lenin.
 
-[81]: https://oll.libertyfund.org/sources/1456-facsimile-pdf-small-marx-capital-a-critique-of-political-economy-volume-i-the-process-of-capitalist-production/download
+[81]: https://drive.google.com/drive/folders/1h0SPClwWiPkzu1OXOP4UwnlroW6_TAP9?usp=sharing
 [82]: https://archive.org/download/in.ernet.dli.2015.233884/2015.233884.The-Division_text.pdf
 [83]: https://courseworks2.columbia.edu/courses/93768/files?preview=7549650
 [84]: https://courseworks2.columbia.edu/courses/93768/files?preview=7574209
