@@ -165,14 +165,15 @@ selection are [here][81].
 
 ### Week 9
 
-- W. E. B. Du Bois, [*The Souls of Black Folk*][92] (1903): Chapters 1, 2, 3, 9, and 14.
+- W. E. B. Du Bois, [*The Souls of Black Folk*][92] (1903): Chapters 1, 2, 3, 9, and 14 + "[The
+Souls of White Folk][95]"
 - Chapters 1 and IV from [*The Public and its Problems*][94] (1927), by John Dewey.
 
 [91]: https://archive.org/download/mindofprimitivem031738mbp/mindofprimitivem031738mbp.pdf
 [92]: https://archive.org/download/cu31924024920492/cu31924024920492.pdf
 [93]: https://courseworks2.columbia.edu/courses/122416/files 
 [94]: https://archive.org/download/in.ernet.dli.2015.190550/2015.190550.The-Public-And-Its-Problemms_text.pdf
-
+[95]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjai7en9OfvAhU1MlkFHVHRBk8QFjAAegQIAxAD&url=http%3A%2F%2Fwww.loa.org%2Fimages%2Fpdf%2FDu_Bois_White_Folk.pdf&usg=AOvVaw2Eq4esYzDBZHazJ6gr07eQ
 
 ### Week 10
 
