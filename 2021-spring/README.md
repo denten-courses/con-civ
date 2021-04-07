@@ -167,7 +167,7 @@ selection are [here][81].
 
 - W. E. B. Du Bois, [*The Souls of Black Folk*][92] (1903): Chapters 1, 2, 3, 9, and 14 + "[The
 Souls of White Folk][95]"
-- Chapters 1 and IV from [*The Public and its Problems*][94] (1927), by John Dewey.
+- Chapters I and IV from [*The Public and its Problems*][94] (1927), by John Dewey.
 
 [91]: https://archive.org/download/mindofprimitivem031738mbp/mindofprimitivem031738mbp.pdf
 [92]: https://archive.org/download/cu31924024920492/cu31924024920492.pdf
