@@ -179,13 +179,14 @@ Souls of White Folk][95]"
 
 - Alain LeRoy Locke, "Pluralism and Intellectual Democracy” (1942) and Cultural Relativism and
   Ideological Peace” (1944) both found on [CourseWorks][93].
-- Simone de Beauvoir, from *Second Sex* (1949): Chapter 3: Historical Materialism, Chapter 10:
+- Simone de Beauvoir, from [*Second Sex*][1104] (1949): Chapter 3: Historical Materialism, Chapter 10:
   Woman's Situation and Character, Chapter 14: The Independent Woman, and Conclusion.
 
 
 [1101]: https://archive.org/download/nationalism00tagorich/nationalism00tagorich_bw.pdf
 [1102]: https://courseworks2.columbia.edu/files/7692254/download?download_frd=1
 [1103]: https://courseworks2.columbia.edu/files/7691393/download?download_frd=1
+[1104]: https://courseworks2.columbia.edu/courses/122416/files?preview=10924286
 
 ### Week 11
 
