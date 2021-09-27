@@ -55,7 +55,7 @@ Reading schedule. Course tour.
 
 ### Week 3: Aristotle's Politics and Ethics
 
-- For Monday, finish Plato's Republic
+- For Monday, finish Plato's Republic (at least through Book VII).
 - For Wednesday, read Books II and V in Aristotle's Ethics and Books II, III, V from the
   *Politics*.
 
