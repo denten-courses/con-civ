@@ -61,18 +61,14 @@ Reading schedule. Course tour.
 
 ### Week 4: Hebrew Bible, New Testament
 
-- Genesis (review), Exodus, Deuteronomy
 - Matthew, Luke
+- Genesis (review), Exodus, Deuteronomy
 
 ### Week 5: Readings from Qur'an and Classic Chinese Philosophy
 
-- Al-Qur'an (Suras 1, 4, 2, 12, 112, 114)
-- Confucius,
-[Analects](https://drive.google.com/file/d/0B4OAOue0b3VMX3FzN013dTNXYjg/view?usp=sharing)
-(All)
-- Laozi,
-[Daodejing](https://drive.google.com/file/d/0B4OAOue0b3VMX3FzN013dTNXYjg/view?usp=sharing)
-(Book 1, ch. 1-37)
+- Finish Matthew, Luke
+- ~~Al-Qur'an (Suras 1, 4, 2, 12, 112, 114)~~
+- From [*Readings in Classical Chinese Philosophy*](https://drive.google.com/file/d/16YFSgWvMf5ilNrdg65CcZj65V1r6mr_T/view?usp=sharing) read "The Analects" by Kongzi (pages 1--60) and Daodejing by Laozi, (Book 1, ch. 1-37).
 
 ### Week 6: Augustine, City of God 
 - Books V, VIII, XII, and XIV
