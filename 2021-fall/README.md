@@ -75,9 +75,9 @@ Reading schedule. Course tour.
 
 ### Week 7: Medieval Philosophy
 
-- Christine de Pizan, *The Book of Body Politic*
-- Al Farabi, *The Perfect City-State*
-- Aquinas, *Law, Morality, and Politics*
+- Christine de Pizan, *The Book of Body Politic* (pages 1-111).
+- Selectoins from Al Farabi's *The Perfect City-State* in the [CC Reader](https://www.college.columbia.edu/core/conciv/ccreader). 
+- "The Son of Consciousness" (Hayy Ibn Yaqzān) by Ibn Tufayl in the [CC Reader](https://www.college.columbia.edu/core/conciv/ccreader).
 
 ### Week 8: Machiavelli
 
