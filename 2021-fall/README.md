@@ -86,10 +86,16 @@ Reading schedule. Course tour.
 
 ### Week 9: Protestant Reformation
 
-- Martin Luther, in *The Protestant Reformation*, pp. 31-93.  [91]:
-  https://sourcebooks.fordham.edu/basis/AnnaComnena-Alexiad11.asp
-- Selections from Weber's *The Protestant Ethic and the Spirit of Capitalism*
+- Finish Discourses I:1-10, 16-18; III:1-2, 7-9, 28-30 (chapters, not page numbers)
+- Martin Luther, in *The Protestant Reformation*, pp. 31-93.
 
+### Week 10
+
+- Rene Descartes, [Discourse on the Method of Rightly Conducting the Reason, and seeking Truth in the Sciences](https://www.marxists.org/reference/archive/descartes/1635/discourse-method.htm)
+(1639).
+
+
+## Moved to the Next Semester
 ### Week 10: Conquest of the Americas
 
 - Council of Castile, “El Requierimento,” Nahuatl accounts of the conquest of Mexico (Book 12
@@ -103,8 +109,7 @@ Townsend.
 
 ### Week 11: Scientific Method
 
-- Rene Descartes, [Discourse on the Method of Rightly Conducting the Reason, and seeking Truth in the Sciences](https://www.marxists.org/reference/archive/descartes/1635/discourse-method.htm)
-(1639).
+
 - Francis Bacon, [New Atlantis](http://www.gutenberg.org/files/2434/2434-h/2434-h.htm)
 
 ### Week 12: Hobbes
