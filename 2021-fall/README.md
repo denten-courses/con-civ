@@ -87,7 +87,9 @@ Reading schedule. Course tour.
 ### Week 9: Protestant Reformation
 
 - Finish Discourses I:1-10, 16-18; III:1-2, 7-9, 28-30 (chapters, not page numbers)
-- Martin Luther, in *The Protestant Reformation*, pp. 31-93.
+- Martin Luther: "Concerning Governmental Authority," "The Twelve Articles of the Swabian Peasants," and "Friendly Admonition to Peace Concerning Twelve Articles" in the [CC Reader](https://www.college.columbia.edu/core/conciv/ccreader).
+
+
 
 ### Week 10
 
