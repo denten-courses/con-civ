@@ -87,7 +87,7 @@ Reading schedule. Course tour.
 ### Week 9: Protestant Reformation
 
 - Finish Discourses I:1-10, 16-18; III:1-2, 7-9, 28-30 (chapters, not page numbers)
-- Martin Luther: "Concerning Governmental Authority," "The Twelve Articles of the Swabian Peasants," and "Friendly Admonition to Peace Concerning Twelve Articles" in the [CC Reader](https://www.college.columbia.edu/core/conciv/ccreader).
+- Martin Luther: "The Freedom of a Christian" (link [here](https://drive.google.com/drive/u/2/folders/1h0SPClwWiPkzu1OXOP4UwnlroW6_TAP9)), "Concerning Governmental Authority," "The Twelve Articles of the Swabian Peasants," and "Friendly Admonition to Peace Concerning Twelve Articles" in the [CC Reader](https://www.college.columbia.edu/core/conciv/ccreader).
 
 
 
