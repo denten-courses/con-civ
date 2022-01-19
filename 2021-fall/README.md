@@ -61,27 +61,23 @@ Reading schedule. Course tour.
 
 ### Week 4: Hebrew Bible, New Testament
 
-- Genesis (review), Exodus, Deuteronomy
 - Matthew, Luke
+- Genesis (review), Exodus, Deuteronomy
 
 ### Week 5: Readings from Qur'an and Classic Chinese Philosophy
 
-- Al-Qur'an (Suras 1, 4, 2, 12, 112, 114)
-- Confucius,
-[Analects](https://drive.google.com/file/d/0B4OAOue0b3VMX3FzN013dTNXYjg/view?usp=sharing)
-(All)
-- Laozi,
-[Daodejing](https://drive.google.com/file/d/0B4OAOue0b3VMX3FzN013dTNXYjg/view?usp=sharing)
-(Book 1, ch. 1-37)
+- Finish Matthew, Luke
+- ~~Al-Qur'an (Suras 1, 4, 2, 12, 112, 114)~~
+- From [*Readings in Classical Chinese Philosophy*](https://drive.google.com/file/d/16YFSgWvMf5ilNrdg65CcZj65V1r6mr_T/view?usp=sharing) read "The Analects" by Kongzi (pages 1--60) and Daodejing by Laozi, (Book 1, ch. 1-37).
 
 ### Week 6: Augustine, City of God 
 - Books V, VIII, XII, and XIV
 
 ### Week 7: Medieval Philosophy
 
-- Christine de Pizan, *The Book of Body Politic*
-- Al Farabi, *The Perfect City-State*
-- Aquinas, *Law, Morality, and Politics*
+- Christine de Pizan, *The Book of Body Politic* (pages 1-111).
+- Selections from Al Farabi's *The Perfect City-State* in the [CC Reader](https://www.college.columbia.edu/core/conciv/ccreader). 
+- "The Son of Consciousness" (Hayy Ibn Yaqzān) by Ibn Tufayl in the [CC Reader](https://www.college.columbia.edu/core/conciv/ccreader).
 
 ### Week 8: Machiavelli
 
@@ -90,10 +86,18 @@ Reading schedule. Course tour.
 
 ### Week 9: Protestant Reformation
 
-- Martin Luther, in *The Protestant Reformation*, pp. 31-93.  [91]:
-  https://sourcebooks.fordham.edu/basis/AnnaComnena-Alexiad11.asp
-- Selections from Weber's *The Protestant Ethic and the Spirit of Capitalism*
+- Finish Discourses I:1-10, 16-18; III:1-2, 7-9, 28-30 (chapters, not page numbers)
+- Martin Luther: "The Freedom of a Christian" (link [here](https://drive.google.com/drive/u/2/folders/1h0SPClwWiPkzu1OXOP4UwnlroW6_TAP9)), "Concerning Governmental Authority," "The Twelve Articles of the Swabian Peasants," and "Friendly Admonition to Peace Concerning Twelve Articles" in the [CC Reader](https://www.college.columbia.edu/core/conciv/ccreader).
 
+
+
+### Week 10
+
+- Rene Descartes, [Discourse on the Method of Rightly Conducting the Reason, and seeking Truth in the Sciences](https://www.marxists.org/reference/archive/descartes/1635/discourse-method.htm)
+(1639).
+
+
+## Moved to the Next Semester
 ### Week 10: Conquest of the Americas
 
 - Council of Castile, “El Requierimento,” Nahuatl accounts of the conquest of Mexico (Book 12
@@ -107,8 +111,7 @@ Townsend.
 
 ### Week 11: Scientific Method
 
-- Rene Descartes, [Discourse on the Method of Rightly Conducting the Reason, and seeking Truth in the Sciences](https://www.marxists.org/reference/archive/descartes/1635/discourse-method.htm)
-(1639).
+
 - Francis Bacon, [New Atlantis](http://www.gutenberg.org/files/2434/2434-h/2434-h.htm)
 
 ### Week 12: Hobbes
