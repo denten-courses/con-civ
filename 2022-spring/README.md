@@ -95,7 +95,7 @@ discipline for further institutional action.
 
 ### Week 1
 
-- Thomas Hobbes, *Leviathan*, "Introduction" and "Part I: Of Man."
+- Thomas Hobbes, *Leviathan*, "Introduction" and "Part I: Of Man." Concentrate on Part 1: Chapter 13-16. In addition please prepare Part 3: Chapter 21, 22
 
 ### Week 2
 
