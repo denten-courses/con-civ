@@ -157,6 +157,8 @@ selection are [here][81].
 [83]: https://courseworks2.columbia.edu/courses/93768/files?preview=7549650
 [84]: https://courseworks2.columbia.edu/courses/93768/files?preview=7574209
 
+!!! Midterm on March 23rd. Passage IDs.
+
 ### Week 9
 
 - W. E. B. Du Bois, [*The Souls of Black Folk*][92] (1903): Chapters 1, 2, 3, 9, and 14 + "[The
