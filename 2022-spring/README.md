@@ -192,15 +192,7 @@ Souls of White Folk][95]"
 [1202]: https://courseworks2.columbia.edu/files/7691597/download?download_frd=1
 [1203]: https://courseworks2.columbia.edu/courses/93768/files?preview=7691600
 
-***
+### Week 12
 
-### Past Readings
-
-- ~Rosa Luxemburg, *Massenstreik, Partei und Gewerkschaften* (Mass Strike, The Party and the
-  Trade Union” (1906).~
-- ~"Afterword" in *My Further Disillusionment in Russia* by Emma Goldman (1923).~
-- ~Selections from Sartre's Being and Nothingness (1943): "Bad Faith," "The Look," and "Concrete
-  Relations with Others"~
-- ~Simone de Beauvoir, "Destiny" and "Toward Liberation" from *The Second Sex* (1949).~
-
-[1003]: https://archive.org/download/in.ernet.dli.2015.54815/2015.54815.Imperialism-The-Highest-Stage-Of-Capitalism-A-Popular-Outline_text.pdf
+- Selections from Spivak
+- Selections from Said
