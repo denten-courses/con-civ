@@ -109,53 +109,48 @@ discipline for further institutional action.
 
 ### Week 4
 
-- Book 3, Chapter 4 (pages 215-240); Book 4, Chapter 3 (pages 295-312), and Book 5, Chapter 4
-  (pages 492-522) in [*The Origin and Progress of the French Revolution*][402] (1794) by Mary
-Wollstonecraft.
-- Pages 147-176, 223-230, 361-365 in [*Reflections on the Revolution in France*][401] (1790) by Edmund
-  Burke.
+- Finish Rousseau.
+- [A Vindication of the Rights of Woman][402] by Mary Wollstonecraft: Introduction, Ch 1-4, 9, 13.
 
 [402]:https://archive.org/download/historicalmoralv00woll/historicalmoralv00woll.pdf
 [401]: https://oll.libertyfund.org/sources/1327-facsimile-pdf-burke-select-works-of-edmund-burke-vol-2/download
+[402]: https://courseworks2.columbia.edu/courses/143944/files?preview=13538172
 
 ### Week 5
 
+- Olympe de Gouges, [*Declaration of Rights of Women and the Female Citizen*][602] (1791)
 - Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776): Book 1
   (Chapter 1-5), Book 4 (Chapter 7, 8).
-- Immanuel Kant, [*Groundwork of the Metaphysics of Morals*][261] (Preface & First Section) and
-  [*Of the Different Human Races*][262] (1777, Chapter 2 in the Mikkelsen translation).
-
+  
 [261]: http://www.inp.uw.edu.pl/mdsie/Political_Thought/Kant%20-%20groundwork%20for%20the%20metaphysics%20of%20morals%20with%20essays.pdf
 [262]: https://courseworks2.columbia.edu/courses/93768/files?preview=7158131
+[602]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/j.ctt19b9jvh.24?seq=1#metadata_info_tab_contents
+
 
 ### Week 6
 
-- Olympe de Gouges, [*Declaration of Rights of Women and the Female Citizen*][602] (1791) 
 - G. W. F. Hegel, "[The Idea of History and its
      Realization](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)"
 and "[The Course of World
 History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)."
 
-[602]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/j.ctt19b9jvh.24?seq=1#metadata_info_tab_contents
 
 ### Week 7
 
-- Finish w/ Hegel
-- Chapter I, II, ~III~ in John Stewart Mill, [*On Liberty*][701] (1859) ~and [The Petition of the
-  East India Company][702] (1858). Use [this edition][704] if Cambridge is not working for you.
+- [An Introduction to the Principles of Morals and Legislation][705] by Jeremy Bentham.
+- Chapter I, II, III in John Stewart Mill, [*On Liberty*][701] (1859). Use [this edition][704] if Cambridge is not working for you.
 
 [701]: https://doi-org.ezproxy.cul.columbia.edu/10.1017/CBO9781139149785
 [702]: http://oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-xxx-writings-on-india
 [703]: https://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/ch07.htm
 [704]: https://courseworks2.columbia.edu/courses/93768/files?preview=7478777
+[705]: https://www.college.columbia.edu/core/system/files/text/Bentham.pdf
 
 ### Week 8
 
 - Karl Marx, *Capital: A Critique of Political Economy* (1867): Part I, Chapter 1 (pages
   41-96). I prefer you use the paper copy, but in case you don't have it the full text and the
 selection are [here][81].
-- Selective reading (left to your discretion) from [*Imperialism, The Highest Form of
-  Capitalism*][1003] (1917) by V.I. Lenin.
 
 [81]: https://drive.google.com/drive/folders/1h0SPClwWiPkzu1OXOP4UwnlroW6_TAP9?usp=sharing
 [82]: https://archive.org/download/in.ernet.dli.2015.233884/2015.233884.The-Division_text.pdf
