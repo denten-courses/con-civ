@@ -135,16 +135,16 @@ and "[The Course of World
 History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)."
 
 
-### Week 7
+### Week 7 (After Spring Break)
 
-- [An Introduction to the Principles of Morals and Legislation][705] by Jeremy Bentham.
-- Chapter I, II, III in John Stewart Mill, [*On Liberty*][701] (1859). Use [this edition][704] if Cambridge is not working for you.
-
+- [An Introduction to the Principles of Morals and Legislation][705] by Jeremy Bentham, Chapters I-IV.
+- Chapter I, II, III in John Stewart Mill, *On Liberty* (1859). Should be one of the standard CC paperbacks.
+- 
 [701]: https://doi-org.ezproxy.cul.columbia.edu/10.1017/CBO9781139149785
 [702]: http://oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-xxx-writings-on-india
 [703]: https://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/ch07.htm
 [704]: https://courseworks2.columbia.edu/courses/93768/files?preview=7478777
-[705]: https://www.college.columbia.edu/core/system/files/text/Bentham.pdf
+[705]: https://oll.libertyfund.org/title/bentham-an-introduction-to-the-principles-of-morals-and-legislation
 
 ### Week 8
 
