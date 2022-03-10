@@ -139,12 +139,14 @@ History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.
 
 - [An Introduction to the Principles of Morals and Legislation][705] by Jeremy Bentham, Chapters I-IV.
 - Chapter I, II, III in John Stewart Mill, *On Liberty* (1859). Should be one of the standard CC paperbacks.
-- 
+
 [701]: https://doi-org.ezproxy.cul.columbia.edu/10.1017/CBO9781139149785
 [702]: http://oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-xxx-writings-on-india
 [703]: https://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/ch07.htm
 [704]: https://courseworks2.columbia.edu/courses/93768/files?preview=7478777
 [705]: https://oll.libertyfund.org/title/bentham-an-introduction-to-the-principles-of-morals-and-legislation
+
+!!! Midterm on March 23rd. Passage IDs.
 
 ### Week 8
 
@@ -156,8 +158,6 @@ selection are [here][81].
 [82]: https://archive.org/download/in.ernet.dli.2015.233884/2015.233884.The-Division_text.pdf
 [83]: https://courseworks2.columbia.edu/courses/93768/files?preview=7549650
 [84]: https://courseworks2.columbia.edu/courses/93768/files?preview=7574209
-
-!!! Midterm on March 23rd. Passage IDs.
 
 ### Week 9
 
