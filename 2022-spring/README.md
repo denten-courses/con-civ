@@ -187,7 +187,7 @@ Souls of White Folk][95]"
 
 ### Week 11
 
-- Chapters 5, 6, and 9 from [*The Origins of Totalitarianism*][1201] (1951) by Hannah Arendt.
+- Chapters 5, 6, and 9 from [*The Origins of Totalitarianism*][1105] (1951) by Hannah Arendt.
 - Preface by Jean-Paul Sartre and "Concerning Violence" in [*The Wretched of the Earth*][1202]
   (1961) by Fanon.
 
