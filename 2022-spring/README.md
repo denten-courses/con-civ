@@ -88,26 +88,26 @@ discipline for further institutional action.
 
 ## Class Schedule / Reading List
 
-### Week 0
+### Week 1
 
 - (re)Introductions, course policies, the big picture.
 - Review of the last semester.
 
-### Week 1
+### Week 2
 
 - Thomas Hobbes, *Leviathan*, "Introduction" and "Part I: Of Man." Concentrate on Part 1: Chapter 13-16. In addition please prepare Part 2: Chapter 21, 22
 
-### Week 2
+### Week 3
 
 - John Locke, *Second Treatise of Government* and "An Essay Concerning Toleration."
 
-### Week 3
+### Week 4
 
 - Jean-Jacques Rousseau, *Of the Social Contract, Or Principles of Political Right*, 1762:
   Books I and II.
 - *Discourse on the Origin and Basis of Inequality Among Men* (1754), pages 45-92.
 
-### Week 4
+### Week 5
 
 - Finish Rousseau.
 - [A Vindication of the Rights of Woman][402] by Mary Wollstonecraft: Introduction, Ch 1-4, 9, 13.
@@ -116,7 +116,7 @@ discipline for further institutional action.
 [401]: https://oll.libertyfund.org/sources/1327-facsimile-pdf-burke-select-works-of-edmund-burke-vol-2/download
 [402]: https://courseworks2.columbia.edu/courses/143944/files?preview=13538172
 
-### Week 5
+### Week 6
 
 - Olympe de Gouges, [*Declaration of Rights of Women and the Female Citizen*][602] (1791)
 - Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776): Book 1
@@ -127,7 +127,7 @@ discipline for further institutional action.
 [602]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/j.ctt19b9jvh.24?seq=1#metadata_info_tab_contents
 
 
-### Week 6
+### Week 7
 
 - G. W. F. Hegel, "[The Idea of History and its
      Realization](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)"
@@ -135,7 +135,7 @@ and "[The Course of World
 History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)."
 
 
-### Week 7 (After Spring Break)
+### Week 9 (After Spring Break)
 
 - [An Introduction to the Principles of Morals and Legislation][705] by Jeremy Bentham, Chapters I-IV.
 - Chapter I, II, III in John Stewart Mill, *On Liberty* (1859). Should be one of the standard CC paperbacks.
@@ -148,7 +148,7 @@ History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.
 
 !!! Midterm on March 23rd. Passage IDs.
 
-### Week 8
+### Week 10
 
 - Karl Marx, *Capital: A Critique of Political Economy* (1867): Part I, Chapter 1 (pages
   41-96). I prefer you use the paper copy, but in case you don't have it the full text and the
@@ -159,11 +159,11 @@ selection are [here][81].
 [83]: https://courseworks2.columbia.edu/courses/93768/files?preview=7549650
 [84]: https://courseworks2.columbia.edu/courses/93768/files?preview=7574209
 
-### Week 9
+### Week 11
 
 - W. E. B. Du Bois, [*The Souls of Black Folk*][92] (1903): Chapters 1, 2, 3, 9, and 14 + "[The
 Souls of White Folk][95]"
-- Chapters I and IV from [*The Public and its Problems*][94] (1927), by John Dewey.
+- Chapters I and IV from [*The Public and its Problems*][1105] (1927), by John Dewey.
 
 [91]: https://archive.org/download/mindofprimitivem031738mbp/mindofprimitivem031738mbp.pdf
 [92]: https://archive.org/download/cu31924024920492/cu31924024920492.pdf
@@ -171,7 +171,7 @@ Souls of White Folk][95]"
 [94]: https://archive.org/download/in.ernet.dli.2015.190550/2015.190550.The-Public-And-Its-Problemms_text.pdf
 [95]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjai7en9OfvAhU1MlkFHVHRBk8QFjAAegQIAxAD&url=http%3A%2F%2Fwww.loa.org%2Fimages%2Fpdf%2FDu_Bois_White_Folk.pdf&usg=AOvVaw2Eq4esYzDBZHazJ6gr07eQ
 
-### Week 10
+### Week 12
 
 - Alain LeRoy Locke, "Pluralism and Intellectual Democracy” (1942) and Cultural Relativism and
   Ideological Peace” (1944) both found on [CourseWorks][1105].
@@ -185,17 +185,12 @@ Souls of White Folk][95]"
 [1104]: https://courseworks2.columbia.edu/courses/122416/files?preview=10924286
 [1105]: https://courseworks2.columbia.edu/courses/134009/files
 
-### Week 11
+### Week 13
 
-- Chapters 5, 6, and 9 from [*The Origins of Totalitarianism*][1105] (1951) by Hannah Arendt.
 - Preface by Jean-Paul Sartre and "Concerning Violence" in [*The Wretched of the Earth*][1105]
   (1961) by Fanon.
+- Chapters 5, 6, and 9 from [*The Origins of Totalitarianism*][1105] (1951) by Hannah Arendt.
 
 [1201]: https://courseworks2.columbia.edu/files/7691594/download?download_frd=1
 [1202]: https://courseworks2.columbia.edu/files/7691597/download?download_frd=1
 [1203]: https://courseworks2.columbia.edu/courses/93768/files?preview=7691600
-
-### Week 12
-
-- ~~Selections from Spivak~~
-- ~~Selections from Said~~
