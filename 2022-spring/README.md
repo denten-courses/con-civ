@@ -137,7 +137,7 @@ History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.
 
 ### Week 9 (After Spring Break)
 
-- [An Introduction to the Principles of Morals and Legislation][705] by Jeremy Bentham, Chapters I-IV.
+- ~~[An Introduction to the Principles of Morals and Legislation][705] by Jeremy Bentham, Chapters I-IV.~~
 - Chapter I, II, III in John Stewart Mill, *On Liberty* (1859). Should be one of the standard CC paperbacks.
 
 [701]: https://doi-org.ezproxy.cul.columbia.edu/10.1017/CBO9781139149785
@@ -163,7 +163,7 @@ selection are [here][81].
 
 - W. E. B. Du Bois, [*The Souls of Black Folk*][92] (1903): Chapters 1, 2, 3, 9, and 14 + "[The
 Souls of White Folk][95]"
-- Chapters I and IV from [*The Public and its Problems*][1105] (1927), by John Dewey.
+- ~~Chapters I and IV from [*The Public and its Problems*][1105] (1927), by John Dewey.~~
 
 [91]: https://archive.org/download/mindofprimitivem031738mbp/mindofprimitivem031738mbp.pdf
 [92]: https://archive.org/download/cu31924024920492/cu31924024920492.pdf
