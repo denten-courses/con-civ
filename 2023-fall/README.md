@@ -55,18 +55,16 @@ Reading schedule. Course tour.
 
 ### Week 3: Aristotle's Politics and Ethics
 
-- For Monday, finish Plato's Republic (at least through Book VII).
-- For Wednesday, read Books II and V in Aristotle's Ethics and Books II, III, V from the
-  *Politics*.
-
+- Books II, III, V from the *Politics*
+- Books II and V in Aristotle's *Ethics*
+- 
 ### Week 4: Hebrew Bible, New Testament
 
-- Matthew, Luke
 - Genesis (review), Exodus, Deuteronomy
+- Matthew, Luke
 
 ### Week 5: Readings from Qur'an and Classic Chinese Philosophy
 
-- Finish Matthew, Luke
 - ~~Al-Qur'an (Suras 1, 4, 2, 12, 112, 114)~~
 - From [*Readings in Classical Chinese Philosophy*](https://drive.google.com/file/d/16YFSgWvMf5ilNrdg65CcZj65V1r6mr_T/view?usp=sharing) read "The Analects" by Kongzi (pages 1--60) and Daodejing by Laozi, (Book 1, ch. 1-37).
 
