@@ -63,9 +63,9 @@ Reading schedule. Course tour.
 - Genesis (review), Exodus, Deuteronomy
 - Matthew, Luke
 
-### Week 5: Readings from Qur'an and Classic Chinese Philosophy
+### Week 5: New Testament and Classic Chinese Philosophy
 
-- ~~Al-Qur'an (Suras 1, 4, 2, 12, 112, 114)~~
+- Matthew, Luke 
 - From [*Readings in Classical Chinese Philosophy*](https://drive.google.com/file/d/16YFSgWvMf5ilNrdg65CcZj65V1r6mr_T/view?usp=sharing) read "The Analects" by Kongzi (pages 1--60) and Daodejing by Laozi, (Book 1, ch. 1-37).
 
 ### Week 6: Augustine, City of God 
