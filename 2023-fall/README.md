@@ -69,7 +69,7 @@ Reading schedule. Course tour.
 - From [*Readings in Classical Chinese Philosophy*](https://drive.google.com/file/d/16YFSgWvMf5ilNrdg65CcZj65V1r6mr_T/view?usp=sharing) read "The Analects" by Kongzi (pages 1--60) and Daodejing by Laozi, (Book 1, ch. 1-37).
 
 ### Week 6: Augustine, City of God 
-- Books V, VIII, XII, and XIV
+- Books V, ~~VIII~~, XII, and XIV
 
 ### Week 7: Medieval Philosophy
 
