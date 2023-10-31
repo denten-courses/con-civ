@@ -71,25 +71,39 @@ Reading schedule. Course tour.
 ### Week 6: Augustine, City of God 
 - Books V, ~~VIII~~, XII, and XIV
 
-### Week 7: Medieval Philosophy
+### Week 7: Al-Andalus
 
-- Christine de Pizan, *The Book of Body Politic* (pages 1-111).
-- Selections from Al Farabi's *The Perfect City-State* in the [CC Reader](https://www.college.columbia.edu/core/conciv/ccreader). 
-- "The Son of Consciousness" (Hayy Ibn Yaqzān) by Ibn Tufayl in the [CC Reader](https://www.college.columbia.edu/core/conciv/ccreader).
+- "The Son of Consciousness" (Hayy Ibn Yaqzān) ~1150 by Ibn Tufayl, pages 3--67 in the [CC
+  Reader][73].
+- [*The Guide of the Perplexed*][72] c. 1185 by Moses Maimonides
+- ~~Selections from Al Farabi's *The Perfect City-State* in the [CC
+  Reader](https://www.college.columbia.edu/core/conciv/ccreader).~~
+- Chapter VI, Sections 1--9 in the [Muqaddimah][71] (1377) by Ibn Khaldun.
 
-### Week 8: Machiavelli
+[71]: https://www.muslimphilosophy.com/ik/Muqaddimah/Chapter6/Toc_Ch_6.htm
+[72]: https://www.college.columbia.edu/core/system/files/text/Maimonides.pdf
+[73]: https://www.college.columbia.edu/core/conciv/ccreader
+
+### Week 8: Medieval Europe
+
+- Christine de Pizan, *The Book of Body Politic* (1407), pages 1-111.
+- Julian of Norwich, [*Revelations of Divine Love*][82] (~1450). 
+- In-class exercise on [Summa Theologiae][81] by Thomas Aquinas
+
+[81]: https://www.newadvent.org/summa/
+[82]: https://www.college.columbia.edu/core/system/files/text/Revelations%20of%20Divine%20Love.pdf
+
+### Week 9: Machiavelli
 
 - The Prince 
 - Discourses I:1-10, 16-18; III:1-2, 7-9, 28-30 (chapters, not page numbers)
 
-### Week 9: Protestant Reformation
+### Week 10: Protestant Reformation
 
 - Finish Discourses I:1-10, 16-18; III:1-2, 7-9, 28-30 (chapters, not page numbers)
 - Martin Luther: "The Freedom of a Christian" (link [here](https://drive.google.com/drive/u/2/folders/1h0SPClwWiPkzu1OXOP4UwnlroW6_TAP9)), "Concerning Governmental Authority," "The Twelve Articles of the Swabian Peasants," and "Friendly Admonition to Peace Concerning Twelve Articles" in the [CC Reader](https://www.college.columbia.edu/core/conciv/ccreader).
 
-
-
-### Week 10
+### Week 11
 
 - Rene Descartes, [Discourse on the Method of Rightly Conducting the Reason, and seeking Truth in the Sciences](https://www.marxists.org/reference/archive/descartes/1635/discourse-method.htm)
 (1639).
