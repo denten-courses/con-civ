@@ -95,7 +95,7 @@ Reading schedule. Course tour.
 
 ### Week 9: Machiavelli
 
-- The Prince 
+- The Prince (1513)
 - Discourses I:1-10, 16-18; III:1-2, 7-9, 28-30 (chapters, not page numbers)
 
 ### Week 10: Protestant Reformation
