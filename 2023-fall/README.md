@@ -86,9 +86,9 @@ Reading schedule. Course tour.
 
 ### Week 8: Medieval Europe
 
+- In-class exercise on [Summa Theologiae][81] (~1250) by Thomas Aquinas
 - Christine de Pizan, *The Book of Body Politic* (1407), pages 1-111.
 - Julian of Norwich, [*Revelations of Divine Love*][82] (~1450). 
-- In-class exercise on [Summa Theologiae][81] (~1250) by Thomas Aquinas
 
 [81]: https://www.newadvent.org/summa/
 [82]: https://www.college.columbia.edu/core/system/files/text/Revelations%20of%20Divine%20Love.pdf
