@@ -34,14 +34,11 @@ undermines the promise of rational, scientific basis for the human condition.
 
 ## Course Concepts and Policies
 
-* [Academic
-  Integrity](https://github.com/denten-courses/teaching-concepts/blob/master/academic-integrity.md)
-* No laptops please. Bring a paper copy of each text to class. [Forum
-* Posts](https://github.com/denten-courses/teaching-concepts/blob/master/forum-posts.md)
-* [Philosophers'
-  Walks](https://github.com/denten-courses/teaching-concepts/blob/master/philosophers-walk.md)
-* [Slow
-  Reading](https://github.com/denten-courses/teaching-concepts/blob/master/slow-reading.md)
+* [Academic Integrity](https://github.com/denten-courses/teaching-concepts/blob/master/academic-integrity.md)
+* No laptops please. Bring a paper copy of each text to class. 
+* [Forum Posts](https://github.com/denten-courses/teaching-concepts/blob/master/forum-posts.md)
+* [Philosophers' Walk](https://github.com/denten-courses/teaching-concepts/blob/master/philosophers-walk.md)
+* [Slow Reading](https://github.com/denten-courses/teaching-concepts/blob/master/slow-reading.md)
 
 ## Links & Resources
 
