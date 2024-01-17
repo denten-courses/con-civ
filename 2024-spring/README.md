@@ -203,3 +203,11 @@ in *A Philosophy of Struggle* (2020)
 [1201]: https://courseworks2.columbia.edu/files/7691594/download?download_frd=1
 [1202]: https://courseworks2.columbia.edu/files/7691597/download?download_frd=1
 [1203]: https://courseworks2.columbia.edu/courses/93768/files?preview=7691600
+
+### Week 12
+
+- Selections from *Sincerity and Authenticity* by Lionel Trilling
+- Selections from Edward Said's *Orientalism*
+- “Venus in Two Acts” and "Lose our Mother" by Saidiya Hartman
+- Selections from *A Critique of Postcolonial Reason* by Gayatri Spivak
+
