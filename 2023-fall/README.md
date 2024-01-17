@@ -28,8 +28,8 @@ the demonstrated ability of a text to provoke productive discussion.”
 
 * [Academic
   Integrity](https://github.com/denten-courses/teaching-concepts/blob/master/academic-integrity.md)
-* No laptops please. Bring a paper copy of each text to class.
-* [Forum Posts](https://github.com/denten-courses/teaching-concepts/blob/master/forum-posts.md)
+* No laptops please. Bring a paper copy of each text to class. [Forum
+* Posts](https://github.com/denten-courses/teaching-concepts/blob/master/forum-posts.md)
 * [Philosophers'
   Walks](https://github.com/denten-courses/teaching-concepts/blob/master/philosophers-walk.md)
 * [Slow
