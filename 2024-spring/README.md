@@ -8,7 +8,10 @@ location: 306 Uris Hall
 
 ---
 
-## The Enlightenment and its Discontents
+## Office Hours
+W 4-5pm Philosophy Hall 408e
+
+## The Enlightenment and Its Discontents
 
 > Founded in 1919 as a course on War and Peace Issues, the central purpose of
 > Contemporary Civilization is to introduce students to a range of issues
