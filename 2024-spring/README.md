@@ -9,7 +9,7 @@ location: 306 Uris Hall
 ---
 
 ## Office Hours
-W 4-5pm Philosophy Hall 408e
+W 4--5pm Philosophy Hall 408e
 
 ## The Enlightenment and Its Discontents
 
