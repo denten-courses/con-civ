@@ -123,7 +123,7 @@ metric that rewards regular engagement with the material.
 - Jean-Jacques Rousseau, *Of the Social Contract, Or Principles of Political Right*, 1762:
   Books I and II.
 - *Discourse on the Origin and Basis of Inequality Among Men* (1754), pages 45-92.
-- Kant, Groundwork of the Metaphysics of Morals[
+- Kant, Groundwork of the Metaphysics of Morals
 
 ### Week 5
 
