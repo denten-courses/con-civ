@@ -142,7 +142,6 @@ metric that rewards regular engagement with the material.
   - Immanuel Kant, “Idea for a Universal History with a Cosmopolitan Aim”
   - Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776): Book 1
   (Chapter 1-5), Book 4 (Chapter 7, 8).
-- 
 
 ### Week 7
 
@@ -165,8 +164,9 @@ selection are [here][81].
     
 ### Week 8 (After Spring Break)
 
-- Chapter I, II, III in John Stewart Mill, *On Liberty* (1859). Should be one of the
+  - Chapter I, II, III in John Stewart Mill, *On Liberty* (1859). Should be one of the
   standard CC paperbacks.
+  - Selection from Nietzsche, *On the Genealogy of Morals and Ecce Homo* (1887)
 
 [701]: https://doi-org.ezproxy.cul.columbia.edu/10.1017/CBO9781139149785
 [702]: http://oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-xxx-writings-on-india
