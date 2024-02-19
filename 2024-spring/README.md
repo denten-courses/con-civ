@@ -127,7 +127,7 @@ metric that rewards regular engagement with the material.
 
 ### Week 5
 
-- *Vindication of the Rights of Woman* by Mary Wollstonecraft: Introduction, Ch 1-4, 9, 13.
+- *Vindication of the Rights of Woman* (1792) by Mary Wollstonecraft: Introduction, Ch 1-4, 9, 13.
 - Olympe de Gouges, [*Declaration of Rights of Women and the Female Citizen*][602] (1791)
 - Simone de Beauvoir, from [*Second Sex*][1104] (1949): Chapter 3: Historical Materialism, Chapter 10:
   Woman's Situation and Character, Chapter 14: The Independent Woman, and Conclusion.
@@ -162,9 +162,6 @@ selection are [here][81].
 [261]: http://www.inp.uw.edu.pl/mdsie/Political_Thought/Kant%20-%20groundwork%20for%20the%20metaphysics%20of%20morals%20with%20essays.pdf
 [262]: https://courseworks2.columbia.edu/courses/93768/files?preview=7158131
 [602]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/j.ctt19b9jvh.24?seq=1#metadata_info_tab_contents
-
-
-
     
 ### Week 8 (After Spring Break)
 
