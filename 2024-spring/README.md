@@ -127,7 +127,7 @@ metric that rewards regular engagement with the material.
 
 ### Week 5
 
-- [A Vindication of the Rights of Woman][402] by Mary Wollstonecraft: Introduction, Ch 1-4, 9, 13.
+- Vindication of the Rights of Woman by Mary Wollstonecraft: Introduction, Ch 1-4, 9, 13.
 - Olympe de Gouges, [*Declaration of Rights of Women and the Female Citizen*][602] (1791)
 - Simone de Beauvoir, from [*Second Sex*][1104] (1949): Chapter 3: Historical Materialism, Chapter 10:
   Woman's Situation and Character, Chapter 14: The Independent Woman, and Conclusion.
