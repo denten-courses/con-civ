@@ -138,8 +138,18 @@ metric that rewards regular engagement with the material.
 
 ### Week 6
 
-- Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776): Book 1
+  - Immanuel Kant, “An Answer to the Question: What is Enlightenment?" in *Practical Philosophy*, translated by Mary Gregor, 1996 [~1780s].
+  - Immanuel Kant, “Idea for a Universal History with a Cosmopolitan Aim”
+  - Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776): Book 1
   (Chapter 1-5), Book 4 (Chapter 7, 8).
+- 
+
+### Week 7
+
+ - G. W. F. Hegel, "[The Idea of History and its
+  Realization](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)"
+  and "[The Course of World
+  History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)" (~1850s).
 - Karl Marx, *Capital: A Critique of Political Economy* (1867): Part I, Chapter 1 (pages
   41-96). I prefer you use the paper copy, but in case you don't have it the full text and the
 selection are [here][81].
@@ -153,13 +163,9 @@ selection are [here][81].
 [262]: https://courseworks2.columbia.edu/courses/93768/files?preview=7158131
 [602]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/j.ctt19b9jvh.24?seq=1#metadata_info_tab_contents
 
-### Week 7
 
-- G. W. F. Hegel, "[The Idea of History and its
-  Realization](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)"
-  and "[The Course of World
-  History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)."
 
+    
 ### Week 8 (After Spring Break)
 
 - Chapter I, II, III in John Stewart Mill, *On Liberty* (1859). Should be one of the
