@@ -138,10 +138,13 @@ metric that rewards regular engagement with the material.
 
 ### Week 6
 
-  - Immanuel Kant, “An Answer to the Question: What is Enlightenment?" in *Practical Philosophy*, translated by Mary Gregor, 1996 [~1780s].
-  - Immanuel Kant, “Idea for a Universal History with a Cosmopolitan Aim”
+  - Sections II & III from Kant's [*Groundwork of the Metaphysics of Morals*][61] (~1770s).
+  - Immanuel Kant, “[Idea for a Universal History with a Cosmopolitan Aim][62]”
   - Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776): Book 1
   (Chapter 1-5), Book 4 (Chapter 7, 8).
+
+[61]: https://courseworks2.columbia.edu/courses/189092/files?preview=20086726
+[62]: https://courseworks2.columbia.edu/courses/189092/files?preview=20086595
 
 ### Week 7
 
