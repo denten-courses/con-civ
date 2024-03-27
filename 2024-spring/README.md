@@ -165,11 +165,11 @@ selection are [here][81].
 [262]: https://courseworks2.columbia.edu/courses/93768/files?preview=7158131
 [602]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/j.ctt19b9jvh.24?seq=1#metadata_info_tab_contents
     
-### Week 8 (After Spring Break)
+### Week 8
 
-  - Chapter I, II, III in John Stewart Mill, *On Liberty* (1859). Should be one of the
-  standard CC paperbacks.
-  - Selection from Nietzsche, *On the Genealogy of Morals and Ecce Homo* (1887)
+  - ~Chapter I, II, III in John Stewart Mill, *On Liberty* (1859). Should be one of the
+  standard CC paperbacks.~
+  - ~Selection from Nietzsche, *On the Genealogy of Morals and Ecce Homo* (1887)~
 
 [701]: https://doi-org.ezproxy.cul.columbia.edu/10.1017/CBO9781139149785
 [702]: http://oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-xxx-writings-on-india
