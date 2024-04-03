@@ -181,7 +181,6 @@ selection are [here][81].
 
 - W. E. B. Du Bois, [*The Souls of Black Folk*][902] (1903): Chapters 1, 2, 3, 9, and 14 + "[The
 Souls of White Folk][905]"
-- "Philosophies of Freedom," pages 271--299 in [*Philosophy and Civilization*][906] by John Dewey.
 
 [91]: https://archive.org/download/mindofprimitivem031738mbp/mindofprimitivem031738mbp.pdf
 [902]: https://archive.org/download/cu31924024920492/cu31924024920492.pdf
@@ -194,8 +193,9 @@ Souls of White Folk][905]"
 
 - Alain LeRoy Locke, "Pluralism and Intellectual Democracy” (1942) and Cultural Relativism
   and Ideological Peace” (1944) both found on [CourseWorks][1105].
-- "Insurrectionist Ethics: Advocacy, Moral Psychology, and Pragmatism" by Leonard Harris
-in *A Philosophy of Struggle* (2020)
+- "Philosophies of Freedom," pages 271--299 in [*Philosophy and Civilization*][906] by John Dewey.
+- ~"Insurrectionist Ethics: Advocacy, Moral Psychology, and Pragmatism" by Leonard Harris
+in *A Philosophy of Struggle* (2020)~
 
 [1101]: https://archive.org/download/nationalism00tagorich/nationalism00tagorich_bw.pdf
 [1102]: https://courseworks2.columbia.edu/files/7692254/download?download_frd=1
