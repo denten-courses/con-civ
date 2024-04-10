@@ -193,7 +193,7 @@ Souls of White Folk][905]"
 
 - "Philosophies of Freedom," pages 271--299 in [*Philosophy and Civilization*][906] by John Dewey.
 - Alain LeRoy Locke, "Pluralism and Intellectual Democracy” (1942) and Cultural Relativism
-  and Ideological Peace” (1944) both found on [CourseWorks][1105].
+  and Ideological Peace” (1944) both found on CourseWorks in the Files section.
 - ~"Insurrectionist Ethics: Advocacy, Moral Psychology, and Pragmatism" by Leonard Harris
 in *A Philosophy of Struggle* (2020)~
 
@@ -201,7 +201,7 @@ in *A Philosophy of Struggle* (2020)~
 [1102]: https://courseworks2.columbia.edu/files/7692254/download?download_frd=1
 [1103]: https://courseworks2.columbia.edu/files/7691393/download?download_frd=1
 [1104]: https://courseworks2.columbia.edu/courses/122416/files?preview=10924286
-[1105]: https://courseworks2.columbia.edu/courses/134009/files
+[1105]: https://courseworks2.columbia.edu/courses/189092/files
 
 ### Week 11
 
