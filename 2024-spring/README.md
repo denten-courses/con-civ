@@ -205,13 +205,13 @@ in *A Philosophy of Struggle* (2020)~
 
 ### Week 11
 
-- Preface by Jean-Paul Sartre and "Concerning Violence" in [*The Wretched of the Earth*][1105]
+- Preface by Jean-Paul Sartre and Chapter 1, "Concerning Violence" in [*The Wretched of the Earth*][1202]
   (1961) by Fanon.
-- Chapters 5, 6, and 9 from [*The Origins of Totalitarianism*][1105] (1951) by Hannah Arendt.
+- Chapters 5, 6, and 9 from [*The Origins of Totalitarianism*][1201] (1951) by Hannah Arendt.
 - Arendt, “On Violence,” in Crises of the Republic (pp. 103-98) [1]
 
-[1201]: https://courseworks2.columbia.edu/files/7691594/download?download_frd=1
-[1202]: https://courseworks2.columbia.edu/files/7691597/download?download_frd=1
+[1201]: https://courseworks2.columbia.edu/courses/189092/files?preview=20547285
+[1202]: https://courseworks2.columbia.edu/courses/189092/files?preview=20547284
 [1203]: https://courseworks2.columbia.edu/courses/93768/files?preview=7691600
 
 ### Week 12
