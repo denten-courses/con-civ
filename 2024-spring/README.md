@@ -208,7 +208,7 @@ in *A Philosophy of Struggle* (2020)~
 - Preface by Jean-Paul Sartre and Chapter 1, "Concerning Violence" in [*The Wretched of the Earth*][1202]
   (1961) by Fanon.
 - Chapters 5, 6, and 9 from [*The Origins of Totalitarianism*][1201] (1951) by Hannah Arendt.
-- Arendt, “On Violence,” in Crises of the Republic (pp. 103-98) [1]
+- Arendt, “On Violence,” in Crises of the Republic (pp. 103-98) [1203]
 
 [1201]: https://courseworks2.columbia.edu/courses/189092/files?preview=20547285
 [1202]: https://courseworks2.columbia.edu/courses/189092/files?preview=20547284
