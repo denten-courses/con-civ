@@ -208,17 +208,18 @@ in *A Philosophy of Struggle* (2020)~
 - Preface by Jean-Paul Sartre and Chapter 1, "Concerning Violence" in [*The Wretched of the Earth*][1202]
   (1961) by Fanon.
 - Chapters 5, 6, and 9 from [*The Origins of Totalitarianism*][1201] (1951) by Hannah Arendt.
-- Arendt, “On Violence,” in [Crises of the Republic][1204] (pp. 103-98)
+- ~Arendt, “On Violence,” in [Crises of the Republic][1204] (pp. 103-98)~
 
 [1201]: https://courseworks2.columbia.edu/courses/189092/files?preview=20547285
 [1202]: https://courseworks2.columbia.edu/courses/189092/files?preview=20547284
 [1203]: https://courseworks2.columbia.edu/courses/93768/files?preview=7691600
-[1204]: https://courseworks2.columbia.edu/courses/189092/files?preview=20617212
+[1204xx]: https://courseworks2.columbia.edu/courses/189092/files?preview=20617212
 
 ### Week 12
 
+- Chapters 1 & 2 in [_Globalization and its Discontents_][1301] by Joseph E. Stiglitz 
 - Selections from *Sincerity and Authenticity* by Lionel Trilling
-- Selections from Edward Said's *Orientalism*
-- “Venus in Two Acts” and "Lose our Mother" by Saidiya Hartman
 - Selections from *A Critique of Postcolonial Reason* by Gayatri Spivak
+
+[1301]: https://courseworks2.columbia.edu/courses/189092/files?preview=20634692
 
