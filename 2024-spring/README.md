@@ -217,9 +217,12 @@ in *A Philosophy of Struggle* (2020)~
 
 ### Week 12
 
-- Chapters 1 & 2 in [_Globalization and its Discontents_][1301] by Joseph E. Stiglitz 
-- Selections from *Sincerity and Authenticity* by Lionel Trilling
-- Selections from *A Critique of Postcolonial Reason* by Gayatri Spivak
+- "[The Way of the Humane Authority][1302]" from _A Confucian Constitutional Order_(2012) by by Jiang Qing.
+- "The Unheard-of" from _The Ark of Speech_(1998) by Jean-Louis Chretien.
+- Any Combination of Chapters from [*In the Swarm: Digital Prospects*][1301] (2017) by Byung-Chul Han.
+  
 
-[1301]: https://courseworks2.columbia.edu/courses/189092/files?preview=20634692
+[1301]: https://courseworks2.columbia.edu/courses/189092/files?preview=20636457
+[1302]: https://courseworks2.columbia.edu/courses/189092/files?preview=20636996
+[1303]: https://courseworks2.columbia.edu/courses/189092/files?preview=20637072
 
