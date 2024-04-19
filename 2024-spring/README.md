@@ -218,7 +218,7 @@ in *A Philosophy of Struggle* (2020)~
 ### Week 12
 
 - "[The Way of the Humane Authority][1302]" from _A Confucian Constitutional Order_(2012) by by Jiang Qing.
-- "The Unheard-of" from _The Ark of Speech_(1998) by Jean-Louis Chretien.
+- "[The Unheard-of][1303]" from _The Ark of Speech_(1998) by Jean-Louis Chretien.
 - Any Combination of Chapters from [*In the Swarm: Digital Prospects*][1301] (2017) by Byung-Chul Han.
   
 
