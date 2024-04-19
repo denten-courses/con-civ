@@ -224,5 +224,5 @@ in *A Philosophy of Struggle* (2020)~
 
 [1301]: https://courseworks2.columbia.edu/courses/189092/files?preview=20636457
 [1302]: https://courseworks2.columbia.edu/courses/189092/files?preview=20636996
-[1303]: https://courseworks2.columbia.edu/courses/189092/files?preview=20637072
+[1303]: https://courseworks2.columbia.edu/courses/189092/files?preview=20637149
 
