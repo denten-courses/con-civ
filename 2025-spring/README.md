@@ -1,10 +1,10 @@
 ---
 title: Contemporary Civilization
-date: Spring 2024
+date: Spring 2025
 instructor: Dennis Yi Tenen
 contact: dt2406@columbia.edu
 time: M&W 10:10am -- noon
-location: 306 Uris Hall
+location:
 
 ---
 
@@ -111,12 +111,13 @@ metric that rewards regular engagement with the material.
 
 ### Week 2
 
-- Thomas Hobbes, *Leviathan*, "Introduction" and "Part I: Of Man." Concentrate on Part 1:
-  Chapter 13-16. In addition please prepare Part 2: Chapter 21, 22
+- Thomas Hobbes, *Leviathan* (~1645): "Introduction" and "Part I: Of Man." Concentrate on
+  Part 1: Chapter 13-16. In addition please prepare Part 2: Chapter 21, 22
 
 ### Week 3
 
 - John Locke, *Second Treatise of Government* and "An Essay Concerning Toleration."
+- Selections from David Hume
 
 ### Week 4
 
@@ -129,8 +130,6 @@ metric that rewards regular engagement with the material.
 
 - *Vindication of the Rights of Woman* (1792) by Mary Wollstonecraft: Introduction, Ch 1-4, 9, 13.
 - Olympe de Gouges, [*Declaration of Rights of Women and the Female Citizen*][602] (1791)
-- Simone de Beauvoir, from [*Second Sex*][1104] (1949): Chapter 3: Historical Materialism, Chapter 10:
-  Woman's Situation and Character, Chapter 14: The Independent Woman, and Conclusion.
 
 [402]:https://archive.org/download/historicalmoralv00woll/historicalmoralv00woll.pdf
 [401]: https://oll.libertyfund.org/sources/1327-facsimile-pdf-burke-select-works-of-edmund-burke-vol-2/download
@@ -181,6 +180,8 @@ selection are [here][81].
 
 - W. E. B. Du Bois, [*The Souls of Black Folk*][902] (1903): Chapters 1, 2, 3, 9, and 14 + "[The
 Souls of White Folk][905]"
+- "Philosophies of Freedom," pages 271--299 in [*Philosophy and Civilization*][906] by
+  John Dewey.
 
 [91]: https://archive.org/download/mindofprimitivem031738mbp/mindofprimitivem031738mbp.pdf
 [902]: https://archive.org/download/cu31924024920492/cu31924024920492.pdf
@@ -191,11 +192,9 @@ Souls of White Folk][905]"
 
 ### Week 10
 
-- "Philosophies of Freedom," pages 271--299 in [*Philosophy and Civilization*][906] by John Dewey.
-- Alain LeRoy Locke, "Pluralism and Intellectual Democracy” (1942) and Cultural Relativism
-  and Ideological Peace” (1944) both found on CourseWorks in the Files section.
-- ~"Insurrectionist Ethics: Advocacy, Moral Psychology, and Pragmatism" by Leonard Harris
-in *A Philosophy of Struggle* (2020)~
+- Simone de Beauvoir, from [*Second Sex*][1104] (1949): Chapter 3: Historical Materialism, Chapter 10:
+  Woman's Situation and Character, Chapter 14: The Independent Woman, and Conclusion.
+- Selections from *Discourse on Colonialism* (1955) by Aimé Césaire
 
 [1101]: https://archive.org/download/nationalism00tagorich/nationalism00tagorich_bw.pdf
 [1102]: https://courseworks2.columbia.edu/files/7692254/download?download_frd=1
@@ -206,6 +205,7 @@ in *A Philosophy of Struggle* (2020)~
 ### Week 11
 
 - Chapters 5, 6, and 9 from [*The Origins of Totalitarianism*][1201] (1951) by Hannah Arendt.
+- Selections from The Gulag Archipelago
 
 [1201]: https://courseworks2.columbia.edu/courses/189092/files?preview=20547285
 [1202]: https://courseworks2.columbia.edu/courses/189092/files?preview=20547284
