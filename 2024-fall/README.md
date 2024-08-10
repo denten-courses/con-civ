@@ -1,9 +1,11 @@
-# Contemporary Civilization 17
-Fall 2024 | Columbia University  
+# Contemporary Civilization
+
+Section 5 | Fall 2024  
 Dennis Yi Tenen, Philosophy Hall 408e  
+Columbia University  
 
 *When?* Mon & Wed, 10:10--12pm  
-*Where?* Hamilton Hall, Room 403
+*Where?* TBD
 
 ## Description
 
@@ -19,17 +21,17 @@ the demonstrated ability of a text to provoke productive discussion.”
 
 ## Course Requirements and Grading
 
-* 25% Class Participation  
-* 25% Written Assignments and Online Participation (on Ed Discussions)  
-* 25% Midterm  
-* 25% Final  
+* 25% Class Participation
+* 25% Online Forum
+* 25% Study Guide
+* 25% Final Exam
 
 ## Course Concepts and Policies
 
 * [Academic
   Integrity](https://github.com/denten-courses/teaching-concepts/blob/master/academic-integrity.md)
-* No laptops please. Bring a paper copy of each text to class. [Forum
-* Posts](https://github.com/denten-courses/teaching-concepts/blob/master/forum-posts.md)
+* No laptops please. Bring a paper copy of each text to class.
+* [Forum Posts](https://github.com/denten-courses/teaching-concepts/blob/master/forum-posts.md)
 * [Philosophers'
   Walks](https://github.com/denten-courses/teaching-concepts/blob/master/philosophers-walk.md)
 * [Slow
@@ -39,11 +41,8 @@ the demonstrated ability of a text to provoke productive discussion.”
 
 * All readings not in the standard Core Box will be linked from this document
 directly.
-* [Class forum](https://edstem.org/us/courses/14056/discussion/), using Ed Discussions
-accessible through the CourseWorks site.
-* [Columbia
-Courseworks](https://courseworks2.columbia.edu/courses/83147).
-Used mostly for course evaluation.
+* [Columbia Courseworks](https://courseworks2.columbia.edu/courses/202421) for the Forum, Files, and Assignments.
+
 
 ## Provisional Schedule
 
@@ -51,7 +50,7 @@ Used mostly for course evaluation.
 
 Reading schedule. Course tour.
 
-### Week 2: Republic II 
+### Week 2: Republic II
 
 ### Week 3: Aristotle's Politics and Ethics
 
@@ -60,13 +59,12 @@ Reading schedule. Course tour.
 
 ### Week 4: Hebrew Bible
 
-- Genesis (review), Exodus
+- Genesis, Exodus
 - Book of Job
 
-### Week 5: New Testament and Classic Chinese Philosophy
+### Week 5: New Testament
 
-- Matthew, Luke 
-- From [*Readings in Classical Chinese Philosophy*](https://drive.google.com/file/d/16YFSgWvMf5ilNrdg65CcZj65V1r6mr_T/view?usp=sharing) read "The Analects" by Kongzi (pages 1--60) and Daodejing by Laozi, (Book 1, ch. 1-37).
+- Matthew, Luke, John
 
 ### Week 6: Chinese Philosophy
 
@@ -114,9 +112,14 @@ read "The Analects" by Kongzi (pages 1--60) and Daodejing by Laozi, (Book 1, ch.
 "Friendly Admonition to Peace Concerning Twelve Articles" in the [CC
 Reader](https://www.college.columbia.edu/core/conciv/ccreader).
 
-### Week 12
+### Week 12: Renaissance
 
-- Selections from Giordano Bruno's "On the Cause, Principle, and One" and the "Heroic Frenzies"
-(~1580s).
-- Rene Descartes, [Discourse on the Method of Rightly Conducting the Reason, and seeking Truth in the Sciences](https://www.marxists.org/reference/archive/descartes/1635/discourse-method.htm)
+- Montaigne "On Cannibals," "On Friendship," "On Lying" (~1580).
+- Francis Bacon "On Empire, "On Friendship," "On Truth" (~1597).
+
+### Week 13: Descartes and Conclusion
+
+- Rene Descartes, [Discourse on the Method of Rightly
+Conducting the Reason, and seeking Truth in the
+Sciences](https://www.marxists.org/reference/archive/descartes/1635/discourse-method.htm)
 (1639).
