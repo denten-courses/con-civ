@@ -46,11 +46,13 @@ directly.
 
 ## Provisional Schedule
 
-### Week 1: Plato, Republic I
+### Week 1: Plato's *Republic* I
 
-Reading schedule. Course tour.
+Reading schedule. Course tour. Plato's *Republic* (~375 BCE).
 
-### Week 2: Republic II
+### Week 2: Plato's *Republic* II
+
+The *Republic* continued.
 
 ### Week 3: Aristotle's Politics and Ethics
 
@@ -64,18 +66,27 @@ Reading schedule. Course tour.
 
 ### Week 5: New Testament
 
-- Matthew, Luke, John
+- Mark, Luke, Matthew
+- Synoptic Gospels in-class assignment, using the [Parallels][PLLL] and [The Five Gospels][TFGP] resource.
+
+[TFGP]: https://sites.utoronto.ca/religion/synopsis/
+[PLLL]: https://www.gospelparallels.com/
 
 ### Week 6: Chinese Philosophy
 
 - From [*Readings in Classical Chinese
-  Philosophy*](https://drive.google.com/file/d/16YFSgWvMf5ilNrdg65CcZj65V1r6mr_T/view?usp=sharing)
-read "The Analects" by Kongzi (pages 1--60) and Daodejing by Laozi, (Book 1, ch. 1-37).
-- Selections from the Blue Cliff Record
+Philosophy*](https://drive.google.com/file/d/16YFSgWvMf5ilNrdg65CcZj65V1r6mr_T/view?usp=sharing
+) read *The Analects* (~479 BCE) by Kongzi (pages 1--60) and *Daodejing* (~450 BCE) by Laozi,
+(Book 1, ch. 1-37).
+
+[BCR]: https://drive.google.com/file/d/1RGwDaSd95gGEMC_wE4i6QUKbKwjOcnGs/view?usp=sharing
 
 ### Week 7: Fall of Rome
 
-- Augustine, *City of God* (~410), Books V, ~~VIII~~, XII, and XIV
+- Seneca, selections from [*Moral Letters to Lucilius*][MLL] ~65CE (in-class activity).
+- Augustine, *City of God* (~410CE), Books V, ~~VIII~~, XII, and XIV
+
+[MLL]: https://en.wikisource.org/wiki/Moral_letters_to_Lucilius
 
 ### Week 8: Al-Andalus
 
