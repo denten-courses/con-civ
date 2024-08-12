@@ -1,5 +1,6 @@
-431AD
-=====
+~375 BCE Plato's Republic
+===========================================
+
 - Memory of the Trojan war, Mycenaean collapse, dark ages. Minotaur.
 - Classical vs. Hellenistic Greece.
 - Differences in culture.
@@ -12,3 +13,23 @@ the Nanda Dynasty.
 - The rise of Rome. Wars with Cartha (Tunis) wars.
 - The culture of rhetoric, philosophy, discussion.
 - Plato's goods.
+
+
+~60 CE New Testament
+===========================================
+
+- Rome.
+- Silk trade.
+- Fall of Rome.
+- Byzantium.
+
+CE Classical Chinese Readings
+===========================================
+- Western and Eastern Han Dynasty.
+- On Confucianism and Taosim by Liu Bang's example.
+- Silk trade.
+- The Eunuch court.
+- Taoist rebellion.
+
+
+
