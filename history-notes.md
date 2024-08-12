@@ -28,8 +28,10 @@ CE Classical Chinese Readings
 - Western and Eastern Han Dynasty.
 - On Confucianism and Taosim by Liu Bang's example.
 - Silk trade.
+- Harem politics.
 - The Eunuch court.
 - Taoist rebellion.
+
 
 
 
