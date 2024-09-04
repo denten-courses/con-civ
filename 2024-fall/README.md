@@ -1,11 +1,12 @@
 # Contemporary Civilization
 
 Section 5 | Fall 2024  
-Dennis Yi Tenen, Philosophy Hall 408e  
+Dennis Yi Tenen,   
 Columbia University  
 
 *When?* Mon & Wed, 10:10--12pm  
-*Where?* TBD
+*Where?* Hamilton 309  
+*Office Hours* Wed 12--2pm (reserve in advance), Philosophy Hall 408e  
 
 ## Description
 
