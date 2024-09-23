@@ -57,7 +57,7 @@ The *Republic* continued.
 
 ### Week 3: Aristotle's Politics and Ethics
 
-- Books I, II, III, V from the *Politics*
+- Books ~~I,~~ II, III, V from the *Politics*
 - Books II and V in Aristotle's *Ethics*
 
 ### Week 4: Hebrew Bible
