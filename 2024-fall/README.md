@@ -68,8 +68,8 @@ The *Republic* continued.
 ### Week 5: New Testament
 
 - Assigned one of: Mark, Luke, Matthew.
-- Romans, Galatians, Book of Revelation
-- Synoptic Gospels in-class assignment, using the [Parallels][PLLL] and [The Five Gospels][TFGP] resource.
+- ~~Romans, Galatians, Book of Revelation~~~
+-  Synoptic Gospels in-class assignment, using the [Parallels][PLLL] and [The Five Gospels][TFGP] resource.
 
 [TFGP]: https://sites.utoronto.ca/religion/synopsis/
 [PLLL]: https://www.gospelparallels.com/
@@ -80,7 +80,10 @@ The *Republic* continued.
 Philosophy*](https://drive.google.com/file/d/16YFSgWvMf5ilNrdg65CcZj65V1r6mr_T/view?usp=sharing
 ) read *The Analects* (~479 BCE) by Kongzi (pages 1--60) and *Daodejing* (~450 BCE) by Laozi,
 (Book 1, ch. 1-37).
-- Selections (TBD) from the [*Scripture on Great Peace*](https://drive.google.com/file/d/1c2PQ89wCnWC1VQFljBLtIxe7pRuekryV/view?usp=sharing).
+- Sections 41 "How to Distinguish between Poor and Rich," 43 "How to Promote the Good
+and Halt the Wicked," and 55 "How to Classify Old Texts and Give Title to the Book," and  (TBD) from the [*Scripture on Great Peace*](https://drive.google.com/file/d/1c2PQ89wCnWC1VQFljBLtIxe7pRuekryV/view?usp=sharing).
+
+**!!** You Must be logged in to Google Drive with your UNI to view both texts. Please print the relevant sections. 
 
 [BCR]: https://drive.google.com/file/d/1RGwDaSd95gGEMC_wE4i6QUKbKwjOcnGs/view?usp=sharing
 
