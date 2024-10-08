@@ -68,7 +68,7 @@ The *Republic* continued.
 ### Week 5: New Testament
 
 - Assigned one of: Mark, Luke, Matthew.
-- ~~Romans, Galatians, Book of Revelation~~~
+- ~~Romans, Galatians, Book of Revelation~~
 -  Synoptic Gospels in-class assignment, using the [Parallels][PLLL] and [The Five Gospels][TFGP] resource.
 
 [TFGP]: https://sites.utoronto.ca/religion/synopsis/
