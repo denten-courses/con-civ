@@ -89,7 +89,7 @@ and Halt the Wicked," and 55 "How to Classify Old Texts and Give Title to the Bo
 
 ### Week 7: Roman Thought
 
-- Seneca, selections from [*Moral Letters to Lucilius*][MLL] ~65 CE (in-class activity).
+- Seneca: Prepare 3-5 letters of your choosing from [*Moral Letters to Lucilius*][MLL] ~65 CE for discussion.
 - Augustine, *City of God* (~410 CE), Books V, ~~VIII~~, XII, and XIV
 
 [MLL]: https://en.wikisource.org/wiki/Moral_letters_to_Lucilius
