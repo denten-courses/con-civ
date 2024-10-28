@@ -98,7 +98,7 @@ and Halt the Wicked," and 55 "How to Classify Old Texts and Give Title to the Bo
 
 - "The Son of Consciousness" (Hayy Ibn Yaqzān) ~1150 by Ibn Tufayl, pages 3--67 in the [CC
   Reader][73].
-- [*The Guide of the Perplexed*][72] c. 1185 by Moses Maimonides
+- ~~[*The Guide of the Perplexed*][72] c. 1185 by Moses Maimonides~~
 - Chapter VI, Sections 1--9 in the [Muqaddimah][71] (1377) by Ibn Khaldun.
 
 [71]: https://www.muslimphilosophy.com/ik/Muqaddimah/Chapter6/Toc_Ch_6.htm
