@@ -96,7 +96,7 @@ and Halt the Wicked," and 55 "How to Classify Old Texts and Give Title to the Bo
 
 ### Week 8: Al-Andalus
 
-- [*The Son of Consciousness*][73] (Hayy Ibn Yaqzān) ~1150 by Ibn Tufayl, pages 3--67.
+- [*The Son of Consciousness*][73] (Hayy Ibn Yaqzān) ~1150 by Ibn Tufayl.
 - ~~[*The Guide of the Perplexed*][72] c. 1185 by Moses Maimonides~~
 - ~~Chapter VI, Sections 1--9 in the [Muqaddimah][71] (1377) by Ibn Khaldun.~~
 
