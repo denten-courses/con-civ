@@ -109,8 +109,9 @@ and Halt the Wicked," and 55 "How to Classify Old Texts and Give Title to the Bo
 ### Week 9: Medieval Europe
 
 - Christine de Pizan, [*The Book of Body Politic*][83] (1407), pages 1-111.
-- ~~In-class exercise on [Summa Theologiae][81] (1250) by Thomas Aquinas.~~~
 - ~~Julian of Norwich, Revelations of Divine Love (1450)~~
+- ~~In-class exercise on [Summa Theologiae][81] (1250) by Thomas Aquinas.~~
+
 
 [81]: https://www.newadvent.org/summa/
 [82]: https://www.college.columbia.edu/core/system/files/text/Revelations%20of%20Divine%20Love.pdf
