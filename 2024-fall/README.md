@@ -133,8 +133,11 @@ Reader](https://www.college.columbia.edu/core/conciv/ccreader).
 
 ### Week 12: Renaissance
 
-- Montaigne "On Cannibals," "On Friendship," "On Lying" (~1580).
-- Francis Bacon "On Empire, "On Friendship," "On Truth" (~1597).
+- Montaigne "On Cannibals," "On Friendship," "On Lying" (~1580) in his [Essays][1201].
+- Francis Bacon "On Empire, "On Friendship," "On Truth" (~1597) in his [Essays][1202].
+
+  [1201]: https://www.google.com/books/edition/Montaigne/qmJ1dUl_WEYC?hl=en&gbpv=0
+  [1202]: https://www.google.com/books/edition/Essays_by_Francis_Bacon/caWvqM5dmN0C?hl=en&gbpv=0
 
 ### Week 13: Descartes and Conclusion
 
