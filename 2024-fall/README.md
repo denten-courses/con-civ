@@ -141,7 +141,6 @@ Reader](https://www.college.columbia.edu/core/conciv/ccreader).
 
 ### Week 13: Descartes and Conclusion
 
-- Rene Descartes, [Discourse on the Method of Rightly
-Conducting the Reason, and seeking Truth in the
-Sciences](https://www.marxists.org/reference/archive/descartes/1635/discourse-method.htm)
-(1639).
+- Rene Descartes, [Discourse on the Method][1301] (1639), pages 1 -- 46.
+
+[1301]: https://drive.google.com/file/d/10o43EQ10TTtYeLkTdeCfngFg7R5rfZs0/view?usp=sharing
