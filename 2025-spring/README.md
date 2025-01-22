@@ -109,7 +109,9 @@ metric that rewards regular engagement with the material.
 
 - (re)Introductions, course policies, the big picture.
 - Review of the last semester.
-- In class read: "What Is Enlightenment?" (1974) by Immanuel Kant.
+- In class read: "[What Is Enlightenment?][01]" (1974) by Immanuel Kant.
+
+  [01]: https://www.nypl.org/sites/default/files/kant_whatisenlightenment.pdf
 
 ### Week 2
 
