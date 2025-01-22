@@ -115,8 +115,12 @@ metric that rewards regular engagement with the material.
 
 ### Week 2
 
-- Thomas Hobbes, *Leviathan* (~1645): "Introduction" and "Part I: Of Man." Concentrate on
-  Part 1: Chapter 13-16. In addition please prepare Part 2: Chapter 21, 22
+- Robert Filmer's [*Patriarchia, or The Natural Powers of Kings*][02] (1680), pages 1--36.
+- Thomas Hobbes, *Leviathan* (~1645): "Introduction" and "Part I: Of Man." Concentrate on Part 1: Chapter 13-16. In addition please prepare Part 2: Chapter 21, 22
+
+  [02]: https://drive.google.com/file/d/148Fe7NtS_4aip_HtdVzeU86kiR46NE-U/view?usp=sharing
+
+  
 
 ### Week 3
 
