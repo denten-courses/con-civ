@@ -4,12 +4,13 @@ date: Spring 2025
 instructor: Dennis Yi Tenen
 contact: dt2406@columbia.edu
 time: M&W 10:10am -- noon
-location:
+location: 253 Engineering Terrace
 
 ---
 
 ## Office Hours
-W 4--5pm Philosophy Hall 408e
+W 2--4pm Philosophy Hall 408e  
+Send Google Calendar invite to confirm.
 
 ## The Enlightenment and Its Discontents
 
@@ -108,6 +109,7 @@ metric that rewards regular engagement with the material.
 
 - (re)Introductions, course policies, the big picture.
 - Review of the last semester.
+- In class read: "What Is Enlightenment?" (1974) by Immanuel Kant.
 
 ### Week 2
 
