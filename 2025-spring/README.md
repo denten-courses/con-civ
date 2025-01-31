@@ -124,8 +124,10 @@ metric that rewards regular engagement with the material.
 
 ### Week 3
 
-- John Locke, *Second Treatise of Government* and "An Essay Concerning Toleration."
-- Selections from David Hume
+- John Locke, *Second Treatise of Government* (1690). 
+- "[OF the Original Contract][31]" (1748) by David Hume.
+
+  [31]: https://drive.google.com/file/d/1jOsxSeDASSdA7-DPJ5czS9VcGB2_tWwg/view?usp=sharing
 
 ### Week 4
 
