@@ -134,7 +134,6 @@ metric that rewards regular engagement with the material.
 - Jean-Jacques Rousseau, *Of the Social Contract, Or Principles of Political Right*, 1762:
   Books I and II.
 - *Discourse on the Origin and Basis of Inequality Among Men* (1754), pages 45-92.
-- Kant, Groundwork of the Metaphysics of Morals
 
 ### Week 5
 
@@ -202,9 +201,9 @@ Souls of White Folk][905]"
 
 ### Week 10
 
-- Simone de Beauvoir, from [*Second Sex*][1104] (1949): Chapter 3: Historical Materialism, Chapter 10:
-  Woman's Situation and Character, Chapter 14: The Independent Woman, and Conclusion.
-- Selections from *Discourse on Colonialism* (1955) by Aimé Césaire
+- Simone de Beauvoir, from [*Second Sex*][1104] (1949): Chapter 3: Historical Materialism,
+Chapter 10: Woman's Situation and Character, Chapter 14: The Independent Woman, and Conclusion.
+- Selections from *Discourse on Colonialism* (1955) by Aimé Césaire.
 
 [1101]: https://archive.org/download/nationalism00tagorich/nationalism00tagorich_bw.pdf
 [1102]: https://courseworks2.columbia.edu/files/7692254/download?download_frd=1
@@ -215,7 +214,8 @@ Souls of White Folk][905]"
 ### Week 11
 
 - Chapters 5, 6, and 9 from [*The Origins of Totalitarianism*][1201] (1951) by Hannah Arendt.
-- Selections from The Gulag Archipelago
+- "Letter from a Birmingham Jail" (1963) by Martin Luther King Jr.
+- Selections from *The Gulag Archipelago* (~1960s) by Aleksandr Solzhenitsyn.
 
 [1201]: https://courseworks2.columbia.edu/courses/189092/files?preview=20547285
 [1202]: https://courseworks2.columbia.edu/courses/189092/files?preview=20547284
