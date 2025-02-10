@@ -120,11 +120,9 @@ metric that rewards regular engagement with the material.
 
   [02]: https://drive.google.com/file/d/148Fe7NtS_4aip_HtdVzeU86kiR46NE-U/view?usp=sharing
 
-  
-
 ### Week 3
 
-- John Locke, *Second Treatise of Government* (1690). 
+- John Locke, *Second Treatise of Government* (1690).
 - "[OF the Original Contract][31]" (1748) by David Hume.
 
   [31]: https://drive.google.com/file/d/1jOsxSeDASSdA7-DPJ5czS9VcGB2_tWwg/view?usp=sharing
@@ -137,8 +135,10 @@ metric that rewards regular engagement with the material.
 
 ### Week 5
 
-- *Vindication of the Rights of Woman* (1792) by Mary Wollstonecraft: Introduction, Ch 1-4, 9, 13.
+- *Vindication of the Rights of Woman* (1792) by Mary Wollstonecraft: Introduction, Ch 1-4, 9,
+13.
 - Olympe de Gouges, [*Declaration of Rights of Women and the Female Citizen*][602] (1791)
+- Sections II & III from Kant's [*Groundwork of the Metaphysics of Morals*][61] (~1770s).
 
 [402]:https://archive.org/download/historicalmoralv00woll/historicalmoralv00woll.pdf
 [401]: https://oll.libertyfund.org/sources/1327-facsimile-pdf-burke-select-works-of-edmund-burke-vol-2/download
@@ -146,8 +146,7 @@ metric that rewards regular engagement with the material.
 
 ### Week 6
 
-  - Sections II & III from Kant's [*Groundwork of the Metaphysics of Morals*][61] (~1770s).
-  - Immanuel Kant, “[Idea for a Universal History with a Cosmopolitan Aim][62]”
+  - Immanuel Kant, “[Idea for a Universal History with a Cosmopolitan Aim][62]” (~1770s).
   - Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776): Book 1
   (Chapter 1-5), Book 4 (Chapter 7, 8).
 
@@ -175,8 +174,8 @@ selection are [here][81].
     
 ### Week 8
 
-  - ~Chapter I, II, III in John Stewart Mill, *On Liberty* (1859). Should be one of the
-  standard CC paperbacks.~
+  - Chapter I, II, III in John Stewart Mill, *On Liberty* (1859). Should be one of the
+  standard CC paperbacks.
   - ~Selection from Nietzsche, *On the Genealogy of Morals and Ecce Homo* (1887)~
 
 [701]: https://doi-org.ezproxy.cul.columbia.edu/10.1017/CBO9781139149785
