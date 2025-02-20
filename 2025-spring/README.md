@@ -138,7 +138,6 @@ metric that rewards regular engagement with the material.
 - *Vindication of the Rights of Woman* (1792) by Mary Wollstonecraft: Introduction, Ch 1-4, 9,
 13.
 - Olympe de Gouges, [*Declaration of Rights of Women and the Female Citizen*][602] (1791)
-- Sections II & III from Kant's [*Groundwork of the Metaphysics of Morals*][61] (~1770s).
 
 [402]:https://archive.org/download/historicalmoralv00woll/historicalmoralv00woll.pdf
 [401]: https://oll.libertyfund.org/sources/1327-facsimile-pdf-burke-select-works-of-edmund-burke-vol-2/download
@@ -146,12 +145,13 @@ metric that rewards regular engagement with the material.
 
 ### Week 6
 
+  - Sections II & III from Kant's [*Groundwork of the Metaphysics of Morals*][61] (~1770s).
   - Immanuel Kant, “[Idea for a Universal History with a Cosmopolitan Aim][62]” (~1770s).
   - Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776): Book 1
   (Chapter 1-5), Book 4 (Chapter 7, 8).
 
-[61]: https://courseworks2.columbia.edu/courses/189092/files?preview=20086726
-[62]: https://courseworks2.columbia.edu/courses/189092/files?preview=20086595
+[61]: https://drive.google.com/file/d/14-w80K_tftICk8-Y4V82qO_7AZRXszeB/view?usp=sharing
+[62]: https://drive.google.com/file/d/1T5vrRt08K-Ut_BHDq2Rr6WK3EMrLO4dG/view?usp=sharing
 
 ### Week 7
 
