@@ -137,7 +137,7 @@ metric that rewards regular engagement with the material.
 
 - *Vindication of the Rights of Woman* (1792) by Mary Wollstonecraft: Introduction, Ch 1-4, 9,
 13.
-- Olympe de Gouges, [*Declaration of Rights of Women and the Female Citizen*][602] (1791)
+- ~~Olympe de Gouges, [*Declaration of Rights of Women and the Female Citizen*][602] (1791)~~
 
 [402]:https://archive.org/download/historicalmoralv00woll/historicalmoralv00woll.pdf
 [401]: https://oll.libertyfund.org/sources/1327-facsimile-pdf-burke-select-works-of-edmund-burke-vol-2/download
@@ -147,21 +147,20 @@ metric that rewards regular engagement with the material.
 
   - Sections II & III from Kant's [*Groundwork of the Metaphysics of Morals*][61] (~1770s).
   - Immanuel Kant, “[Idea for a Universal History with a Cosmopolitan Aim][62]” (~1770s).
-  - Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776): Book 1
-  (Chapter 1-5), Book 4 (Chapter 7, 8).
+
 
 [61]: https://drive.google.com/file/d/14-w80K_tftICk8-Y4V82qO_7AZRXszeB/view?usp=sharing
 [62]: https://drive.google.com/file/d/1T5vrRt08K-Ut_BHDq2Rr6WK3EMrLO4dG/view?usp=sharing
 
 ### Week 7
 
+- Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776): Book 1
+  (Chapter 1-5), Book 4 (Chapter 7, 8).
  - G. W. F. Hegel, "[The Idea of History and its
   Realization](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)"
   and "[The Course of World
   History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)" (~1850s).
-- Karl Marx, *Capital: A Critique of Political Economy* (1867): Part I, Chapter 1 (pages
-  41-96). I prefer you use the paper copy, but in case you don't have it the full text and the
-selection are [here][81].
+
 
 [81]: https://drive.google.com/drive/folders/1h0SPClwWiPkzu1OXOP4UwnlroW6_TAP9?usp=sharing
 [82]: https://archive.org/download/in.ernet.dli.2015.233884/2015.233884.The-Division_text.pdf
@@ -174,9 +173,9 @@ selection are [here][81].
     
 ### Week 8
 
-  - Chapter I, II, III in John Stewart Mill, *On Liberty* (1859). Should be one of the
-  standard CC paperbacks.
-  - ~Selection from Nietzsche, *On the Genealogy of Morals and Ecce Homo* (1887)~
+- Karl Marx, *Capital: A Critique of Political Economy* (1867): Part I, Chapter 1 (pages 41-96). I prefer you use the paper copy, but in case you don't have it the full text and the selection are [here][81].
+- Selection from Nietzsche, *On the Genealogy of Morals and Ecce Homo* (1887)~
+
 
 [701]: https://doi-org.ezproxy.cul.columbia.edu/10.1017/CBO9781139149785
 [702]: http://oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-xxx-writings-on-india
@@ -186,6 +185,8 @@ selection are [here][81].
 
 ### Week 9
 
+- Chapter I, II, III in John Stewart Mill, *On Liberty* (1859). Should be one of the
+  standard CC paperbacks.
 - W. E. B. Du Bois, [*The Souls of Black Folk*][902] (1903): Chapters 1, 2, 3, 9, and 14 + "[The
 Souls of White Folk][905]"
 - "Philosophies of Freedom," pages 271--299 in [*Philosophy and Civilization*][906] by
