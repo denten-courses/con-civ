@@ -174,14 +174,14 @@ metric that rewards regular engagement with the material.
 ### Week 8
 
 - Karl Marx, *Capital: A Critique of Political Economy* (1867): Part I, Chapter 1 (pages 41-96). I prefer you use the paper copy, but in case you don't have it the full text and the selection are [here][81].
-- Selection from Nietzsche, *On the Genealogy of Morals and Ecce Homo* (1887)~
-
+- [*On the Advantage and Disadvantage of History for Life*][706] (1874) by Friedrich Nietzsche.
 
 [701]: https://doi-org.ezproxy.cul.columbia.edu/10.1017/CBO9781139149785
 [702]: http://oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-xxx-writings-on-india
 [703]: https://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/ch07.htm
 [704]: https://courseworks2.columbia.edu/courses/93768/files?preview=7478777
 [705]: https://oll.libertyfund.org/title/bentham-an-introduction-to-the-principles-of-morals-and-legislation
+[706]: https://drive.google.com/file/d/1nr9nrSpdGeNG-V1Lm1i1Yv6KEXosYGqE/view?usp=sharing
 
 ### Week 9
 
