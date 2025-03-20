@@ -170,28 +170,23 @@ metric that rewards regular engagement with the material.
 [261]: http://www.inp.uw.edu.pl/mdsie/Political_Thought/Kant%20-%20groundwork%20for%20the%20metaphysics%20of%20morals%20with%20essays.pdf
 [262]: https://courseworks2.columbia.edu/courses/93768/files?preview=7158131
 [602]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/j.ctt19b9jvh.24?seq=1#metadata_info_tab_contents
-    
+
 ### Week 8
 
 - Karl Marx, *Capital: A Critique of Political Economy* (1867): Part I, Chapter 1 (pages 41-96). I prefer you use the paper copy, but in case you don't have it the full text and the selection are [here][81].
-- [*On the Advantage and Disadvantage of History for Life*][706] (1874) by Friedrich Nietzsche.
 
 [701]: https://doi-org.ezproxy.cul.columbia.edu/10.1017/CBO9781139149785
 [702]: http://oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-xxx-writings-on-india
 [703]: https://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/ch07.htm
 [704]: https://courseworks2.columbia.edu/courses/93768/files?preview=7478777
 [705]: https://oll.libertyfund.org/title/bentham-an-introduction-to-the-principles-of-morals-and-legislation
-[706]: https://drive.google.com/file/d/1nr9nrSpdGeNG-V1Lm1i1Yv6KEXosYGqE/view?usp=sharing
 
 ### Week 9
 
-- Chapter I, II, III in John Stewart Mill, *On Liberty* (1859). Should be one of the
-  standard CC paperbacks.
-- W. E. B. Du Bois, [*The Souls of Black Folk*][902] (1903): Chapters 1, 2, 3, 9, and 14 + "[The
-Souls of White Folk][905]"
-- "Philosophies of Freedom," pages 271--299 in [*Philosophy and Civilization*][906] by
-  John Dewey.
+- [*On the Advantage and Disadvantage of History for Life*][706] (1874) by Friedrich Nietzsche.
+- Chapter I, II, III in John Stewart Mill, *On Liberty* (1859).
 
+[706]: https://drive.google.com/file/d/1nr9nrSpdGeNG-V1Lm1i1Yv6KEXosYGqE/view?usp=sharing
 [91]: https://archive.org/download/mindofprimitivem031738mbp/mindofprimitivem031738mbp.pdf
 [902]: https://archive.org/download/cu31924024920492/cu31924024920492.pdf
 [93]: https://courseworks2.columbia.edu/courses/122416/files 
@@ -201,9 +196,9 @@ Souls of White Folk][905]"
 
 ### Week 10
 
-- Simone de Beauvoir, from [*Second Sex*][1104] (1949): Chapter 3: Historical Materialism,
-Chapter 10: Woman's Situation and Character, Chapter 14: The Independent Woman, and Conclusion.
-- Selections from *Discourse on Colonialism* (1955) by Aimé Césaire.
+- W.E.B. Du Bois, "[The Souls of White Folk][905]" in Darkwater.
+- Selections from *Civilization and Its
+Discontents* by Sigmund Freud.
 
 [1101]: https://archive.org/download/nationalism00tagorich/nationalism00tagorich_bw.pdf
 [1102]: https://courseworks2.columbia.edu/files/7692254/download?download_frd=1
@@ -213,9 +208,11 @@ Chapter 10: Woman's Situation and Character, Chapter 14: The Independent Woman, 
 
 ### Week 11
 
-- Chapters 5, 6, and 9 from [*The Origins of Totalitarianism*][1201] (1951) by Hannah Arendt.
-- "Letter from a Birmingham Jail" (1963) by Martin Luther King Jr.
-- Selections from *The Gulag Archipelago* (~1960s) by Aleksandr Solzhenitsyn.
+- Simone de Beauvoir, from [*Second Sex*][1104] (1949): Chapter 3: Historical Materialism,
+Chapter 10: Woman's Situation and Character, Chapter 14: The Independent Woman, and Conclusion.
+- Selections from *Discourse on Colonialism* (1955) by Aimé Césaire. - "Letter from a
+Birmingham Jail" (1963) by Martin Luther King Jr.
+
 
 [1201]: https://courseworks2.columbia.edu/courses/189092/files?preview=20547285
 [1202]: https://courseworks2.columbia.edu/courses/189092/files?preview=20547284
@@ -223,6 +220,11 @@ Chapter 10: Woman's Situation and Character, Chapter 14: The Independent Woman, 
 [1204xx]: https://courseworks2.columbia.edu/courses/189092/files?preview=20617212
 
 ### Week 12
+
+- Chapters 5, 6, and 9
+from [*The Origins of Totalitarianism*][1201] (1951) by Hannah Arendt.
+- Selections from *The Gulag Archipelago* (~1960s) by Aleksandr Solzhenitsyn.
+
 
 - "[The Way of the Humane Authority][1302]" from _A Confucian Constitutional Order_(2012) by by Jiang Qing.
 - "[The Unheard-of][1303]" from _The Ark of Speech_(1998) by Jean-Louis Chretien.
