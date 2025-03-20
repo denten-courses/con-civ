@@ -183,16 +183,11 @@ metric that rewards regular engagement with the material.
 
 ### Week 9
 
-- [*On the Advantage and Disadvantage of History for Life*][706] (1874) by Friedrich Nietzsche.
+- [*On the Advantage and Disadvantage of History for Life*][906] (1874) by Friedrich Nietzsche.
 - Chapter I, II, III in John Stewart Mill, *On Liberty* (1859).
 
-[706]: https://drive.google.com/file/d/1nr9nrSpdGeNG-V1Lm1i1Yv6KEXosYGqE/view?usp=sharing
-[91]: https://archive.org/download/mindofprimitivem031738mbp/mindofprimitivem031738mbp.pdf
-[902]: https://archive.org/download/cu31924024920492/cu31924024920492.pdf
-[93]: https://courseworks2.columbia.edu/courses/122416/files 
-[94]: https://archive.org/download/in.ernet.dli.2015.190550/2015.190550.The-Public-And-Its-Problemms_text.pdf
-[905]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjai7en9OfvAhU1MlkFHVHRBk8QFjAAegQIAxAD&url=http%3A%2F%2Fwww.loa.org%2Fimages%2Fpdf%2FDu_Bois_White_Folk.pdf&usg=AOvVaw2Eq4esYzDBZHazJ6gr07eQ
-[906]: https://courseworks2.columbia.edu/courses/189092/files?preview=20402796
+[906]: https://drive.google.com/file/d/1nr9nrSpdGeNG-V1Lm1i1Yv6KEXosYGqE/view?usp=sharing
+[907]: https://drive.google.com/file/d/1Y7CU785tEjZk8wNcda2H3U-88y3Mids7/view?usp=sharing
 
 ### Week 10
 
