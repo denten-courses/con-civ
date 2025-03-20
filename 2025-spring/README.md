@@ -184,7 +184,7 @@ metric that rewards regular engagement with the material.
 ### Week 9
 
 - [*On the Advantage and Disadvantage of History for Life*][906] (1874) by Friedrich Nietzsche.
-- Chapter I, II, III in John Stewart Mill, *On Liberty* (1859).
+- Chapter I, II, III in John Stewart Mill, [*On Liberty*][907] (1859).
 
 [906]: https://drive.google.com/file/d/1nr9nrSpdGeNG-V1Lm1i1Yv6KEXosYGqE/view?usp=sharing
 [907]: https://drive.google.com/file/d/1Y7CU785tEjZk8wNcda2H3U-88y3Mids7/view?usp=sharing
