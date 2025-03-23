@@ -183,23 +183,16 @@ metric that rewards regular engagement with the material.
 
 ### Week 9
 
-- [*On the Advantage and Disadvantage of History for Life*][906] (1874) by Friedrich Nietzsche.
-- Chapter I, II, III in John Stewart Mill, [*On Liberty*][907] (1859).
+- [*On the Advantage and Disadvantage of History for Life*][806] (1874) by Friedrich Nietzsche.
+- Chapter I, II, III in John Stewart Mill, [*On Liberty*][807] (1859).
 
-[906]: https://drive.google.com/file/d/1nr9nrSpdGeNG-V1Lm1i1Yv6KEXosYGqE/view?usp=sharing
-[907]: https://drive.google.com/file/d/1Y7CU785tEjZk8wNcda2H3U-88y3Mids7/view?usp=sharing
+[806]: https://drive.google.com/file/d/1nr9nrSpdGeNG-V1Lm1i1Yv6KEXosYGqE/view?usp=sharing
+[807]: https://drive.google.com/file/d/1Y7CU785tEjZk8wNcda2H3U-88y3Mids7/view?usp=sharing
 
 ### Week 10
 
 - W.E.B. Du Bois, "[The Souls of White Folk][905]" in Darkwater.
-- Selections from *Civilization and Its
-Discontents* by Sigmund Freud.
-
-[1101]: https://archive.org/download/nationalism00tagorich/nationalism00tagorich_bw.pdf
-[1102]: https://courseworks2.columbia.edu/files/7692254/download?download_frd=1
-[1103]: https://courseworks2.columbia.edu/files/7691393/download?download_frd=1
-[1104]: https://courseworks2.columbia.edu/courses/122416/files?preview=10924286
-[1105]: https://courseworks2.columbia.edu/courses/189092/files
+- Selections from *Civilization and Its Discontents* by Sigmund Freud.
 
 ### Week 11
 
@@ -209,22 +202,19 @@ Chapter 10: Woman's Situation and Character, Chapter 14: The Independent Woman, 
 Birmingham Jail" (1963) by Martin Luther King Jr.
 
 
-[1201]: https://courseworks2.columbia.edu/courses/189092/files?preview=20547285
-[1202]: https://courseworks2.columbia.edu/courses/189092/files?preview=20547284
-[1203]: https://courseworks2.columbia.edu/courses/93768/files?preview=7691600
-[1204xx]: https://courseworks2.columbia.edu/courses/189092/files?preview=20617212
-
 ### Week 12
 
-- Chapters 5, 6, and 9
-from [*The Origins of Totalitarianism*][1201] (1951) by Hannah Arendt.
-- Selections from *The Gulag Archipelago* (~1960s) by Aleksandr Solzhenitsyn.
+- Chapters 5, 6, and 9 from [*The Origins of Totalitarianism*][1201] (1951) by Hannah Arendt.
+- "Truth in Politics" and "Lying in Politics" by Hannah Arendt. Link [here][1202].
 
+[1202]: https://drive.google.com/file/d/1I-3FnllAirKRg81heOTiZsAECJ-lg9dr/view?usp=sharing
+
+
+### Week 13
 
 - "[The Way of the Humane Authority][1302]" from _A Confucian Constitutional Order_(2012) by by Jiang Qing.
 - "[The Unheard-of][1303]" from _The Ark of Speech_(1998) by Jean-Louis Chretien.
 - Any Combination of Chapters from [*In the Swarm: Digital Prospects*][1301] (2017) by Byung-Chul Han.
-  
 
 [1301]: https://courseworks2.columbia.edu/courses/189092/files?preview=20636457
 [1302]: https://courseworks2.columbia.edu/courses/189092/files?preview=20636996
