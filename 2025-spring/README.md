@@ -202,9 +202,11 @@ Voices from within the Veil* (1920).
 
 - Simone de Beauvoir, from [*Second Sex*][1104] (1949): Chapter 3: Historical Materialism,
 Chapter 10: Woman's Situation and Character, Chapter 14: The Independent Woman, and Conclusion.
-- Selections from *Discourse on Colonialism* (1955) by Aimé Césaire. - "Letter from a
-Birmingham Jail" (1963) by Martin Luther King Jr.
+- Pages 28-78 (the main essay) from [*Discourse on Colonialism*][1105] (1955) by Aimé Césaire.
+- "Letter from a Birmingham Jail" (1963) by Martin Luther King Jr.
 
+[1104]: https://drive.google.com/file/d/1-lMtLg2JTf22zmu_iOcvCg10rJxUehlA/view?usp=drive_link
+[1105]: https://drive.google.com/file/d/1fkD1KfqA2d24--uEgC0a0d82I3oBVJg9/view?usp=sharing
 
 ### Week 12
 
