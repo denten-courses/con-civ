@@ -193,7 +193,7 @@ metric that rewards regular engagement with the material.
 
 - W.E.B. Du Bois, "[The Souls of White Folk][905]" and "Of Work and Wealth" from *Darkwater:
 Voices from within the Veil* (1920).
-- Chapters I, V, VII, and VIII from *Civilization and Its Discontents* (1929) by Sigmund Freud.
+- Chapters I, V, VII, and VIII from [*Civilization and Its Discontents*][906] (1929) by Sigmund Freud.
 
 [905]: https://drive.google.com/file/d/1CEPkFj-oEYDMEdi4xlAOicWznTKrRERe/view?usp=drive_link
 [906]: https://drive.google.com/file/d/1EPAcDwbq2xTaCa6TQvjILf7n2rk3-Diq/view?usp=sharing
