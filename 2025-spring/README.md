@@ -198,7 +198,8 @@ Voices from within the Veil* (1920).
 
 ### Week 11
 
-- Chapters I, V, VII, and VIII from [*Civilization and Its Discontents*][906] (1929) by Sigmund Freud.
+- Chapters I, V, VII, and VIII from [*Civilization and Its Discontents*][906] (1929) by Sigmund
+Freud.
 
 [906]: https://drive.google.com/file/d/1EPAcDwbq2xTaCa6TQvjILf7n2rk3-Diq/view?usp=sharing
 
@@ -219,4 +220,4 @@ Chapter 10: Woman's Situation and Character, Chapter 14: The Independent Woman, 
 - "Truth in Politics" and "Lying in Politics" by Hannah Arendt. Link [here][1301].
 
 [1301]: https://drive.google.com/file/d/1I-3FnllAirKRg81heOTiZsAECJ-lg9dr/view?usp=sharing
-[1302]: https://drive.google.com/file/d/1MjpxsdUqXY_PO-1MzFLqoiQQVNNxUz7M/view?usp=sharing
+[1302]: https://drive.google.com/file/d/18-h82BBxtJWc6WX3Q6OMdheyXMG6AThG/view?usp=drive_link
