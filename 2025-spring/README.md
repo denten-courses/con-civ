@@ -199,31 +199,24 @@ Voices from within the Veil* (1920).
 ### Week 11
 
 - Chapters I, V, VII, and VIII from [*Civilization and Its Discontents*][906] (1929) by Sigmund Freud.
-- Simone de Beauvoir, from [*Second Sex*][1104] (1949): Chapter 3: Historical Materialism,
-Chapter 10: Woman's Situation and Character, Chapter 14: The Independent Woman, and Conclusion.
 
-[1104]: https://drive.google.com/file/d/1-lMtLg2JTf22zmu_iOcvCg10rJxUehlA/view?usp=drive_link
 [906]: https://drive.google.com/file/d/1EPAcDwbq2xTaCa6TQvjILf7n2rk3-Diq/view?usp=sharing
 
 ### Week 12
 
+- Simone de Beauvoir, from [*Second Sex*][1104] (1949): Chapter 3: Historical Materialism,
+Chapter 10: Woman's Situation and Character, Chapter 14: The Independent Woman, and Conclusion.
 - Pages 28-78 (the main essay) from [*Discourse on Colonialism*][1105] (1955) by Aimé Césaire.
 - "[Letter from a Birmingham Jail][1203]" (1963) by Martin Luther King Jr.
-- Chapters 5, 6, and 9 from [*The Origins of Totalitarianism*][1201] (1951) by Hannah Arendt.
-- "Truth in Politics" and "Lying in Politics" by Hannah Arendt. Link [here][1202].
 
-[1202]: https://drive.google.com/file/d/1I-3FnllAirKRg81heOTiZsAECJ-lg9dr/view?usp=sharing
+[1104]: https://drive.google.com/file/d/1-lMtLg2JTf22zmu_iOcvCg10rJxUehlA/view?usp=drive_link
 [1203]: https://library.samford.edu/special/treasures/2013/graphics/SC4630wm.pdf
 [1105]: https://drive.google.com/file/d/1fkD1KfqA2d24--uEgC0a0d82I3oBVJg9/view?usp=sharing
 
-
 ### Week 13
 
-- "[The Way of the Humane Authority][1302]" from _A Confucian Constitutional Order_(2012) by by Jiang Qing.
-- "[The Unheard-of][1303]" from _The Ark of Speech_(1998) by Jean-Louis Chretien.
-- Any Combination of Chapters from [*In the Swarm: Digital Prospects*][1301] (2017) by Byung-Chul Han.
+- Chapters 10 and 11 from [*The Origins of Totalitarianism*][1302] (1951) by Hannah Arendt.
+- "Truth in Politics" and "Lying in Politics" by Hannah Arendt. Link [here][1301].
 
-[1301]: https://courseworks2.columbia.edu/courses/189092/files?preview=20636457
-[1302]: https://courseworks2.columbia.edu/courses/189092/files?preview=20636996
-[1303]: https://courseworks2.columbia.edu/courses/189092/files?preview=20637149
-
+[1301]: https://drive.google.com/file/d/1I-3FnllAirKRg81heOTiZsAECJ-lg9dr/view?usp=sharing
+[1302]: https://drive.google.com/file/d/1MjpxsdUqXY_PO-1MzFLqoiQQVNNxUz7M/view?usp=sharing
