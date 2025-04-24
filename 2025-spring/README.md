@@ -218,6 +218,8 @@ Chapter 10: Woman's Situation and Character, Chapter 14: The Independent Woman, 
 
 - Chapters 10 and 11 from [*The Origins of Totalitarianism*][1302] (1951) by Hannah Arendt.
 - "Truth in Politics" and "Lying in Politics" by Hannah Arendt. Link [here][1301].
+- Chapter 5, "Action Scripts: Rule of Code" in [*Virtual Migration*][1303] (2006) by A. Anish.
 
 [1301]: https://drive.google.com/file/d/1I-3FnllAirKRg81heOTiZsAECJ-lg9dr/view?usp=sharing
 [1302]: https://drive.google.com/file/d/18-h82BBxtJWc6WX3Q6OMdheyXMG6AThG/view?usp=drive_link
+[1303]: https://drive.google.com/file/d/1ghb8S99lQTjf4H70_m7kj0kHodhWOydh/view?usp=sharing
