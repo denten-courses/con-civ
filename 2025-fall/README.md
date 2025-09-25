@@ -1,15 +1,9 @@
 # Contemporary Civilization
 
-Section 29 | Fall 2025  
-Dennis Yi Tenen,   
-Columbia University  
 
-MW 4:10pm-6:00pm   
-707 Hamilton Hall  
-
-*Office Hours*   
-Wed 12–2pm (reserve by Google Cal invite)  
-Philosophy Hall 408e   
+| Section 29, Fall 2025<br>Dennis Yi Tenen,<br>Columbia University | MW 4:10pm–6:00pm<br>707 Hamilton Hall | *Office Hours*<br>Wed 12–2pm (reserve by Google Cal invite)<br>Philosophy Hall 408e |
+| --- | --- | --- |
+  
 
 ## Description
 
