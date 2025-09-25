@@ -7,8 +7,8 @@ Columbia University
 MW 4:10pm-6:00pm   
 707 Hamilton Hall 
 
-*Office Hours* 
-Wed 12–2pm (reserve by Google Cal invite) 
+*Office Hours*  
+Wed 12–2pm (reserve by Google Cal invite)  
 Philosophy Hall 408e
 
 
