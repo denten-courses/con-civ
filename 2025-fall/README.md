@@ -4,9 +4,12 @@ Section 29 | Fall 2025
 Dennis Yi Tenen,   
 Columbia University  
 
-*When?* MW 4:10pm-6:00pm   
-*Where?* 707 Hamilton Hall  
-*Office Hours* Wed 12--2pm (reserve by Google Cal invite), Philosophy Hall 408e  
+MW 4:10pm-6:00pm   
+707 Hamilton Hall  
+
+*Office Hours* 
+Wed 12--2pm (reserve by Google Cal invite) 
+Philosophy Hall 408e  
 
 ## Description
 
