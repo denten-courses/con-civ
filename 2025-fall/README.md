@@ -96,7 +96,7 @@ and Halt the Wicked," and 55 "How to Classify Old Texts and Give Title to the Bo
 - Seneca: Prepare 3-5 letters of your choosing from [*Moral Letters to Lucilius*][MLL] ~65 CE for discussion.
 - Augustine, *City of God* (~410 CE), Books V, ~~VIII~~, XII, and XIV
 
-[MLL]: https://en.wikisource.org/wiki/Moral_letters_to_Lucilius
+[MLL]: https://courseworks2.columbia.edu/courses/226113/files/folder/CC%20Reader%20-%20Fall?preview=24408301
 
 ### Week 8: Al-Andalus
 
