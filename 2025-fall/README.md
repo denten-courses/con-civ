@@ -94,7 +94,8 @@ and Halt the Wicked," and 55 "How to Classify Old Texts and Give Title to the Bo
 ### Week 7: Roman Thought
 
 - Seneca: Prepare 3-5 letters of your choosing from [*Moral Letters to Lucilius*][MLL] ~65 CE for discussion.
-- Augustine, *City of God* (~410 CE), Books V, ~~VIII~~, XII, and XIV
+- Augustine, *City of God* (~410 CE), Books V, ~~VIII~~, XII, XIV, and XIX (optional for
+2025).
 
 [MLL]: https://courseworks2.columbia.edu/courses/226113/files/folder/CC%20Reader%20-%20Fall?preview=24408301
 
@@ -115,7 +116,6 @@ and Halt the Wicked," and 55 "How to Classify Old Texts and Give Title to the Bo
 - Christine de Pizan, [*The Book of Body Politic*][83] (1407), pages 1-111.
 - ~~Julian of Norwich, Revelations of Divine Love (1450)~~
 - ~~In-class exercise on [Summa Theologiae][81] (1250) by Thomas Aquinas.~~
-
 
 [81]: https://www.newadvent.org/summa/
 [82]: https://www.college.columbia.edu/core/system/files/text/Revelations%20of%20Divine%20Love.pdf
