@@ -109,7 +109,7 @@ and Halt the Wicked," and 55 "How to Classify Old Texts and Give Title to the Bo
 
 [71]: https://www.muslimphilosophy.com/ik/Muqaddimah/Chapter6/Toc_Ch_6.htm
 [72]: https://www.college.columbia.edu/core/system/files/text/Maimonides.pdf
-[73]: https://drive.google.com/file/d/11oMcvcPTsaos64aSfMFuVz6xBkdPfYBG/view?usp=sharing
+[73]: https://courseworks2.columbia.edu/courses/226113/files/folder/CC%20Reader%20-%20Fall?preview=24408301
 
 ### Week 9: Medieval Europe
 
