@@ -26,10 +26,9 @@ the demonstrated ability of a text to provoke productive discussion.”
 
 ## Course Requirements and Grading
 
+* 25% Labs
 * 25% Class Participation
-* 25% Online Forum
-* 25% Study Guide
-* 25% Final Exam
+* 50% Final Exam
 
 ## Course Concepts and Policies
 
