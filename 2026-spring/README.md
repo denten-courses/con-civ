@@ -129,9 +129,13 @@ metric that rewards regular engagement with the material.
 
 ### Week 4
 
-- Jean-Jacques Rousseau, *Of the Social Contract, Or Principles of Political Right*, 1762:
-  Books I and II.
-- *Discourse on the Origin and Basis of Inequality Among Men* (1754), pages 45-92.
+- Jean-Jacques Rousseau, *Of the Social Contract, Or Principles of Political Right* (1762),
+Books I and II.
+- ~~*Discourse on the Origin and Basis of Inequality Among Men* (1754), pages 45-92.~~
+- David Hume, [*Enquiry Concerning Human Understanding*][4001] (1748), with emphasis on Chapter 4
+(Sceptical Doubt), 8 (Liberty and Necessity), 12 (Sceptical Philosophy)
+
+[4001]: https://www.earlymoderntexts.com/assets/pdfs/hume1748.pdf
 
 ### Week 5
 
