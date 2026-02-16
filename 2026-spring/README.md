@@ -150,7 +150,10 @@ Books I and II.
 ### Week 6
 
   - Sections II & III from Kant's [*Groundwork of the Metaphysics of Morals*][61] (~1770s).
-  - Immanuel Kant, “[Idea for a Universal History with a Cosmopolitan Aim][62]” (~1770s).
+  - G. W. F. Hegel, "[The Idea of History and its
+  Realization](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)"
+  and "[The Course of World
+  History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)" (~1850s).
 
 
 [61]: https://drive.google.com/file/d/14-w80K_tftICk8-Y4V82qO_7AZRXszeB/view?usp=sharing
@@ -160,11 +163,7 @@ Books I and II.
 
 - Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776): Book 1
   (Chapter 1-5), Book 4 (Chapter 7, 8).
- - G. W. F. Hegel, "[The Idea of History and its
-  Realization](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)"
-  and "[The Course of World
-  History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)" (~1850s).
-
+- Karl Marx, *Capital: A Critique of Political Economy* (1867): Part I, Chapter 1 (pages 41-96). I prefer you use the paper copy, but in case you don't have it the full text and the selection are [here][81].
 
 [81]: https://drive.google.com/drive/folders/1h0SPClwWiPkzu1OXOP4UwnlroW6_TAP9?usp=sharing
 [82]: https://archive.org/download/in.ernet.dli.2015.233884/2015.233884.The-Division_text.pdf
@@ -177,37 +176,27 @@ Books I and II.
 
 ### Week 8
 
-- Karl Marx, *Capital: A Critique of Political Economy* (1867): Part I, Chapter 1 (pages 41-96). I prefer you use the paper copy, but in case you don't have it the full text and the selection are [here][81].
-
-[701]: https://doi-org.ezproxy.cul.columbia.edu/10.1017/CBO9781139149785
-[702]: http://oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-xxx-writings-on-india
-[703]: https://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/ch07.htm
-[704]: https://courseworks2.columbia.edu/courses/93768/files?preview=7478777
-[705]: https://oll.libertyfund.org/title/bentham-an-introduction-to-the-principles-of-morals-and-legislation
-
-### Week 9
-
 - [*On the Advantage and Disadvantage of History for Life*][806] (1874) by Friedrich Nietzsche.
 - Chapter I, II, III in John Stewart Mill, [*On Liberty*][807] (1859).
 
 [806]: https://drive.google.com/file/d/1nr9nrSpdGeNG-V1Lm1i1Yv6KEXosYGqE/view?usp=sharing
 [807]: https://drive.google.com/file/d/1Y7CU785tEjZk8wNcda2H3U-88y3Mids7/view?usp=sharing
 
-### Week 10
+### Week 9
 
 - W.E.B. Du Bois, "[The Souls of White Folk][905]" and "Of Work and Wealth" from *Darkwater:
 Voices from within the Veil* (1920).
 
 [905]: https://drive.google.com/file/d/1CEPkFj-oEYDMEdi4xlAOicWznTKrRERe/view?usp=drive_link
 
-### Week 11
+### Week 10
 
 - Chapters I, V, VII, and VIII from [*Civilization and Its Discontents*][906] (1929) by Sigmund
 Freud.
 
 [906]: https://drive.google.com/file/d/1EPAcDwbq2xTaCa6TQvjILf7n2rk3-Diq/view?usp=sharing
 
-### Week 12
+### Week 11
 
 - Simone de Beauvoir, from [*Second Sex*][1104] (1949): Chapter 3: Historical Materialism,
 Chapter 10: Woman's Situation and Character, Chapter 14: The Independent Woman, and Conclusion.
@@ -218,10 +207,12 @@ Chapter 10: Woman's Situation and Character, Chapter 14: The Independent Woman, 
 [1203]: https://library.samford.edu/special/treasures/2013/graphics/SC4630wm.pdf
 [1105]: https://drive.google.com/file/d/1fkD1KfqA2d24--uEgC0a0d82I3oBVJg9/view?usp=sharing
 
+### Week 12
+
+- Selections from [*The Origins of Totalitarianism*][1302] (1951) by Hannah Arendt.
+
 ### Week 13
 
-- ~~Chapters 11 and 11 from [*The Origins of Totalitarianism*][1302] (1951) by Hannah Arendt.~~
-- "Truth in Politics" ~~and "Lying in Politics" by Hannah Arendt~~. Link [here][1301].
 - Chapter 5, "Action Scripts: Rule of Code" in [*Virtual Migration*][1303] (2006) by A. Anish.
 
 [1301]: https://drive.google.com/file/d/1I-3FnllAirKRg81heOTiZsAECJ-lg9dr/view?usp=sharing
