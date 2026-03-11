@@ -193,6 +193,7 @@ Voices from within the Veil* (1920).
 
 - Chapters I, V, VII, and VIII from [*Civilization and Its Discontents*][906] (1929) by Sigmund
 Freud.
+- Selections from [*The Open Society and its Enemies*][122] (1945) by Karl Popper.
 
 [906]: https://drive.google.com/file/d/1EPAcDwbq2xTaCa6TQvjILf7n2rk3-Diq/view?usp=sharing
 
@@ -200,8 +201,8 @@ Freud.
 
 - Simone de Beauvoir, from [*Second Sex*][1104] (1949): Chapter 3: Historical Materialism,
 Chapter 10: Woman's Situation and Character, Chapter 14: The Independent Woman, and Conclusion.
-- Pages 28-78 (the main essay) from [*Discourse on Colonialism*][1105] (1955) by Aimé Césaire.
-- "[Letter from a Birmingham Jail][1203]" (1963) by Martin Luther King Jr.
+- Selections from [*The Origins of Totalitarianism*][121] (1951) by Hannah Arendt.
+
 
 [1104]: https://drive.google.com/file/d/1-lMtLg2JTf22zmu_iOcvCg10rJxUehlA/view?usp=drive_link
 [1203]: https://library.samford.edu/special/treasures/2013/graphics/SC4630wm.pdf
@@ -209,12 +210,14 @@ Chapter 10: Woman's Situation and Character, Chapter 14: The Independent Woman, 
 
 ### Week 12
 
-- Selections from [*The Origins of Totalitarianism*][1302] (1951) by Hannah Arendt.
+- Selections from *Only Words* (1993) by Catharine MacKinnon.
+
+[121]: https://drive.google.com/file/d/18-h82BBxtJWc6WX3Q6OMdheyXMG6AThG/view?usp=drive_link
+[122]: https://drive.google.com/file/d/10vXaaBoKE3XXjgAj8SygQXLE_mzvSsIG/view?usp=sharing
 
 ### Week 13
 
 - Chapter 5, "Action Scripts: Rule of Code" in [*Virtual Migration*][1303] (2006) by A. Anish.
 
 [1301]: https://drive.google.com/file/d/1I-3FnllAirKRg81heOTiZsAECJ-lg9dr/view?usp=sharing
-[1302]: https://drive.google.com/file/d/18-h82BBxtJWc6WX3Q6OMdheyXMG6AThG/view?usp=drive_link
 [1303]: https://drive.google.com/file/d/1ghb8S99lQTjf4H70_m7kj0kHodhWOydh/view?usp=sharing
