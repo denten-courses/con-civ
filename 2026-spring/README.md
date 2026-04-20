@@ -191,33 +191,24 @@ Voices from within the Veil* (1920).
 
 ### Week 10
 
-- Chapters I, V, VII, and VIII from [*Civilization and Its Discontents*][906] (1929) by Sigmund
-Freud.
-- Selections from [*The Open Society and its Enemies*][122] (1945) by Karl Popper.
-
-[906]: https://drive.google.com/file/d/1EPAcDwbq2xTaCa6TQvjILf7n2rk3-Diq/view?usp=sharing
+- Readings from the "Centering Du Bois" assignment.
 
 ### Week 11
 
-- Simone de Beauvoir, from [*Second Sex*][1104] (1949): Chapter 3: Historical Materialism,
-Chapter 10: Woman's Situation and Character, Chapter 14: The Independent Woman, and Conclusion.
-- Selections from [*The Origins of Totalitarianism*][121] (1951) by Hannah Arendt.
+- From Sartre's [*Being and Nothingness*][1101]: Part I, Chapter 1: The Origin of Negation,
+Part I, Chapter 2: Bad Faith; Part III, Chapter 1: The Look.
 
+- Simone de Beauvoir, from [*Second Sex*][1104] (1949). Volume I, "Introduction." Volume II,
+Chapter 5, "The Married Woman." Volume II, Chapter 10: Woman’s Situation and Character and
+"Conclusion"
 
 [1104]: https://drive.google.com/file/d/1-lMtLg2JTf22zmu_iOcvCg10rJxUehlA/view?usp=drive_link
-[1203]: https://library.samford.edu/special/treasures/2013/graphics/SC4630wm.pdf
-[1105]: https://drive.google.com/file/d/1fkD1KfqA2d24--uEgC0a0d82I3oBVJg9/view?usp=sharing
+[1101]: https://drive.google.com/file/d/1gR8Qxryp37ZAoHzpQ2DclDXn9-Zx2gx0/view?usp=sharing
 
 ### Week 12
 
-- Selections from *Only Words* (1993) by Catharine MacKinnon.
+- Selections from [*The Origins of Totalitarianism*][121] (1951) by Hannah Arendt. Democracy
+- Selections from *Incorporated: Managed Democracy and the Specter of Inverted Totalitarianism*
+(2008) by Sheldon Wolin.
 
-[121]: https://drive.google.com/file/d/18-h82BBxtJWc6WX3Q6OMdheyXMG6AThG/view?usp=drive_link
-[122]: https://drive.google.com/file/d/10vXaaBoKE3XXjgAj8SygQXLE_mzvSsIG/view?usp=sharing
 
-### Week 13
-
-- Chapter 5, "Action Scripts: Rule of Code" in [*Virtual Migration*][1303] (2006) by A. Anish.
-
-[1301]: https://drive.google.com/file/d/1I-3FnllAirKRg81heOTiZsAECJ-lg9dr/view?usp=sharing
-[1303]: https://drive.google.com/file/d/1ghb8S99lQTjf4H70_m7kj0kHodhWOydh/view?usp=sharing
