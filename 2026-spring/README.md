@@ -207,8 +207,12 @@ Chapter 5, "The Married Woman." Volume II, Chapter 10: Woman’s Situation and C
 
 ### Week 12
 
-- Selections from *The Origins of Totalitarianism* (1951) by Hannah Arendt. Democracy
-- Selections from *Incorporated: Managed Democracy and the Specter of Inverted Totalitarianism*
-(2008) by Sheldon Wolin.
+- Chapter 11, "Totalitarian Movement" and Chapter 13, "Ideology and Terror" from [*The Origins
+of Totalitarianism*][1201] (1951) by Hannah Arendt.
+- Introduction and Chapter 1, "Myth in the Making" from [*Incorporated: Managed Democracy and
+the Specter of Inverted Totalitarianism*][1202] (2008) by Sheldon Wolin.
+
+[1201]: https://drive.google.com/file/d/1MEE2MIgJGJMCaVAbGbXIdBGSXfZQ2rna/view?usp=sharing
+[1202]: https://drive.google.com/file/d/1pbXZtEh3V_UgaQGxEbSfn9PYjX9Affqz/view?usp=drive_link
 
 
